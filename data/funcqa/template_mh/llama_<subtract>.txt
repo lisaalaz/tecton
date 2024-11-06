@@ -1,0 +1,16 @@
+Answer the following question with the operator <subtract>:
+
+Q: If a store has 490 pencils and sells 50 pencils, how many pencils are left?
+A: The store has 490-50=<subtract>(490, 50)=440 pencils left.
+
+Q: A restaurant has 311 bottles of soda in stock. They use 226 bottles of soda to serve customers today. How many bottles of soda are left in the restaurant?
+A: The restaurant initially has 311 bottles of soda, and 226 bottles of soda are used, so now there are 311-226=<subtract>(311, 226)=85 bottles of soda left.
+
+Q: A person had 377 books in their backpack. They took out 64 books to read and left the rest in the backpack. How many books are left in the backpack?
+A: The person has 377-64=<subtract>(377, 64)=313 books left in the backpack.
+
+Q: A person had 209 books in their backpack. They took out 11 books to read and left the rest in the backpack. How many books are left in the backpack?
+A: The person has 209-11=<subtract>(209, 11)=198 books left in the backpack.
+
+Q: [QUESTION]
+A:

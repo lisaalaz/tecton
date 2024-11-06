@@ -1,0 +1,16 @@
+Answer the following question with the operator <ln>:
+
+Q: If e^x=1160, what is x?
+A: If e^x=1160, then x=ln(1160)=<ln>(1160)=7.06.
+
+Q:  ln(6281.3) is equal to what?
+A: ln(6281.3)=<ln>(6281.3)=8.75.
+
+Q:  ln(5451) is equal to what?
+A: ln(5451)=<ln>(5451)=8.6.
+
+Q: If e^x=9934, what is x?
+A: If e^x=9934, then x=ln(9934)=<ln>(9934)=9.2.
+
+Q: [QUESTION]
+A:

@@ -1,0 +1,16 @@
+Answer the following question with the operator <power>:
+
+Q: A bacteria culture doubles every 3 hours. Starting with one bacterium, how many bacteria will there be after 39 hours?
+A: After 11 hours, the number of the bacteria will be 2^(39/3)=<power>(2, 39/3)=8192.
+
+Q: A bacteria colony doubles every 5 minutes. How many times will the colony be in 8 minutes?
+A: The colony will be 2^(8/5)=<power>(2, 8/5)=3.03 times in 8 minutes.
+
+Q: A computer's hard drive has certain gigabytes capacity. If a user stores twice the amount of data every year, how many times will the amount of data stored on the hard drive increase after 7 years?
+A: After 7 years, the amount of data stored on the hard drive will increase by 2^7=<power>(2, 7)=128 times.
+
+Q: A smartphone battery drains at a rate of 18% per hour. If it is fully charged right now, how much battery life will it have after 10 hours?
+A: After 10 hours, the smartphone will have 0.82^10=<power>(0.82, 10)=0.14 of its original battery life.
+
+Q: [QUESTION]
+A:

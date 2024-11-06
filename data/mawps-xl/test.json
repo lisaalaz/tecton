@@ -1,0 +1,2082 @@
+[
+  {
+    "question": "Jacqueline had 13639 Book. Christine clasped some Book. Now Jacqueline has 11847  Book. How many did Christine claspeds?",
+    "answer": "1792",
+    "func": "13639-11847"
+  },
+  {
+    "question": "Dan found 46489 seashells on the beach, he gave Jessica some of his seashells. He has 12299 seashell left. How many seashells did he give to Jessica ?",
+    "answer": "34190",
+    "func": "46489-12299"
+  },
+  {
+    "question": "Christopher obtain 1 bags of kiwi . how many kiwi in each bag? If total 78341 kiwi Christopher  obtain.",
+    "answer": "78341.0",
+    "func": "78341/1"
+  },
+  {
+    "question": "Teresa wants to share some cherry among 1718 friends.If each friend get 50594 cherry, then how many cherry john would have?",
+    "answer": "86920492",
+    "func": "50594*1718"
+  },
+  {
+    "question": "Alberta wants to distribute 38354 Watchs among 151 friends. How many would each friend obtain?",
+    "answer": "254.0",
+    "func": "38354/151"
+  },
+  {
+    "question": "Russell wants to sunder 73440 Breads among 90 friends. How many would each friend come by?",
+    "answer": "816.0",
+    "func": "73440/90"
+  },
+  {
+    "question": "William had some apple. Larry took 68403 from him. Now William has 75068 apple. How many apple William had at first?",
+    "answer": "143471",
+    "func": "75068+68403"
+  },
+  {
+    "question": "Kesha has 89926 Marbles. Charlotte gave him 22328 more. How many Marbles does Kesha have combined?",
+    "answer": "112254",
+    "func": "22328+89926"
+  },
+  {
+    "question": "Lisa had 50004 Pen. Alfred took 18299 from him. Now How many Pen Lisa have reduced?",
+    "answer": "182971705",
+    "func": "182990004-18299"
+  },
+  {
+    "question": "Ora had 39570 Book . He mince each Book into 35348 slices . How many Book slices did Ora make?",
+    "answer": "13983868165560",
+    "func": "353395708*39570"
+  },
+  {
+    "question": "Daniel obtain 1 bags of Box . how many Box in each bag? If total 35281 Box Daniel  obtain.",
+    "answer": "35281.0",
+    "func": "35281/1"
+  },
+  {
+    "question": "Gordon snap up 2 bags of coconut . how many coconut in each bag? If total 57074 coconut Gordon  snap up.",
+    "answer": "28537.0",
+    "func": "57074/2"
+  },
+  {
+    "question": "Ella had some Pen. Byron took 39390 from him. Now Ella has 55295 Pen. How many Pen Ella had incipiently?",
+    "answer": "94685",
+    "func": "55295+39390"
+  },
+  {
+    "question": "Edith wants to share some Mango among 10183 friends.If each friend get 63570 Mango, then how many Mango john would have?",
+    "answer": "647333310",
+    "func": "63570*10183"
+  },
+  {
+    "question": "Barbara had 33091 watermelon . He slice each watermelon into 47434 slices . How many watermelon slices did Barbara make?",
+    "answer": "1569638494",
+    "func": "47434*33091"
+  },
+  {
+    "question": "Daisy had some cherry. Edward gave him 82025 more. Now Daisy has 32422 cherry. How many cherry did Daisy have originally?",
+    "answer": "38202548202500000",
+    "func": "38202548202582025-82025"
+  },
+  {
+    "question": "Scott had 77932 Biscuit . He slice each Biscuit into 65086 slices . How many Biscuit slices did Scott make?",
+    "answer": "5072282152",
+    "func": "65086*77932"
+  },
+  {
+    "question": "John wants to share some Pen among 25731 friends.If each friend get 80929 Pen, then how many Pen john would have?",
+    "answer": "2082384099",
+    "func": "80929*25731"
+  },
+  {
+    "question": "Patricia had 60113 quinces. He dispenses all quinces evenly among some friends. How many friends were there, If each of his friend get 1 quinces?",
+    "answer": "60113.0",
+    "func": "60113/1"
+  },
+  {
+    "question": "Rosa had 17859 mango. Danny took 988 from him. Now How many mango Rosa have left over?",
+    "answer": "16871",
+    "func": "17859-988"
+  },
+  {
+    "question": "Samuel wants to divide 51965 peachs among 19 friends. How many would each friend achieve?",
+    "answer": "2735.0",
+    "func": "51965/19"
+  },
+  {
+    "question": "Alice had some Mango. Virginia gave him 43294 more. Now Alice has 81390 Mango. How many Mango did Alice have at first?",
+    "answer": "813389646",
+    "func": "813432940-43294"
+  },
+  {
+    "question": "Julie has 85433 Marbles. Jeffrey gave him 56542 more. How many Marbles does Julie have in all?",
+    "answer": "141975",
+    "func": "56542+85433"
+  },
+  {
+    "question": "Vernon had 78009 Mango. Eric gripped some Mango. Now Vernon has 39479  Mango. How many did Eric grippeds?",
+    "answer": "38530",
+    "func": "78009-39479"
+  },
+  {
+    "question": "Sarah wants to share some papaya among 79165 friends.If each friend get 42131 papaya, then how many papaya john would have?",
+    "answer": "62671140950615",
+    "func": "791652131*79165"
+  },
+  {
+    "question": "Lindsey had some Chocolate. He chop each Chocolate into 29 slices. If total 91234 Chocolate slices Lindsey make, then how many Chocolate Lindsey had?",
+    "answer": "3146.0",
+    "func": "91234/29"
+  },
+  {
+    "question": "Rita had some blueberry. Patricia took 41281 from him. Now Rita has 62885 blueberry. How many blueberry Rita had at first?",
+    "answer": "104166",
+    "func": "62885+41281"
+  },
+  {
+    "question": "Earl has 52299 Marbles. Joseph gave him 23384 more. How many Marbles does Earl have total?",
+    "answer": "75683",
+    "func": "23384+52299"
+  },
+  {
+    "question": "Linda had some strawberry. He cut each strawberry into 9 slices. If total 41931 strawberry slices Linda make, then how many strawberry Linda had?",
+    "answer": "4659.0",
+    "func": "41931/9"
+  },
+  {
+    "question": "Beth wants to share some banana among 91190 friends.If each friend get 96422 banana, then how many banana john would have?",
+    "answer": "8792722180",
+    "func": "96422*91190"
+  },
+  {
+    "question": "Carla has 64458 Marbles. Aaron gave him 83056 more. How many Marbles does Carla have total?",
+    "answer": "147514",
+    "func": "83056+64458"
+  },
+  {
+    "question": "Jason had 75582 quarters in his bank. His dad gave him 31876 more quarters. How many quarters does he have now ?",
+    "answer": "107458",
+    "func": "75582+31876"
+  },
+  {
+    "question": "Anthony wants to impart 42815 strawberrys among 5 friends. How many would each friend receive?",
+    "answer": "8563.0",
+    "func": "42815/5"
+  },
+  {
+    "question": "William has 51603 Marbles. George gave him 36840 more. How many Marbles does William have all together?",
+    "answer": "88443",
+    "func": "36840+51603"
+  },
+  {
+    "question": "Nancy wants to share some lychee among 77725 friends.If each friend get 26289 lychee, then how many lychee john would have?",
+    "answer": "2043312525",
+    "func": "26289*77725"
+  },
+  {
+    "question": "Nathan has 23684 Marbles. Roland gave him 71617 more. How many Marbles does Nathan have total?",
+    "answer": "95301",
+    "func": "71617+23684"
+  },
+  {
+    "question": "Martin had some Box. Robert gave him 3628 more. Now Martin has 89454 Box. How many Box did Martin have incipiently?",
+    "answer": "85826",
+    "func": "89454-3628"
+  },
+  {
+    "question": "Hallie wants to share some orange among 60606 friends.If each friend get 95418 orange, then how many orange john would have?",
+    "answer": "5782903308",
+    "func": "95418*60606"
+  },
+  {
+    "question": "Richard had 92948 peach. Amelia took 57570 from him. Now How many peach Richard have removed?",
+    "answer": "35378",
+    "func": "92948-57570"
+  },
+  {
+    "question": "Sherry wants to split 88309 Pens among 13 friends. How many would each friend earn?",
+    "answer": "6793.0",
+    "func": "88309/13"
+  },
+  {
+    "question": "Andrew had 18343 pears. He divides all pears evenly among some friends. How many friends were there, If each of his friend get 1079.0 pears?",
+    "answer": "17.0",
+    "func": "18343/1079.0"
+  },
+  {
+    "question": "Kerry had some Book. Elizabeth took 31823 from him. Now Kerry has 39793 Book. How many Book Kerry had in the beginning?",
+    "answer": "71616",
+    "func": "39793+31823"
+  },
+  {
+    "question": "Brian has 86433 Marbles. Rose gave him 33220 more. How many Marbles does Brian have all?",
+    "answer": "119653",
+    "func": "33220+86433"
+  },
+  {
+    "question": "Mary had some strawberry. He hash each strawberry into 564.0 slices. If total 20304 strawberry slices Mary make, then how many strawberry Mary had?",
+    "answer": "36.0",
+    "func": "20304/564.0"
+  },
+  {
+    "question": "Amber has 9795 Marbles. William gave him 49513 more. How many Marbles does Amber have together?",
+    "answer": "59308",
+    "func": "49513+9795"
+  },
+  {
+    "question": "Lula had 70141 toy. Ernest granted him some more. Now Lula has 76416 toy. How many did Ernest grant him?",
+    "answer": "6275",
+    "func": "76416-70141"
+  },
+  {
+    "question": "Judy wants to share some toy among 47225 friends.If each friend get 4919 toy, then how many toy john would have?",
+    "answer": "232299775",
+    "func": "4919*47225"
+  },
+  {
+    "question": "Donald had 77934 pineapple. Paula presented him some more. Now Donald has 92065 pineapple. How many did Paula present him?",
+    "answer": "14131",
+    "func": "92065-77934"
+  },
+  {
+    "question": "Geneva invest 3 bags of orange . how many orange in each bag? If total 83748 orange Geneva  invest.",
+    "answer": "27916.0",
+    "func": "83748/3"
+  },
+  {
+    "question": "Jacquelynn has 87223 Marbles. Edward gave him 86294 more. How many Marbles does Jacquelynn have altogether?",
+    "answer": "173517",
+    "func": "86294+87223"
+  },
+  {
+    "question": "Candice wants to share some Beg among 80405 friends.If each friend get 84904 Beg, then how many Beg john would have?",
+    "answer": "6826706120",
+    "func": "84904*80405"
+  },
+  {
+    "question": "Lee get hold of 179.0 bags of blueberry . how many blueberry in each bag? If total 5907 blueberry Lee  get hold of.",
+    "answer": "1.0005067039106146",
+    "func": "179.0907/179.0"
+  },
+  {
+    "question": "Georgina has 88898 Marbles. Shirley gave him 84646 more. How many Marbles does Georgina have altogether?",
+    "answer": "173544",
+    "func": "84646+88898"
+  },
+  {
+    "question": "Adriana pick up 369.0 bags of Flower . how many Flower in each bag? If total 84870 Flower Adriana  pick up.",
+    "answer": "230.0",
+    "func": "84870/369.0"
+  },
+  {
+    "question": "Peter had 98756 blueberry. Carmen clutched some blueberry. Now Peter has 56521  blueberry. How many did Carmen clutcheds?",
+    "answer": "42235",
+    "func": "98756-56521"
+  },
+  {
+    "question": "Martha had 13987 fig. Lois took 13025 from him. Now How many fig Martha have left?",
+    "answer": "962",
+    "func": "13987-13025"
+  },
+  {
+    "question": "Anne wants to share some Book among 29199 friends.If each friend get 34014 Book, then how many Book john would have?",
+    "answer": "993174786",
+    "func": "34014*29199"
+  },
+  {
+    "question": "Samuel had 58530 toy. Harry furnished him some more. Now Samuel has 67036 toy. How many did Harry furnish him?",
+    "answer": "8506",
+    "func": "67036-58530"
+  },
+  {
+    "question": "Carl had 51367 orange . He cut up each orange into 49137 slices . How many orange slices did Carl make?",
+    "answer": "2524020279",
+    "func": "49137*51367"
+  },
+  {
+    "question": "Carrie had some raspberry. He cut up each raspberry into 4544.0 slices. If total 77248 raspberry slices Carrie make, then how many raspberry Carrie had?",
+    "answer": "17.0",
+    "func": "77248/4544.0"
+  },
+  {
+    "question": "Peggy wants to share some Biscuit among 19859 friends.If each friend get 65698 Biscuit, then how many Biscuit john would have?",
+    "answer": "1304696582",
+    "func": "65698*19859"
+  },
+  {
+    "question": "Teresa had 45316 Breads. He sunders all Breads evenly among some friends. How many friends were there, If each of his friend get 1 Breads?",
+    "answer": "45316.0",
+    "func": "45316/1"
+  },
+  {
+    "question": "Veronica pick up 6 bags of avocado . how many avocado in each bag? If total 63378 avocado Veronica  pick up.",
+    "answer": "10563.0",
+    "func": "63378/6"
+  },
+  {
+    "question": "Amanda wants to diverge 38823 figs among 3 friends. How many would each friend acquire?",
+    "answer": "12941.0",
+    "func": "38823/3"
+  },
+  {
+    "question": "Raymond had some Banana. Sandra took 45757 from him. Now Raymond has 18670 Banana. How many Banana Raymond had at first?",
+    "answer": "64427",
+    "func": "18670+45757"
+  },
+  {
+    "question": "Irene wants to diverge 40981 Pens among 107 friends. How many would each friend come by?",
+    "answer": "383.0",
+    "func": "40981/107"
+  },
+  {
+    "question": "Richard had 59782 Flower. Erica clasped some Flower. Now Richard has 27215  Flower. How many did Erica claspeds?",
+    "answer": "32567",
+    "func": "59782-27215"
+  },
+  {
+    "question": "Bryan had 68404 precious stones in his collection which he sold to his friend from the jewelry store. If the stones were sold at 63399 dollar each, how much money did Bryan get in total?",
+    "answer": "1209659414180",
+    "func": "68404*17684045"
+  },
+  {
+    "question": "Yolanda had some Doll. Sheena took 62512 from him. Now Yolanda has 45753 Doll. How many Doll Yolanda had primitively?",
+    "answer": "108265",
+    "func": "45753+62512"
+  },
+  {
+    "question": "James snap up 248.0 bags of strawberry . how many strawberry in each bag? If total 12896 strawberry James  snap up.",
+    "answer": "52.0",
+    "func": "12896/248.0"
+  },
+  {
+    "question": "Roland wants to share some watermelon among 91427 friends.If each friend get 94734 watermelon, then how many watermelon john would have?",
+    "answer": "8661245418",
+    "func": "94734*91427"
+  },
+  {
+    "question": "Deborah had some papaya. Courtney took 41901 from him. Now Deborah has 59404 papaya. How many papaya Deborah had to begin with?",
+    "answer": "101305",
+    "func": "59404+41901"
+  },
+  {
+    "question": "Richard had 8905 kiwi. Joe grasped some kiwi. Now Richard has 5957  kiwi. How many did Joe graspeds?",
+    "answer": "2948",
+    "func": "8905-5957"
+  },
+  {
+    "question": "Jesse had 15185 blackberry . He cut up each blackberry into 93264 slices . How many blackberry slices did Jesse make?",
+    "answer": "13897088233840",
+    "func": "915185264*15185"
+  },
+  {
+    "question": "Paul wants to impart 3061 mangos among 1 friends. How many would each friend experience?",
+    "answer": "3061.0",
+    "func": "3061/1"
+  },
+  {
+    "question": "Shirley has 14435 Marbles. Betty gave him 85031 more. How many Marbles does Shirley have combined?",
+    "answer": "99466",
+    "func": "85031+14435"
+  },
+  {
+    "question": "Sylvia had some mango. Eugene took 21643 from him. Now Sylvia has 88855 mango. How many mango Sylvia had earlier?",
+    "answer": "110498",
+    "func": "88855+21643"
+  },
+  {
+    "question": "April had 97158 peachs. He distributes all peachs evenly among some friends. How many friends were there, If each of his friend get 2 peachs?",
+    "answer": "48579.0",
+    "func": "97158/2"
+  },
+  {
+    "question": "Thomas had 67733 nectarines. He diverges all nectarines evenly among some friends. How many friends were there, If each of his friend get 1 nectarines?",
+    "answer": "67733.0",
+    "func": "67733/1"
+  },
+  {
+    "question": "Catherine wants to divide 72440 cherrys among 4 friends. How many would each friend come by?",
+    "answer": "18110.0",
+    "func": "72440/4"
+  },
+  {
+    "question": "Ed had 73481 Bread . He cut each Bread into 43484 slices . How many Bread slices did Ed make?",
+    "answer": "3195247804",
+    "func": "43484*73481"
+  },
+  {
+    "question": "Kelley had 55986 Chocolates. He dispenses all Chocolates evenly among some friends. How many friends were there, If each of his friend get 27993.0 Chocolates?",
+    "answer": "2.0",
+    "func": "55986/27993.0"
+  },
+  {
+    "question": "Robert wants to impart 60663 Breads among 3 friends. How many would each friend receive?",
+    "answer": "20221.0",
+    "func": "60663/3"
+  },
+  {
+    "question": "Duane had some toy. Cecilia gave him 24277 more. Now Duane has 53191 toy. How many toy did Duane have originally?",
+    "answer": "28914",
+    "func": "53191-24277"
+  },
+  {
+    "question": "Marguerite wants to sunder 24531 Boxs among 629.0 friends. How many would each friend acquire?",
+    "answer": "39.0",
+    "func": "24531/629.0"
+  },
+  {
+    "question": "Harold wants to share some Mango among 56741 friends.If each friend get 86255 Mango, then how many Mango john would have?",
+    "answer": "4894194955",
+    "func": "86255*56741"
+  },
+  {
+    "question": "Crystal had some blackcurrant. Gail took 3927 from him. Now Crystal has 51950 blackcurrant. How many blackcurrant Crystal had originally?",
+    "answer": "55877",
+    "func": "51950+3927"
+  },
+  {
+    "question": "Keith wants to share some Biscuit among 80593 friends.If each friend get 96751 Biscuit, then how many Biscuit john would have?",
+    "answer": "7797453343",
+    "func": "96751*80593"
+  },
+  {
+    "question": "Chris had some toy. Catherine took 59027 from him. Now Chris has 25964 toy. How many toy Chris had to begin with?",
+    "answer": "84991",
+    "func": "25964+59027"
+  },
+  {
+    "question": "William has 56403 Marbles. Alma gave him 77722 more. How many Marbles does William have how much?",
+    "answer": "134125",
+    "func": "77722+56403"
+  },
+  {
+    "question": "Tracy had some Book. Steve took 684 from him. Now Tracy has 51066 Book. How many Book Tracy had at first?",
+    "answer": "51750",
+    "func": "51066+684"
+  },
+  {
+    "question": "Vivien wants to share some Pen among 28254 friends.If each friend get 92472 Pen, then how many Pen john would have?",
+    "answer": "2612703888",
+    "func": "92472*28254"
+  },
+  {
+    "question": "Frances had 36584 blueberry . He cut up each blueberry into 27073 slices . How many blueberry slices did Frances make?",
+    "answer": "86551903944000312",
+    "func": "2365840365843*36584"
+  },
+  {
+    "question": "Sandra had 92344 blackberry . He mince each blackberry into 98709 slices . How many blackberry slices did Sandra make?",
+    "answer": "9115183896",
+    "func": "98709*92344"
+  },
+  {
+    "question": "Melvin pick up 2767.0 bags of toy . how many toy in each bag? If total 8301 toy Melvin  pick up.",
+    "answer": "3.0",
+    "func": "8301/2767.0"
+  },
+  {
+    "question": "Darrell has 48046 Marbles. Michael gave him 24606 more. How many Marbles does Darrell have together?",
+    "answer": "72652",
+    "func": "24606+48046"
+  },
+  {
+    "question": "Priscilla buy 43 bags of Book . how many Book in each bag? If total 42828 Book Priscilla  buy.",
+    "answer": "996.0",
+    "func": "42828/43"
+  },
+  {
+    "question": "Jackie has 15037 Marbles. Alia gave him 60073 more. How many Marbles does Jackie have combined?",
+    "answer": "75110",
+    "func": "60073+15037"
+  },
+  {
+    "question": "Jose had 83870 Doll. Andrew get hold of some Doll. Now Jose has 78347  Doll. How many did Andrew get hold ofs?",
+    "answer": "5523",
+    "func": "83870-78347"
+  },
+  {
+    "question": "Michelle had 15073 blackcurrant . He cut each blackcurrant into 77040 slices . How many blackcurrant slices did Michelle make?",
+    "answer": "1161223920",
+    "func": "77040*15073"
+  },
+  {
+    "question": "Norma has 46236 Marbles. Celia gave him 45704 more. How many Marbles does Norma have total?",
+    "answer": "4616111",
+    "func": "45704+4570407"
+  },
+  {
+    "question": "Doris acquire 1279.0 bags of mango . how many mango in each bag? If total 60113 mango Doris  acquire.",
+    "answer": "47.0",
+    "func": "60113/1279.0"
+  },
+  {
+    "question": "Angie wants to diverge 22714 cherrys among 11357.0 friends. How many would each friend achieve?",
+    "answer": "2.0",
+    "func": "22714/11357.0"
+  },
+  {
+    "question": "Geraldine had 88389 blackcurrants. He splits all blackcurrants evenly among some friends. How many friends were there, If each of his friend get 29463.0 blackcurrants?",
+    "answer": "3.0",
+    "func": "88389/29463.0"
+  },
+  {
+    "question": "Diana invest 4343.0 bags of pear . how many pear in each bag? If total 39087 pear Diana  invest.",
+    "answer": "9.0",
+    "func": "39087/4343.0"
+  },
+  {
+    "question": "Chris had 15549 apricot. Robert confered him some more. Now Chris has 17657 apricot. How many did Robert confer him?",
+    "answer": "2108",
+    "func": "17657-15549"
+  },
+  {
+    "question": "Michael had 31371 watermelons. He imparts all watermelons evenly among some friends. How many friends were there, If each of his friend get 3 watermelons?",
+    "answer": "10457.0",
+    "func": "31371/3"
+  },
+  {
+    "question": "John had 15429 toys. He shares all toys evenly among some friends. How many friends were there, If each of his friend get 3 toys?",
+    "answer": "5143.0",
+    "func": "15429/3"
+  },
+  {
+    "question": "Mary had 49030 Biscuit. Dwayne took 18629 from him. Now How many Biscuit Mary have left over?",
+    "answer": "30401",
+    "func": "49030-18629"
+  },
+  {
+    "question": "Phyllis had some Book. He cube each Book into 17 slices. If total 51017 Book slices Phyllis make, then how many Book Phyllis had?",
+    "answer": "3001.0",
+    "func": "51017/17"
+  },
+  {
+    "question": "Leona had 18171 Doll . He cut up each Doll into 78275 slices . How many Doll slices did Leona make?",
+    "answer": "1422335025",
+    "func": "78275*18171"
+  },
+  {
+    "question": "Mary had some lemon. Elizabeth gave him 55549 more. Now Mary has 75441 lemon. How many lemon did Mary have initially?",
+    "answer": "754400000",
+    "func": "754455549-55549"
+  },
+  {
+    "question": "Gary wants to dispense 24448 apples among 128 friends. How many would each friend receive?",
+    "answer": "191.0",
+    "func": "24448/128"
+  },
+  {
+    "question": "Ernestine wants to share 83397 toys among 27799.0 friends. How many would each friend receive?",
+    "answer": "3.0",
+    "func": "83397/27799.0"
+  },
+  {
+    "question": "Edwin had 90990 Car. Shane took 22807 from him. Now How many Car Edwin have removed?",
+    "answer": "22807022807205263",
+    "func": "22807022807228070-22807"
+  },
+  {
+    "question": "Edward procure 3 bags of Book . how many Book in each bag? If total 72834 Book Edward  procure.",
+    "answer": "24278.0",
+    "func": "72834/3"
+  },
+  {
+    "question": "Edward had 64279 Watchs. He imparts all Watchs evenly among some friends. How many friends were there, If each of his friend get 1 Watchs?",
+    "answer": "64279.0",
+    "func": "64279/1"
+  },
+  {
+    "question": "Michael had 18489 Books. He distributes all Books evenly among some friends. How many friends were there, If each of his friend get 1 Books?",
+    "answer": "18489.0",
+    "func": "18489/1"
+  },
+  {
+    "question": "Kelvin had 7127 lemon. Vera awarded him some more. Now Kelvin has 59214 lemon. How many did Vera award him?",
+    "answer": "52087",
+    "func": "59214-7127"
+  },
+  {
+    "question": "Kathryn had some lychee. Pauline took 1357 from him. Now Kathryn has 47160 lychee. How many lychee Kathryn had initially?",
+    "answer": "48517",
+    "func": "47160+1357"
+  },
+  {
+    "question": "Val has 17996 Marbles. Pearlie gave him 63619 more. How many Marbles does Val have increased by?",
+    "answer": "81615",
+    "func": "63619+17996"
+  },
+  {
+    "question": "Christopher had some apple. He divide each apple into 917.0 slices. If total 25676 apple slices Christopher make, then how many apple Christopher had?",
+    "answer": "1.0000737186477644",
+    "func": "917.0676/917.0"
+  },
+  {
+    "question": "Natalie had 85700 blackberry. Bill contributeed him some more. Now Natalie has 73708 blackberry. How many did Bill contribute him?",
+    "answer": "785615008",
+    "func": "785700708-85700"
+  },
+  {
+    "question": "William had some plum. He cube each plum into 1882.0 slices. If total 54578 plum slices William make, then how many plum William had?",
+    "answer": "29.0",
+    "func": "54578/1882.0"
+  },
+  {
+    "question": "Angel had some Biscuit. Lois took 64155 from him. Now Angel has 58277 Biscuit. How many Biscuit Angel had in the beginning?",
+    "answer": "122432",
+    "func": "58277+64155"
+  },
+  {
+    "question": "Roger had 74208 Biscuit. Joseph granted him some more. Now Roger has 22023 Biscuit. How many did Joseph grant him?",
+    "answer": "27346615",
+    "func": "27420823-74208"
+  },
+  {
+    "question": "Rebecca acquire 1 bags of Press . how many Press in each bag? If total 4145 Press Rebecca  acquire.",
+    "answer": "4145.0",
+    "func": "4145/1"
+  },
+  {
+    "question": "Evan has 4386 Marbles. Maria gave him 38385 more. How many Marbles does Evan have how much?",
+    "answer": "42771",
+    "func": "38385+4386"
+  },
+  {
+    "question": "Cammie had some peach. Nicole took 22148 from him. Now Cammie has 37937 peach. How many peach Cammie had in the first?",
+    "answer": "60085",
+    "func": "37937+22148"
+  },
+  {
+    "question": "David wants to share some Chocolate among 74241 friends.If each friend get 60043 Chocolate, then how many Chocolate john would have?",
+    "answer": "4457652363",
+    "func": "60043*74241"
+  },
+  {
+    "question": "Oma had some Beg. Jamie gave him 72154 more. Now Oma has 97424 Beg. How many Beg did Oma have to begin with?",
+    "answer": "25270",
+    "func": "97424-72154"
+  },
+  {
+    "question": "Mary had some Press. He dice each Press into 3 slices. If total 67053 Press slices Mary make, then how many Press Mary had?",
+    "answer": "22351.0",
+    "func": "67053/3"
+  },
+  {
+    "question": "Mildred has 15070 Marbles. Carlos gave him 75167 more. How many Marbles does Mildred have all?",
+    "answer": "90237",
+    "func": "75167+15070"
+  },
+  {
+    "question": "Robert had some cherry. Ruth gave him 99716 more. Now Robert has 99294 cherry. How many cherry did Robert have in the first?",
+    "answer": "992900000",
+    "func": "992999716-99716"
+  },
+  {
+    "question": "Julia wants to divide 94339 Flowers among 7 friends. How many would each friend achieve?",
+    "answer": "13477.0",
+    "func": "94339/7"
+  },
+  {
+    "question": "Beulah had 28745 avocado . He divide each avocado into 71712 slices . How many avocado slices did Beulah make?",
+    "answer": "2061361440",
+    "func": "71712*28745"
+  },
+  {
+    "question": "Katherine had some Bread. Christopher gave him 39122 more. Now Katherine has 98581 Bread. How many Bread did Katherine have incipiently?",
+    "answer": "59459",
+    "func": "98581-39122"
+  },
+  {
+    "question": "Kenneth has 59048 Marbles. Mamie gave him 4325 more. How many Marbles does Kenneth have total?",
+    "answer": "63373",
+    "func": "4325+59048"
+  },
+  {
+    "question": "Donald wants to share some Flower among 45789 friends.If each friend get 34548 Flower, then how many Flower john would have?",
+    "answer": "1581918372",
+    "func": "34548*45789"
+  },
+  {
+    "question": "Harry wants to dispense 11502 Biscuits among 639.0 friends. How many would each friend come by?",
+    "answer": "18.0",
+    "func": "11502/639.0"
+  },
+  {
+    "question": "Thomas has 96781 Marbles. Olive gave him 27610 more. How many Marbles does Thomas have all together?",
+    "answer": "124391",
+    "func": "27610+96781"
+  },
+  {
+    "question": "Hilton had 77161 Cars. He shares all Cars evenly among some friends. How many friends were there, If each of his friend get 1057.0 Cars?",
+    "answer": "73.0",
+    "func": "77161/1057.0"
+  },
+  {
+    "question": "Tami pay for 23029.0 bags of Banana . how many Banana in each bag? If total 46058 Banana Tami  pay for.",
+    "answer": "2.0",
+    "func": "46058/23029.0"
+  },
+  {
+    "question": "Albert had 21856 lychee. Leonard offered him some more. Now Albert has 80089 lychee. How many did Leonard offer him?",
+    "answer": "58233",
+    "func": "80089-21856"
+  },
+  {
+    "question": "There were 27183 bales of hay in the barn. Jason stacked more bales in the barn today. There are now 80861 bales of hay in the barn. How many bales did he store in the barn ?",
+    "answer": "53678",
+    "func": "80861-27183"
+  },
+  {
+    "question": "Clarissa had 27225 Bananas. He distributes all Bananas evenly among some friends. How many friends were there, If each of his friend get 9075.0 Bananas?",
+    "answer": "3.0",
+    "func": "27225/9075.0"
+  },
+  {
+    "question": "Matthew had 7881 Bananas. He divides all Bananas evenly among some friends. How many friends were there, If each of his friend get 111.0 Bananas?",
+    "answer": "71.0",
+    "func": "7881/111.0"
+  },
+  {
+    "question": "Linda wants to divide 46083 lemons among 15361.0 friends. How many would each friend receive?",
+    "answer": "3.0",
+    "func": "46083/15361.0"
+  },
+  {
+    "question": "Alberto had 78332 orange . He dice each orange into 36943 slices . How many orange slices did Alberto make?",
+    "answer": "613595664776702224",
+    "func": "7833269478332*78332"
+  },
+  {
+    "question": "Joyce wants to dispense 70718 lemons among 2 friends. How many would each friend gain?",
+    "answer": "35359.0",
+    "func": "70718/2"
+  },
+  {
+    "question": "Alba had 42522 Biscuit. Brandie get hold of some Biscuit. Now Alba has 38024  Biscuit. How many did Brandie get hold ofs?",
+    "answer": "4498",
+    "func": "42522-38024"
+  },
+  {
+    "question": "Matthew had some Pen. John gave him 67526 more. Now Matthew has 75170 Pen. How many Pen did Matthew have initially?",
+    "answer": "7644",
+    "func": "75170-67526"
+  },
+  {
+    "question": "Elinor wants to share some kiwi among 12582 friends.If each friend get 89138 kiwi, then how many kiwi john would have?",
+    "answer": "1121534316",
+    "func": "89138*12582"
+  },
+  {
+    "question": "Margie has 98417 Marbles. Darnell gave him 17872 more. How many Marbles does Margie have in all?",
+    "answer": "116289",
+    "func": "17872+98417"
+  },
+  {
+    "question": "Carmen had 54049 Boxs. He dispenses all Boxs evenly among some friends. How many friends were there, If each of his friend get 1 Boxs?",
+    "answer": "54049.0",
+    "func": "54049/1"
+  },
+  {
+    "question": "Richard invest 18 bags of pineapple . how many pineapple in each bag? If total 36450 pineapple Richard  invest.",
+    "answer": "2025.0",
+    "func": "36450/18"
+  },
+  {
+    "question": "Nicole had 92038 kiwis. He sunders all kiwis evenly among some friends. How many friends were there, If each of his friend get 46019.0 kiwis?",
+    "answer": "2.0",
+    "func": "92038/46019.0"
+  },
+  {
+    "question": "Christina has 42318 Marbles. Aaron gave him 93344 more. How many Marbles does Christina have how much?",
+    "answer": "135662",
+    "func": "93344+42318"
+  },
+  {
+    "question": "Linda had 32548 Car. Doris took 88736 from him. Now How many Car Linda have difference?",
+    "answer": "32798632",
+    "func": "32887368-88736"
+  },
+  {
+    "question": "Isidro had some orange. Janetta gave him 18735 more. Now Isidro has 51573 orange. How many orange did Isidro have originally?",
+    "answer": "518716838",
+    "func": "518735573-18735"
+  },
+  {
+    "question": "Thomas get hold of 2 bags of lemon . how many lemon in each bag? If total 54394 lemon Thomas  get hold of.",
+    "answer": "26196.0",
+    "func": "52392/2"
+  },
+  {
+    "question": "David had some Book. Sarah took 52903 from him. Now David has 12303 Book. How many Book David had primitively?",
+    "answer": "65206",
+    "func": "12303+52903"
+  },
+  {
+    "question": "Donald had some Watch. Jonathan gave him 425 more. Now Donald has 42999 Watch. How many Watch did Donald have initially?",
+    "answer": "42574",
+    "func": "42999-425"
+  },
+  {
+    "question": "Richard has 12309 Marbles. Carol gave him 96140 more. How many Marbles does Richard have how much?",
+    "answer": "108449",
+    "func": "96140+12309"
+  },
+  {
+    "question": "Oliver has 60190 Marbles. Annie gave him 95905 more. How many Marbles does Oliver have combined?",
+    "answer": "156095",
+    "func": "95905+60190"
+  },
+  {
+    "question": "Douglas wants to share some lemon among 87151 friends.If each friend get 83310 lemon, then how many lemon john would have?",
+    "answer": "7260549810",
+    "func": "83310*87151"
+  },
+  {
+    "question": "Joshua had 8401 pear. Eric presented him some more. Now Joshua has 91496 pear. How many did Eric present him?",
+    "answer": "83095",
+    "func": "91496-8401"
+  },
+  {
+    "question": "Anthony had some strawberry. Shirley took 52230 from him. Now Anthony has 70149 strawberry. How many strawberry Anthony had incipiently?",
+    "answer": "122379",
+    "func": "70149+52230"
+  },
+  {
+    "question": "Gloria had 28652 avocados. He sunders all avocados evenly among some friends. How many friends were there, If each of his friend get 377.0 avocados?",
+    "answer": "76.0",
+    "func": "28652/377.0"
+  },
+  {
+    "question": "Jeff had some Pen. Denise took 64944 from him. Now Jeff has 27868 Pen. How many Pen Jeff had primitively?",
+    "answer": "92812",
+    "func": "27868+64944"
+  },
+  {
+    "question": "Holly wants to split 44371 watermelons among 1 friends. How many would each friend obtain?",
+    "answer": "11371.0",
+    "func": "11371/1"
+  },
+  {
+    "question": "Mavis had some nectarine. Elvira took 63715 from him. Now Mavis has 74306 nectarine. How many nectarine Mavis had at first?",
+    "answer": "138021",
+    "func": "74306+63715"
+  },
+  {
+    "question": "Jimmie had 45155 oranges. He imparts all oranges evenly among some friends. How many friends were there, If each of his friend get 4105.0 oranges?",
+    "answer": "11.0",
+    "func": "45155/4105.0"
+  },
+  {
+    "question": "Lena had 6122 apricot . He carve each apricot into 6446 slices . How many apricot slices did Lena make?",
+    "answer": "39462412",
+    "func": "6446*6122"
+  },
+  {
+    "question": "Jaimee had some lychee. Bryon took 82175 from him. Now Jaimee has 13152 lychee. How many lychee Jaimee had to begin with?",
+    "answer": "13903927",
+    "func": "13821752+82175"
+  },
+  {
+    "question": "Tina had 16385 mango. Jasmine contributeed him some more. Now Tina has 60339 mango. How many did Jasmine contribute him?",
+    "answer": "43954",
+    "func": "60339-16385"
+  },
+  {
+    "question": "William had some Biscuit. Raymond gave him 26619 more. Now William has 189 Biscuit. How many Biscuit did William have in the first?",
+    "answer": "1800000",
+    "func": "1826619-26619"
+  },
+  {
+    "question": "Joshua had some banana. Marion gave him 85297 more. Now Joshua has 90356 banana. How many banana did Joshua have primitively?",
+    "answer": "903767679",
+    "func": "903852976-85297"
+  },
+  {
+    "question": "Lorri had some banana. He dice each banana into 1 slices. If total 39667 banana slices Lorri make, then how many banana Lorri had?",
+    "answer": "39667.0",
+    "func": "39667/1"
+  },
+  {
+    "question": "Charles had 47343 mango. Lucy grasped some mango. Now Charles has 10904  mango. How many did Lucy graspeds?",
+    "answer": "36439",
+    "func": "47343-10904"
+  },
+  {
+    "question": "Russell procure 6977.0 bags of papaya . how many papaya in each bag? If total 48839 papaya Russell  procure.",
+    "answer": "7.0",
+    "func": "48839/6977.0"
+  },
+  {
+    "question": "Amanda wants to share some banana among 21796 friends.If each friend get 85155 banana, then how many banana john would have?",
+    "answer": "1856038380",
+    "func": "85155*21796"
+  },
+  {
+    "question": "Anthony take 41 bags of papaya . how many papaya in each bag? If total 6888 papaya Anthony  take.",
+    "answer": "168.0",
+    "func": "6888/41"
+  },
+  {
+    "question": "Bruce obtain 821.0 bags of Mango . how many Mango in each bag? If total 82100 Mango Bruce  obtain.",
+    "answer": "100.0",
+    "func": "82100/821.0"
+  },
+  {
+    "question": "Patricia acquire 1 bags of cherry . how many cherry in each bag? If total 95257 cherry Patricia  acquire.",
+    "answer": "95257.0",
+    "func": "95257/1"
+  },
+  {
+    "question": "Sonia had 56361 Doll. Susan get hold of some Doll. Now Sonia has 12054  Doll. How many did Susan get hold ofs?",
+    "answer": "44307",
+    "func": "56361-12054"
+  },
+  {
+    "question": "John had some strawberry. Madeline gave him 243 more. Now John has 92336 strawberry. How many strawberry did John have to begin with?",
+    "answer": "92093",
+    "func": "92336-243"
+  },
+  {
+    "question": "James has 62597 Marbles. William gave him 28074 more. How many Marbles does James have total?",
+    "answer": "90671",
+    "func": "28074+62597"
+  },
+  {
+    "question": "Jeremy had 89227 quince. Ronald grabbed some quince. Now Jeremy has 1318  quince. How many did Ronald grabbeds?",
+    "answer": "87909",
+    "func": "89227-1318"
+  },
+  {
+    "question": "Alberta had 17425 Watchs. He sunders all Watchs evenly among some friends. How many friends were there, If each of his friend get 425.0 Watchs?",
+    "answer": "41.0",
+    "func": "17425/425.0"
+  },
+  {
+    "question": "Dale had some pineapple. He cube each pineapple into 17 slices. If total 9384 pineapple slices Dale make, then how many pineapple Dale had?",
+    "answer": "552.0",
+    "func": "9384/17"
+  },
+  {
+    "question": "Miles wants to sunder 13526 lemons among 1 friends. How many would each friend obtain?",
+    "answer": "13126.0",
+    "func": "13126/1"
+  },
+  {
+    "question": "Alicia had some kiwi. He hash each kiwi into 188 slices. If total 41172 kiwi slices Alicia make, then how many kiwi Alicia had?",
+    "answer": "219.0",
+    "func": "41172/188"
+  },
+  {
+    "question": "Robert buy 6 bags of Biscuit . how many Biscuit in each bag? If total 39324 Biscuit Robert  buy.",
+    "answer": "6554.0",
+    "func": "39324/6"
+  },
+  {
+    "question": "The Ferris wheel in Paradise Park has 50265 seats. Each seat can hold 98818 people. How many people can ride the Ferris wheel at the same time?",
+    "answer": "49704286465330",
+    "func": "502988185*98818"
+  },
+  {
+    "question": "Robert has 84193 Marbles. Delores gave him 17552 more. How many Marbles does Robert have join?",
+    "answer": "101745",
+    "func": "17552+84193"
+  },
+  {
+    "question": "Refugio had 9067 Watch. Ronald offered him some more. Now Refugio has 88854 Watch. How many did Ronald offer him?",
+    "answer": "79787",
+    "func": "88854-9067"
+  },
+  {
+    "question": "Edward had 85300 figs. He distributes all figs evenly among some friends. How many friends were there, If each of his friend get 20 figs?",
+    "answer": "4260.0",
+    "func": "85200/20"
+  },
+  {
+    "question": "Mark had some apple. He hash each apple into 65 slices. If total 57785 apple slices Mark make, then how many apple Mark had?",
+    "answer": "889.0",
+    "func": "57785/65"
+  },
+  {
+    "question": "Patricia had 94791 Presss. He shares all Presss evenly among some friends. How many friends were there, If each of his friend get 3 Presss?",
+    "answer": "31597.0",
+    "func": "94791/3"
+  },
+  {
+    "question": "Marie wants to share some blueberry among 98178 friends.If each friend get 82424 blueberry, then how many blueberry john would have?",
+    "answer": "8092223472",
+    "func": "82424*98178"
+  },
+  {
+    "question": "Carrie had some apple. Bennie took 54064 from him. Now Carrie has 19941 apple. How many apple Carrie had incipiently?",
+    "answer": "74005",
+    "func": "19941+54064"
+  },
+  {
+    "question": "Dora had 80851 Book. Shirley clasped some Book. Now Dora has 28575  Book. How many did Shirley claspeds?",
+    "answer": "52276",
+    "func": "80851-28575"
+  },
+  {
+    "question": "Mary wants to halve 98725 Watchs among 5 friends. How many would each friend earn?",
+    "answer": "19745.0",
+    "func": "98725/5"
+  },
+  {
+    "question": "James had 77377 quince. Elizabeth clutched some quince. Now James has 46177  quince. How many did Elizabeth clutcheds?",
+    "answer": "31200",
+    "func": "77377-46177"
+  },
+  {
+    "question": "Walter has 41323 Marbles. Shane gave him 56381 more. How many Marbles does Walter have all?",
+    "answer": "97704",
+    "func": "56381+41323"
+  },
+  {
+    "question": "Bonnie has 32578 Marbles. Edward gave him 18428 more. How many Marbles does Bonnie have increased by?",
+    "answer": "51006",
+    "func": "18428+32578"
+  },
+  {
+    "question": "Daryl wants to split 36403 Chocolates among 617.0 friends. How many would each friend achieve?",
+    "answer": "59.0",
+    "func": "36403/617.0"
+  },
+  {
+    "question": "Sarah had some strawberry. Janet gave him 72635 more. Now Sarah has 11143 strawberry. How many strawberry did Sarah have incipiently?",
+    "answer": "111400000",
+    "func": "111472635-72635"
+  },
+  {
+    "question": "Harriet wants to distribute 79739 cherrys among 121 friends. How many would each friend come by?",
+    "answer": "659.0",
+    "func": "79739/121"
+  },
+  {
+    "question": "Becky had some Biscuit. Clinton gave him 86399 more. Now Becky has 90603 Biscuit. How many Biscuit did Becky have in the first?",
+    "answer": "4204",
+    "func": "90603-86399"
+  },
+  {
+    "question": "Lisa had some Book. Jane took 27029 from him. Now Lisa has 39638 Book. How many Book Lisa had earlier?",
+    "answer": "66667",
+    "func": "39638+27029"
+  },
+  {
+    "question": "Susan had some avocado. Tina took 79652 from him. Now Susan has 67963 avocado. How many avocado Susan had in the first?",
+    "answer": "147615",
+    "func": "67963+79652"
+  },
+  {
+    "question": "Robert had 66885 cherrys. He distributes all cherrys evenly among some friends. How many friends were there, If each of his friend get 21 cherrys?",
+    "answer": "3185.0",
+    "func": "66885/21"
+  },
+  {
+    "question": "Joan had some pineapple. He slice each pineapple into 142 slices. If total 98122 pineapple slices Joan make, then how many pineapple Joan had?",
+    "answer": "691.0",
+    "func": "98122/142"
+  },
+  {
+    "question": "Rocky take 12946.0 bags of Book . how many Book in each bag? If total 38838 Book Rocky  take.",
+    "answer": "3.0",
+    "func": "38838/12946.0"
+  },
+  {
+    "question": "Daniel had some orange. He cut each orange into 1 slices. If total 7253 orange slices Daniel make, then how many orange Daniel had?",
+    "answer": "7253.0",
+    "func": "7253/1"
+  },
+  {
+    "question": "Martha had 64966 blueberry. Robert took 14878 from him. Now How many blueberry Martha have difference?",
+    "answer": "50088",
+    "func": "64966-14878"
+  },
+  {
+    "question": "Rebecca had 77948 Pens. He imparts all Pens evenly among some friends. How many friends were there, If each of his friend get 2 Pens?",
+    "answer": "38974.0",
+    "func": "77948/2"
+  },
+  {
+    "question": "Milton had 69344 peach. William clasped some peach. Now Milton has 47430  peach. How many did William claspeds?",
+    "answer": "21914",
+    "func": "69344-47430"
+  },
+  {
+    "question": "Amanda had some toy. Matthew gave him 47996 more. Now Amanda has 74599 toy. How many toy did Amanda have earlier?",
+    "answer": "7454799600000",
+    "func": "7454799647996-47996"
+  },
+  {
+    "question": "Amanda had 71713 Box. Mary took 61837 from him. Now How many Box Amanda have subtracted?",
+    "answer": "9876",
+    "func": "71713-61837"
+  },
+  {
+    "question": "Timothy had some orange. He cut up each orange into 1 slices. If total 9668 orange slices Timothy make, then how many orange Timothy had?",
+    "answer": "9668.0",
+    "func": "9668/1"
+  },
+  {
+    "question": "Susie had 77087 plum. Roger took 1908 from him. Now How many plum Susie have take away?",
+    "answer": "75179",
+    "func": "77087-1908"
+  },
+  {
+    "question": "Wilbur wants to divide 34466 watermelons among 2 friends. How many would each friend obtain?",
+    "answer": "17233.0",
+    "func": "34466/2"
+  },
+  {
+    "question": "Sheri pay for 1 bags of Bread . how many Bread in each bag? If total 5321 Bread Sheri  pay for.",
+    "answer": "5321.0",
+    "func": "5321/1"
+  },
+  {
+    "question": "John had 52264 bananas. He splits all bananas evenly among some friends. How many friends were there, If each of his friend get 278.0 bananas?",
+    "answer": "188.0",
+    "func": "52264/278.0"
+  },
+  {
+    "question": "Debra had some quince. Rickie gave him 54552 more. Now Debra has 37651 quince. How many quince did Debra have in the first?",
+    "answer": "545473099",
+    "func": "545527651-54552"
+  },
+  {
+    "question": "Leonard invest 1 bags of pear . how many pear in each bag? If total 55619 pear Leonard  invest.",
+    "answer": "55619.0",
+    "func": "55619/1"
+  },
+  {
+    "question": "Ruth wants to share some plum among 36469 friends.If each friend get 20113 plum, then how many plum john would have?",
+    "answer": "733500997",
+    "func": "20113*36469"
+  },
+  {
+    "question": "Kathleen wants to share some mango among 40721 friends.If each friend get 11058 mango, then how many mango john would have?",
+    "answer": "450292818",
+    "func": "11058*40721"
+  },
+  {
+    "question": "Daniel had 67118 watermelon . He chop each watermelon into 10458 slices . How many watermelon slices did Daniel make?",
+    "answer": "701920044",
+    "func": "10458*67118"
+  },
+  {
+    "question": "William had 26734 papayas. He splits all papayas evenly among some friends. How many friends were there, If each of his friend get 1 papayas?",
+    "answer": "26734.0",
+    "func": "26734/1"
+  },
+  {
+    "question": "Sandra had some peach. He chop each peach into 94 slices. If total 70406 peach slices Sandra make, then how many peach Sandra had?",
+    "answer": "749.0",
+    "func": "70406/94"
+  },
+  {
+    "question": "Francis had 76966 nectarine . He hash each nectarine into 51314 slices . How many nectarine slices did Francis make?",
+    "answer": "4440677593124",
+    "func": "57696614*76966"
+  },
+  {
+    "question": "Regina had some blueberry. He hash each blueberry into 6403.0 slices. If total 83239 blueberry slices Regina make, then how many blueberry Regina had?",
+    "answer": "13.0",
+    "func": "83239/6403.0"
+  },
+  {
+    "question": "Austin had some peach. Karen took 89368 from him. Now Austin has 85276 peach. How many peach Austin had initially?",
+    "answer": "174644",
+    "func": "85276+89368"
+  },
+  {
+    "question": "Jeremy has 8766 Marbles. Clara gave him 84400 more. How many Marbles does Jeremy have join?",
+    "answer": "93166",
+    "func": "84400+8766"
+  },
+  {
+    "question": "David had some lemon. Dustin took 91677 from him. Now David has 40755 lemon. How many lemon David had earlier?",
+    "answer": "132432",
+    "func": "40755+91677"
+  },
+  {
+    "question": "Israel invest 1853.0 bags of Box . how many Box in each bag? If total 57443 Box Israel  invest.",
+    "answer": "31.0",
+    "func": "57443/1853.0"
+  },
+  {
+    "question": "Cathy has 57049 Marbles. Ralph gave him 11401 more. How many Marbles does Cathy have all together?",
+    "answer": "68450",
+    "func": "11401+57049"
+  },
+  {
+    "question": "Rose has 7313 Marbles. Janice gave him 79901 more. How many Marbles does Rose have to plus?",
+    "answer": "87214",
+    "func": "79901+7313"
+  },
+  {
+    "question": "Michael had 40640 cherrys. He halves all cherrys evenly among some friends. How many friends were there, If each of his friend get 2540.0 cherrys?",
+    "answer": "16.0",
+    "func": "40640/2540.0"
+  },
+  {
+    "question": "Angela had some Biscuit. Iva took 86353 from him. Now Angela has 97316 Biscuit. How many Biscuit Angela had primitively?",
+    "answer": "97949889",
+    "func": "97863536+86353"
+  },
+  {
+    "question": "Maxine wants to sunder 97180 toys among 20 friends. How many would each friend acquire?",
+    "answer": "4859.0",
+    "func": "97180/20"
+  },
+  {
+    "question": "Teresia has 1761 Marbles. Dennis gave him 15756 more. How many Marbles does Teresia have altogether?",
+    "answer": "17517",
+    "func": "15756+1761"
+  },
+  {
+    "question": "Gail procure 3 bags of lychee . how many lychee in each bag? If total 92886 lychee Gail  procure.",
+    "answer": "30962.0",
+    "func": "92886/3"
+  },
+  {
+    "question": "Gregory has 21574 Marbles. Holly gave him 1588 more. How many Marbles does Gregory have total?",
+    "answer": "23162",
+    "func": "1588+21574"
+  },
+  {
+    "question": "Robert buy 3 bags of blueberry . how many blueberry in each bag? If total 65166 blueberry Robert  buy.",
+    "answer": "21722.0",
+    "func": "65166/3"
+  },
+  {
+    "question": "Roger wants to diverge 68652 oranges among 34326.0 friends. How many would each friend earn?",
+    "answer": "2.0",
+    "func": "68652/34326.0"
+  },
+  {
+    "question": "Linda wants to share some coconut among 34081 friends.If each friend get 94573 coconut, then how many coconut john would have?",
+    "answer": "32231563214561",
+    "func": "945734081*34081"
+  },
+  {
+    "question": "Katrina wants to share some pear among 48842 friends.If each friend get 21985 pear, then how many pear john would have?",
+    "answer": "4833600115",
+    "func": "21985*219859"
+  },
+  {
+    "question": "Mary had 3948 blackcurrant. Donovan offered him some more. Now Mary has 15574 blackcurrant. How many did Donovan offer him?",
+    "answer": "11626",
+    "func": "15574-3948"
+  },
+  {
+    "question": "Dalton had some Press. William took 56373 from him. Now Dalton has 44011 Press. How many Press Dalton had initially?",
+    "answer": "100384",
+    "func": "44011+56373"
+  },
+  {
+    "question": "John had 8472 fig. Robert supplyed him some more. Now John has 35750 fig. How many did Robert supply him?",
+    "answer": "27278",
+    "func": "35750-8472"
+  },
+  {
+    "question": "Helen had 34566 toys. He shares all toys evenly among some friends. How many friends were there, If each of his friend get 4938.0 toys?",
+    "answer": "7.0",
+    "func": "34566/4938.0"
+  },
+  {
+    "question": "Justin pay for 1 bags of fig . how many fig in each bag? If total 75683 fig Justin  pay for.",
+    "answer": "75683.0",
+    "func": "75683/1"
+  },
+  {
+    "question": "Patricia has 59764 Marbles. Richard gave him 65132 more. How many Marbles does Patricia have join?",
+    "answer": "124896",
+    "func": "65132+59764"
+  },
+  {
+    "question": "Angela had some orange. Jose gave him 7367 more. Now Angela has 67050 orange. How many orange did Angela have to begin with?",
+    "answer": "59683",
+    "func": "67050-7367"
+  },
+  {
+    "question": "Anthony wants to diverge 65585 toys among 13117.0 friends. How many would each friend acquire?",
+    "answer": "5.0",
+    "func": "65585/13117.0"
+  },
+  {
+    "question": "Dave had some watermelon. Tiffany gave him 48294 more. Now Dave has 74403 watermelon. How many watermelon did Dave have incipiently?",
+    "answer": "26109",
+    "func": "74403-48294"
+  },
+  {
+    "question": "Amanda has 33539 Marbles. David gave him 20719 more. How many Marbles does Amanda have join?",
+    "answer": "54258",
+    "func": "20719+33539"
+  },
+  {
+    "question": "Sean had 75324 Biscuit . He divide each Biscuit into 13588 slices . How many Biscuit slices did Sean make?",
+    "answer": "1023502512",
+    "func": "13588*75324"
+  },
+  {
+    "question": "Daniel had 88459 figs. He shares all figs evenly among some friends. How many friends were there, If each of his friend get 12637.0 figs?",
+    "answer": "7.0",
+    "func": "88459/12637.0"
+  },
+  {
+    "question": "Stephenie wants to impart 15218 limes among 2 friends. How many would each friend gain?",
+    "answer": "7609.0",
+    "func": "15218/2"
+  },
+  {
+    "question": "Iris had some pineapple. Jodi gave him 437 more. Now Iris has 97196 pineapple. How many pineapple did Iris have in the beginning?",
+    "answer": "96759",
+    "func": "97196-437"
+  },
+  {
+    "question": "Annie has 1711 Marbles. David gave him 5873 more. How many Marbles does Annie have join?",
+    "answer": "7584",
+    "func": "5873+1711"
+  },
+  {
+    "question": "Susan pay for 1 bags of banana . how many banana in each bag? If total 32154 banana Susan  pay for.",
+    "answer": "32151.0",
+    "func": "32151/1"
+  },
+  {
+    "question": "Julia had 61936 blueberry. James took 50298 from him. Now How many blueberry Julia have deducted?",
+    "answer": "11638",
+    "func": "61936-50298"
+  },
+  {
+    "question": "Sean wants to split 19772 Watchs among 2 friends. How many would each friend earn?",
+    "answer": "9886.0",
+    "func": "19772/2"
+  },
+  {
+    "question": "Jerry had 93689 coconut. Carissa clutched some coconut. Now Jerry has 55068  coconut. How many did Carissa clutcheds?",
+    "answer": "38621",
+    "func": "93689-55068"
+  },
+  {
+    "question": "Ronald wants to share some Flower among 42280 friends.If each friend get 29528 Flower, then how many Flower john would have?",
+    "answer": "1248443840",
+    "func": "29528*42280"
+  },
+  {
+    "question": "Shawn had 54660 Flower . He cut each Flower into 32641 slices . How many Flower slices did Shawn make?",
+    "answer": "1784157060",
+    "func": "32641*54660"
+  },
+  {
+    "question": "Mary had 94510 quince. Heather took 35655 from him. Now How many quince Mary have minus?",
+    "answer": "58855",
+    "func": "94510-35655"
+  },
+  {
+    "question": "Lisa wants to share some Press among 75013 friends.If each friend get 10309 Press, then how many Press john would have?",
+    "answer": "773309017",
+    "func": "10309*75013"
+  },
+  {
+    "question": "Robert buy 1 bags of orange . how many orange in each bag? If total 48965 orange Robert  buy.",
+    "answer": "41965.0",
+    "func": "41965/1"
+  },
+  {
+    "question": "Marie had 65904 Biscuits. He diverges all Biscuits evenly among some friends. How many friends were there, If each of his friend get 2 Biscuits?",
+    "answer": "32952.0",
+    "func": "65904/2"
+  },
+  {
+    "question": "Glenn had 29354 Banana . He cube each Banana into 23608 slices . How many Banana slices did Glenn make?",
+    "answer": "692989232",
+    "func": "23608*29354"
+  },
+  {
+    "question": "Maurice had some Box. Walter took 6120 from him. Now Maurice has 67704 Box. How many Box Maurice had primitively?",
+    "answer": "6126824",
+    "func": "6120704+6120"
+  },
+  {
+    "question": "German had some Book. He slice each Book into 1 slices. If total 52651 Book slices German make, then how many Book German had?",
+    "answer": "52651.0",
+    "func": "52651/1"
+  },
+  {
+    "question": "Luz take 11 bags of Watch . how many Watch in each bag? If total 37103 Watch Luz  take.",
+    "answer": "3373.0",
+    "func": "37103/11"
+  },
+  {
+    "question": "Deborah has 11423 Marbles. Dana gave him 43000 more. How many Marbles does Deborah have together?",
+    "answer": "54423",
+    "func": "43000+11423"
+  },
+  {
+    "question": "Sandra had 59967 Mango . He cube each Mango into 72595 slices . How many Mango slices did Sandra make?",
+    "answer": "4353304365",
+    "func": "72595*59967"
+  },
+  {
+    "question": "Paul had some Banana. Karen gave him 26403 more. Now Paul has 1145 Banana. How many Banana did Paul have primitively?",
+    "answer": "11400000",
+    "func": "11426403-26403"
+  },
+  {
+    "question": "Kenneth had some orange. He hash each orange into 1 slices. If total 48371 orange slices Kenneth make, then how many orange Kenneth had?",
+    "answer": "48371.0",
+    "func": "48371/1"
+  },
+  {
+    "question": "Bill had 25715 peachs. He dispenses all peachs evenly among some friends. How many friends were there, If each of his friend get 695.0 peachs?",
+    "answer": "37.0",
+    "func": "25715/695.0"
+  },
+  {
+    "question": "Elsa had 19836 fig. Lawrence donateed him some more. Now Elsa has 71739 fig. How many did Lawrence donate him?",
+    "answer": "51903",
+    "func": "71739-19836"
+  },
+  {
+    "question": "Jacqueline had 53845 blackcurrant . He cut up each blackcurrant into 936 slices . How many blackcurrant slices did Jacqueline make?",
+    "answer": "51359784025",
+    "func": "953845*53845"
+  },
+  {
+    "question": "Minnie wants to share some coconut among 30640 friends.If each friend get 3234 coconut, then how many coconut john would have?",
+    "answer": "99089760",
+    "func": "3234*30640"
+  },
+  {
+    "question": "Alyson wants to share some toy among 1358 friends.If each friend get 90994 toy, then how many toy john would have?",
+    "answer": "123569852",
+    "func": "90994*1358"
+  },
+  {
+    "question": "Tina wants to share some toy among 292 friends.If each friend get 44012 toy, then how many toy john would have?",
+    "answer": "12851504",
+    "func": "44012*292"
+  },
+  {
+    "question": "Curtis had 99575 Press. Craig lay hold of some Press. Now Curtis has 49420  Press. How many did Craig lay hold ofs?",
+    "answer": "50155",
+    "func": "99575-49420"
+  },
+  {
+    "question": "Wendy had some fig. James took 95418 from him. Now Wendy has 96842 fig. How many fig Wendy had incipiently?",
+    "answer": "192260",
+    "func": "96842+95418"
+  },
+  {
+    "question": "Cleo had 13725 lemon . He slice each lemon into 40407 slices . How many lemon slices did Cleo make?",
+    "answer": "554586075",
+    "func": "40407*13725"
+  },
+  {
+    "question": "Beth had some cherry. Joseph took 69544 from him. Now Beth has 26996 cherry. How many cherry Beth had originally?",
+    "answer": "96540",
+    "func": "26996+69544"
+  },
+  {
+    "question": "Jennifer had 36778 Bananas. He splits all Bananas evenly among some friends. How many friends were there, If each of his friend get 2 Bananas?",
+    "answer": "18389.0",
+    "func": "36778/2"
+  },
+  {
+    "question": "Barbara had some Watch. Roman took 91962 from him. Now Barbara has 54241 Watch. How many Watch Barbara had to begin with?",
+    "answer": "146203",
+    "func": "54241+91962"
+  },
+  {
+    "question": "Lauren wants to divide 12628 Chocolates among 451.0 friends. How many would each friend experience?",
+    "answer": "28.0",
+    "func": "12628/451.0"
+  },
+  {
+    "question": "Matthew had 17600 raspberrys. He divides all raspberrys evenly among some friends. How many friends were there, If each of his friend get 8800.0 raspberrys?",
+    "answer": "2.0",
+    "func": "17600/8800.0"
+  },
+  {
+    "question": "Jackie had some fig. John gave him 77681 more. Now Jackie has 51789 fig. How many fig did Jackie have originally?",
+    "answer": "517690508",
+    "func": "517768189-77681"
+  },
+  {
+    "question": "Brandon had some Pen. James took 8264 from him. Now Brandon has 74526 Pen. How many Pen Brandon had to begin with?",
+    "answer": "82790",
+    "func": "74526+8264"
+  },
+  {
+    "question": "Carol had 57115 Cars. He splits all Cars evenly among some friends. How many friends were there, If each of his friend get 11423.0 Cars?",
+    "answer": "5.0",
+    "func": "57115/11423.0"
+  },
+  {
+    "question": "Darlene had 17233 blackberrys. He imparts all blackberrys evenly among some friends. How many friends were there, If each of his friend get 1 blackberrys?",
+    "answer": "17233.0",
+    "func": "17233/1"
+  },
+  {
+    "question": "Laura had some raspberry. Beatrice took 34309 from him. Now Laura has 38331 raspberry. How many raspberry Laura had incipiently?",
+    "answer": "72640",
+    "func": "38331+34309"
+  },
+  {
+    "question": "Henry has 42863 Marbles. Carla gave him 96485 more. How many Marbles does Henry have to plus?",
+    "answer": "139348",
+    "func": "96485+42863"
+  },
+  {
+    "question": "Emily had some cherry. He divide each cherry into 2 slices. If total 35746 cherry slices Emily make, then how many cherry Emily had?",
+    "answer": "17873.0",
+    "func": "35746/2"
+  },
+  {
+    "question": "Martha had 26670 fig . He chop each fig into 9890 slices . How many fig slices did Martha make?",
+    "answer": "263766300",
+    "func": "9890*26670"
+  },
+  {
+    "question": "Peter wants to halve 17941 Bananas among 2563.0 friends. How many would each friend experience?",
+    "answer": "7.0",
+    "func": "17941/2563.0"
+  },
+  {
+    "question": "Patrick had some Box. Ellen gave him 20470 more. Now Patrick has 76739 Box. How many Box did Patrick have incipiently?",
+    "answer": "56269",
+    "func": "76739-20470"
+  },
+  {
+    "question": "Janice has 21645 Marbles. Ryan gave him 13949 more. How many Marbles does Janice have how much?",
+    "answer": "35594",
+    "func": "13949+21645"
+  },
+  {
+    "question": "Juan had some Chocolate. Charlotte took 70345 from him. Now Juan has 15926 Chocolate. How many Chocolate Juan had incipiently?",
+    "answer": "86271",
+    "func": "15926+70345"
+  },
+  {
+    "question": "Estella wants to diverge 47062 limes among 1 friends. How many would each friend acquire?",
+    "answer": "17062.0",
+    "func": "17062/1"
+  },
+  {
+    "question": "Mike had 60832 peaches left at his roadside fruit stand. He went to the orchard and picked more peaches to stock up the stand. There are now 59334 peaches at the stand, how many did he pick ?",
+    "answer": "59300000",
+    "func": "59360832-60832"
+  },
+  {
+    "question": "James wants to share some Flower among 15818 friends.If each friend get 34836 Flower, then how many Flower john would have?",
+    "answer": "551035848",
+    "func": "34836*15818"
+  },
+  {
+    "question": "Frederick has 20759 Marbles. John gave him 11952 more. How many Marbles does Frederick have to plus?",
+    "answer": "32711",
+    "func": "11952+20759"
+  },
+  {
+    "question": "Rosa wants to halve 90023 pineapples among 1 friends. How many would each friend obtain?",
+    "answer": "90023.0",
+    "func": "90023/1"
+  },
+  {
+    "question": "Diane has 91442 Marbles. Eula gave him 92468 more. How many Marbles does Diane have increased by?",
+    "answer": "92582884",
+    "func": "92491442+91442"
+  },
+  {
+    "question": "Thomas had 79177 fig. Sonia took 28284 from him. Now How many fig Thomas have left?",
+    "answer": "50893",
+    "func": "79177-28284"
+  },
+  {
+    "question": "Louise had 43065 apple. Frank grabbed some apple. Now Louise has 12056  apple. How many did Frank grabbeds?",
+    "answer": "31009",
+    "func": "43065-12056"
+  },
+  {
+    "question": "Susie wants to share some Watch among 32635 friends.If each friend get 93313 Watch, then how many Watch john would have?",
+    "answer": "3045269755",
+    "func": "93313*32635"
+  },
+  {
+    "question": "Joseph had some kiwi. Angela took 52037 from him. Now Joseph has 46728 kiwi. How many kiwi Joseph had earlier?",
+    "answer": "98765",
+    "func": "46728+52037"
+  },
+  {
+    "question": "Ernest wants to dispense 39270 apricots among 35 friends. How many would each friend obtain?",
+    "answer": "1122.0",
+    "func": "39270/35"
+  },
+  {
+    "question": "Carolyn had some strawberry. Joseph gave him 53105 more. Now Carolyn has 22890 strawberry. How many strawberry did Carolyn have earlier?",
+    "answer": "228477945",
+    "func": "228531050-53105"
+  },
+  {
+    "question": "Bradly has 72970 Marbles. Keith gave him 59371 more. How many Marbles does Bradly have how much?",
+    "answer": "132341",
+    "func": "59371+72970"
+  },
+  {
+    "question": "Jason went to 98153 football games this month. He went to 72206 games last month, and plans to go to 32849 games next month. How many games will he attend in all ?",
+    "answer": "203208",
+    "func": "98153+72206+32849"
+  },
+  {
+    "question": "Patricia wants to split 18423 peachs among 3 friends. How many would each friend obtain?",
+    "answer": "6141.0",
+    "func": "18423/3"
+  },
+  {
+    "question": "Leonard had some cherry. Leslie took 26070 from him. Now Leonard has 17234 cherry. How many cherry Leonard had originally?",
+    "answer": "43304",
+    "func": "17234+26070"
+  },
+  {
+    "question": "Monique had 52606 Flower. Darla lay hold of some Flower. Now Monique has 90053  Flower. How many did Darla lay hold ofs?",
+    "answer": "5290053000000",
+    "func": "5290053090053-90053"
+  },
+  {
+    "question": "Teresa wants to share some Pen among 84601 friends.If each friend get 82715 Pen, then how many Pen john would have?",
+    "answer": "6997771715",
+    "func": "82715*84601"
+  },
+  {
+    "question": "Bethann pay for 2779.0 bags of Biscuit . how many Biscuit in each bag? If total 11116 Biscuit Bethann  pay for.",
+    "answer": "4.0",
+    "func": "11116/2779.0"
+  },
+  {
+    "question": "Anthony had some cherry. He hash each cherry into 4 slices. If total 76924 cherry slices Anthony make, then how many cherry Anthony had?",
+    "answer": "19231.0",
+    "func": "76924/4"
+  },
+  {
+    "question": "Ella had some mango. He divide each mango into 2 slices. If total 2958 mango slices Ella make, then how many mango Ella had?",
+    "answer": "1479.0",
+    "func": "2958/2"
+  },
+  {
+    "question": "Beverly wants to split 26020 limes among 13010.0 friends. How many would each friend earn?",
+    "answer": "2.0",
+    "func": "26020/13010.0"
+  },
+  {
+    "question": "Anna had 58222 Presss. He divides all Presss evenly among some friends. How many friends were there, If each of his friend get 29111.0 Presss?",
+    "answer": "2.0",
+    "func": "58222/29111.0"
+  },
+  {
+    "question": "Mary pick up 2 bags of coconut . how many coconut in each bag? If total 16160 coconut Mary  pick up.",
+    "answer": "8080.0",
+    "func": "16160/2"
+  },
+  {
+    "question": "George had some nectarine. He dice each nectarine into 1 slices. If total 60524 nectarine slices George make, then how many nectarine George had?",
+    "answer": "10524.0",
+    "func": "10524/1"
+  },
+  {
+    "question": "Kim obtain 219.0 bags of apple . how many apple in each bag? If total 22119 apple Kim  obtain.",
+    "answer": "101.0",
+    "func": "22119/219.0"
+  },
+  {
+    "question": "Tim has 51874 books . Mike has 65129 books . How many books do they have together ?",
+    "answer": "117003",
+    "func": "51874+65129"
+  },
+  {
+    "question": "Jose had some Banana. He mince each Banana into 61 slices. If total 3965 Banana slices Jose make, then how many Banana Jose had?",
+    "answer": "65.0",
+    "func": "3965/61"
+  },
+  {
+    "question": "Jean had 89651 apple. Duane took 22751 from him. Now How many apple Jean have left over?",
+    "answer": "66900",
+    "func": "89651-22751"
+  },
+  {
+    "question": "Donna acquire 1 bags of coconut . how many coconut in each bag? If total 46493 coconut Donna  acquire.",
+    "answer": "46493.0",
+    "func": "46493/1"
+  },
+  {
+    "question": "Paul has 36143 Marbles. Elizabeth gave him 24631 more. How many Marbles does Paul have in all?",
+    "answer": "60774",
+    "func": "24631+36143"
+  },
+  {
+    "question": "Ernestine had 58560 watermelon . He dice each watermelon into 36782 slices . How many watermelon slices did Ernestine make?",
+    "answer": "2153953920",
+    "func": "36782*58560"
+  },
+  {
+    "question": "Henry had 65491 raspberrys. He splits all raspberrys evenly among some friends. How many friends were there, If each of his friend get 79 raspberrys?",
+    "answer": "829.0",
+    "func": "65491/79"
+  },
+  {
+    "question": "Marion has 62888 Marbles. Viola gave him 72280 more. How many Marbles does Marion have all together?",
+    "answer": "135168",
+    "func": "72280+62888"
+  },
+  {
+    "question": "Margaret had some pineapple. Anna took 18088 from him. Now Margaret has 50303 pineapple. How many pineapple Margaret had initially?",
+    "answer": "68391",
+    "func": "50303+18088"
+  },
+  {
+    "question": "Calvin had some banana. Brian took 26244 from him. Now Calvin has 55050 banana. How many banana Calvin had at first?",
+    "answer": "81294",
+    "func": "55050+26244"
+  },
+  {
+    "question": "Russell had some Pen. He divide each Pen into 42167.0 slices. If total 84334 Pen slices Russell make, then how many Pen Russell had?",
+    "answer": "2.0",
+    "func": "84334/42167.0"
+  },
+  {
+    "question": "Donald snap up 1 bags of blackberry . how many blackberry in each bag? If total 71359 blackberry Donald  snap up.",
+    "answer": "71359.0",
+    "func": "71359/1"
+  },
+  {
+    "question": "David had some lychee. He mince each lychee into 3349.0 slices. If total 50235 lychee slices David make, then how many lychee David had?",
+    "answer": "15.0",
+    "func": "50235/3349.0"
+  },
+  {
+    "question": "Claudia had 93603 banana. Richard get hold of some banana. Now Claudia has 62974  banana. How many did Richard get hold ofs?",
+    "answer": "30629",
+    "func": "93603-62974"
+  },
+  {
+    "question": "Howard had 71472 avocado. Timothy took 45194 from him. Now How many avocado Howard have less than?",
+    "answer": "26278",
+    "func": "71472-45194"
+  },
+  {
+    "question": "Dominick had 74242 Breads. He divides all Breads evenly among some friends. How many friends were there, If each of his friend get 5303.0 Breads?",
+    "answer": "14.0",
+    "func": "74242/5303.0"
+  },
+  {
+    "question": "Thomas had some nectarine. Dorothy gave him 35547 more. Now Thomas has 42254 nectarine. How many nectarine did Thomas have primitively?",
+    "answer": "6707",
+    "func": "42254-35547"
+  },
+  {
+    "question": "Irma has 28808 Marbles. James gave him 78366 more. How many Marbles does Irma have all together?",
+    "answer": "107174",
+    "func": "78366+28808"
+  },
+  {
+    "question": "Rosemary has 61925 Marbles. Robert gave him 7780 more. How many Marbles does Rosemary have all together?",
+    "answer": "69705",
+    "func": "7780+61925"
+  },
+  {
+    "question": "Stephen had 46950 Bread . He chop each Bread into 69494 slices . How many Bread slices did Stephen make?",
+    "answer": "3262743300",
+    "func": "69494*46950"
+  },
+  {
+    "question": "George had 76645 Watch. Constance clasped some Watch. Now George has 21023  Watch. How many did Constance claspeds?",
+    "answer": "55622",
+    "func": "76645-21023"
+  },
+  {
+    "question": "Lindy wants to share some plum among 35035 friends.If each friend get 31709 plum, then how many plum john would have?",
+    "answer": "1110924815",
+    "func": "31709*35035"
+  },
+  {
+    "question": "Anthony snap up 1 bags of papaya . how many papaya in each bag? If total 70052 papaya Anthony  snap up.",
+    "answer": "70052.0",
+    "func": "70052/1"
+  },
+  {
+    "question": "Susan acquire 1 bags of Press . how many Press in each bag? If total 28859 Press Susan  acquire.",
+    "answer": "28859.0",
+    "func": "28859/1"
+  },
+  {
+    "question": "Roger had some lychee. Gordon took 22869 from him. Now Roger has 46605 lychee. How many lychee Roger had primitively?",
+    "answer": "69474",
+    "func": "46605+22869"
+  },
+  {
+    "question": "Pamela had some Flower. He mince each Flower into 20891.0 slices. If total 41782 Flower slices Pamela make, then how many Flower Pamela had?",
+    "answer": "2.0",
+    "func": "41782/20891.0"
+  },
+  {
+    "question": "Eric had some lime. He carve each lime into 13835.0 slices. If total 96845 lime slices Eric make, then how many lime Eric had?",
+    "answer": "7.0",
+    "func": "96845/13835.0"
+  },
+  {
+    "question": "Christopher had some pineapple. Penny gave him 3798 more. Now Christopher has 47127 pineapple. How many pineapple did Christopher have initially?",
+    "answer": "43798120000",
+    "func": "43798123798-3798"
+  },
+  {
+    "question": "Dorothy wants to share some lychee among 91924 friends.If each friend get 92303 lychee, then how many lychee john would have?",
+    "answer": "8484860972",
+    "func": "92303*91924"
+  },
+  {
+    "question": "Vilma wants to share some lemon among 74504 friends.If each friend get 46196 lemon, then how many lemon john would have?",
+    "answer": "3441786784",
+    "func": "46196*74504"
+  },
+  {
+    "question": "Angela wants to share some Biscuit among 18726 friends.If each friend get 73974 Biscuit, then how many Biscuit john would have?",
+    "answer": "1385237124",
+    "func": "73974*18726"
+  },
+  {
+    "question": "Thomas had 64618 watermelon. Rafael gifted him some more. Now Thomas has 73908 watermelon. How many did Rafael gift him?",
+    "answer": "9290",
+    "func": "73908-64618"
+  },
+  {
+    "question": "Wayne had 71158 Books. He shares all Books evenly among some friends. How many friends were there, If each of his friend get 47 Books?",
+    "answer": "1514.0",
+    "func": "71158/47"
+  },
+  {
+    "question": "Andy has 64383 Marbles. David gave him 23111 more. How many Marbles does Andy have all?",
+    "answer": "87494",
+    "func": "23111+64383"
+  },
+  {
+    "question": "Rodney wants to divide 30591 apricots among 309.0 friends. How many would each friend experience?",
+    "answer": "99.0",
+    "func": "30591/309.0"
+  },
+  {
+    "question": "Katherine wants to split 28780 avocados among 1 friends. How many would each friend come by?",
+    "answer": "28780.0",
+    "func": "28780/1"
+  },
+  {
+    "question": "Elizabeth had 62751 lemon . He cube each lemon into 69103 slices . How many lemon slices did Elizabeth make?",
+    "answer": "4336282353",
+    "func": "69103*62751"
+  },
+  {
+    "question": "Gerald has 43582 Marbles. Earl gave him 190 more. How many Marbles does Gerald have altogether?",
+    "answer": "43772",
+    "func": "190+43582"
+  },
+  {
+    "question": "Jesse had 26507 blackcurrant . He chop each blackcurrant into 80596 slices . How many blackcurrant slices did Jesse make?",
+    "answer": "2136358172",
+    "func": "80596*26507"
+  },
+  {
+    "question": "Wanda had some papaya. Linda gave him 7907 more. Now Wanda has 23361 papaya. How many papaya did Wanda have in the first?",
+    "answer": "15454",
+    "func": "23361-7907"
+  },
+  {
+    "question": "Marian had 19461 toy . He slice each toy into 2973 slices . How many toy slices did Marian make?",
+    "answer": "578370430521",
+    "func": "29719461*19461"
+  },
+  {
+    "question": "Ryann take 6999.0 bags of watermelon . how many watermelon in each bag? If total 76989 watermelon Ryann  take.",
+    "answer": "11.0",
+    "func": "76989/6999.0"
+  },
+  {
+    "question": "Phillip had some mango. Hector took 14639 from him. Now Phillip has 18667 mango. How many mango Phillip had primitively?",
+    "answer": "33306",
+    "func": "18667+14639"
+  },
+  {
+    "question": "James had 69083 quince. Herbert clutched some quince. Now James has 9607  quince. How many did Herbert clutcheds?",
+    "answer": "59476",
+    "func": "69083-9607"
+  },
+  {
+    "question": "George had 86888 blueberry. William provideed him some more. Now George has 49068 blueberry. How many did William provide him?",
+    "answer": "490782000",
+    "func": "490868888-86888"
+  },
+  {
+    "question": "Lillie wants to dispense 51952 oranges among 25976.0 friends. How many would each friend acquire?",
+    "answer": "2.0",
+    "func": "51952/25976.0"
+  },
+  {
+    "question": "Randolph has 17985 Marbles. Amy gave him 42385 more. How many Marbles does Randolph have together?",
+    "answer": "60370",
+    "func": "42385+17985"
+  },
+  {
+    "question": "Ruby has 96091 Marbles. Beverly gave him 20745 more. How many Marbles does Ruby have join?",
+    "answer": "116836",
+    "func": "20745+96091"
+  },
+  {
+    "question": "Naomi had 57362 mangos. He divides all mangos evenly among some friends. How many friends were there, If each of his friend get 1978.0 mangos?",
+    "answer": "29.0",
+    "func": "57362/1978.0"
+  },
+  {
+    "question": "Rowena has 22934 Marbles. Paul gave him 41687 more. How many Marbles does Rowena have in all?",
+    "answer": "64621",
+    "func": "41687+22934"
+  },
+  {
+    "question": "Robert procure 1657.0 bags of Book . how many Book in each bag? If total 92792 Book Robert  procure.",
+    "answer": "56.0",
+    "func": "92792/1657.0"
+  },
+  {
+    "question": "Diane had 46870 mango. Joseph offered him some more. Now Diane has 91007 mango. How many did Joseph offer him?",
+    "answer": "44137",
+    "func": "91007-46870"
+  },
+  {
+    "question": "Andrea had 87333 avocado . He cube each avocado into 29361 slices . How many avocado slices did Andrea make?",
+    "answer": "2564184213",
+    "func": "29361*87333"
+  },
+  {
+    "question": "Earnest had some apricot. He carve each apricot into 25765.0 slices. If total 77295 apricot slices Earnest make, then how many apricot Earnest had?",
+    "answer": "3.0",
+    "func": "77295/25765.0"
+  },
+  {
+    "question": "Bryan had 96307 papaya. Sterling took 38703 from him. Now How many papaya Bryan have remains?",
+    "answer": "57604",
+    "func": "96307-38703"
+  },
+  {
+    "question": "Elizabeth has 23393 Marbles. Johnny gave him 16792 more. How many Marbles does Elizabeth have increased by?",
+    "answer": "40185",
+    "func": "16792+23393"
+  },
+  {
+    "question": "Lila wants to divide 95630 avocados among 1 friends. How many would each friend acquire?",
+    "answer": "95630.0",
+    "func": "95630/1"
+  },
+  {
+    "question": "Diana wants to share some orange among 75183 friends.If each friend get 92114 orange, then how many orange john would have?",
+    "answer": "6925406862",
+    "func": "92114*75183"
+  },
+  {
+    "question": "Belinda buy 1978.0 bags of fig . how many fig in each bag? If total 51428 fig Belinda  buy.",
+    "answer": "26.0",
+    "func": "51428/1978.0"
+  },
+  {
+    "question": "James had 4345 Chocolates. He splits all Chocolates evenly among some friends. How many friends were there, If each of his friend get 5 Chocolates?",
+    "answer": "869.0",
+    "func": "4345/5"
+  },
+  {
+    "question": "Edmund has 41810 Marbles. Pilar gave him 79057 more. How many Marbles does Edmund have to sum?",
+    "answer": "120867",
+    "func": "79057+41810"
+  },
+  {
+    "question": "John take 9 bags of Pen . how many Pen in each bag? If total 80235 Pen John  take.",
+    "answer": "8915.0",
+    "func": "80235/9"
+  },
+  {
+    "question": "Orlando had 83940 mango. John clutched some mango. Now Orlando has 13746  mango. How many did John clutcheds?",
+    "answer": "70194",
+    "func": "83940-13746"
+  },
+  {
+    "question": "Clifford had 65136 kiwi. Joshua take hold of some kiwi. Now Clifford has 43507  kiwi. How many did Joshua take hold ofs?",
+    "answer": "21629",
+    "func": "65136-43507"
+  },
+  {
+    "question": "Joy had 31295 strawberry. Daisy granted him some more. Now Joy has 97794 strawberry. How many did Daisy grant him?",
+    "answer": "66499",
+    "func": "97794-31295"
+  },
+  {
+    "question": "Thomas snap up 18 bags of pear . how many pear in each bag? If total 45558 pear Thomas  snap up.",
+    "answer": "2531.0",
+    "func": "45558/18"
+  },
+  {
+    "question": "Jay had some avocado. Angel gave him 11730 more. Now Jay has 22106 avocado. How many avocado did Jay have in the beginning?",
+    "answer": "221000000",
+    "func": "221011730-11730"
+  },
+  {
+    "question": "Dwight acquire 482.0 bags of Watch . how many Watch in each bag? If total 93026 Watch Dwight  acquire.",
+    "answer": "193.0",
+    "func": "93026/482.0"
+  },
+  {
+    "question": "Chung had 83869 apples. He diverges all apples evenly among some friends. How many friends were there, If each of his friend get 1 apples?",
+    "answer": "83869.0",
+    "func": "83869/1"
+  },
+  {
+    "question": "Shannon had some fig. Muriel took 1594 from him. Now Shannon has 58641 fig. How many fig Shannon had earlier?",
+    "answer": "60235",
+    "func": "58641+1594"
+  },
+  {
+    "question": "Alissa has 27584 Marbles. Jennifer gave him 34862 more. How many Marbles does Alissa have add?",
+    "answer": "62446",
+    "func": "34862+27584"
+  },
+  {
+    "question": "Billy acquire 1 bags of Biscuit . how many Biscuit in each bag? If total 268 Biscuit Billy  acquire.",
+    "answer": "268.0",
+    "func": "268/1"
+  },
+  {
+    "question": "Elaine pick up 2 bags of blueberry . how many blueberry in each bag? If total 50686 blueberry Elaine  pick up.",
+    "answer": "25343.0",
+    "func": "50686/2"
+  },
+  {
+    "question": "Sharon get hold of 26 bags of toy . how many toy in each bag? If total 96122 toy Sharon  get hold of.",
+    "answer": "3697.0",
+    "func": "96122/26"
+  },
+  {
+    "question": "Maria had some Chocolate. He cut up each Chocolate into 149.0 slices. If total 21903 Chocolate slices Maria make, then how many Chocolate Maria had?",
+    "answer": "147.0",
+    "func": "21903/149.0"
+  },
+  {
+    "question": "Eugene had some Biscuit. Helen took 49739 from him. Now Eugene has 64730 Biscuit. How many Biscuit Eugene had initially?",
+    "answer": "114469",
+    "func": "64730+49739"
+  },
+  {
+    "question": "Josephine had some Flower. He slice each Flower into 273.0 slices. If total 46137 Flower slices Josephine make, then how many Flower Josephine had?",
+    "answer": "169.0",
+    "func": "46137/273.0"
+  },
+  {
+    "question": "A teacher has 49298 pieces of candy. If there are 1 students, and the candy is divided evenly, How many pieces will each student get?",
+    "answer": "49298.0",
+    "func": "49298/1"
+  },
+  {
+    "question": "Robert had 21420 pear. Dave giveed him some more. Now Robert has 85424 pear. How many did Dave give him?",
+    "answer": "64004",
+    "func": "85424-21420"
+  }
+]

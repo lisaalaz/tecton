@@ -1,0 +1,22 @@
+{
+    "<add>": {
+        "overview": "<add> takes two (or more) numbers X and Y and computes their sum X+Y.",
+        "highlevel": "<add> is correct when a quantity needs to be added to another quantity.",
+        "example": "For example, if a football team scored 251 points in the first half and 117 points in the second half, then they scored <add>(251, 117)=368 points in total."
+    }, 
+    "<subtract>": {
+        "overview": "<subtract> takes two numbers X and Y and computes their difference X-Y.",
+        "highlevel": "<subtract> is correct when a quantity needs to be taken from another quantity.", 
+        "example": "For example, if a restaurant has 311 bottles of soda in stock and they use 226 bottles of soda to serve customers, they will have <subtract>(311, 226)=85 bottles of soda left."
+    }, 
+    "<multiply>": {
+        "overview": "<multiply> takes two (or more) numbers X and Y and computes their product X*Y.", 
+        "highlevel": "<multiply> is correct when a quantity repeats over another quantity.",
+        "example": "For example, if a car travels at a speed of 280 kilometers per hour for 457 hours, it will travel <multiply>(280, 457)=127960 kilometers in total."
+    }, 
+    "<divide>": {
+        "overview": "<divide> takes two numbers X and Y and computes their ratio X/Y.",
+        "highlevel": "<divide> is correct when we want to distribute a total quantity over a number of things or people.",
+        "example": "For example, if a store sells 2356 items and has a total revenue of 1284.98 dollars, the average price of an item is <divide>(1284.98, 2356)=1.83 dollars."
+    }
+}

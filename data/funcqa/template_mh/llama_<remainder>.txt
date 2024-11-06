@@ -1,0 +1,16 @@
+Answer the following question with the operator <remainder>:
+
+Q: A factory produces 9424 products in a day. If each box can hold 9266 products, how many products will be left over?
+A: The number of products that will be left over is 9424%9266=<remainder>(9424,9266)=158.
+
+Q: A school has 7602 students and they need to be divided into classes of 3497 students each. How many students will be left out?
+A: Divide 7602 by 3497, the remainder is <remainder>(7602,3497)=608.
+
+Q: A pizza restaurant has 1136 slices of pizza and wants to divide them equally among 443 people. If each person can have the same number of slices, how many slices will be left over?
+A: The number of slices left over will be 1136 mod 443=<remainder>(1136,443)=250.
+
+Q: A pizza parlor has 7935 pizzas and each pizza can be cut into 2016 slices. If each person can have only one slice, how many slices of pizza will be left?
+A: The number of slices of pizza left is 7935%2016=<remainder>(7935,2016)=1887.
+
+Q: [QUESTION]
+A:

@@ -1,0 +1,42 @@
+In this task, you must select the correct and most plausible continuation for the answer in the text below. You should use your common sense and logical and mathematical abilities. You should directly answer by choosing the correct option. Output only the letter corresponding to the correct option.
+
+Question: Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+Answer so far: Natalia sold 48/2 = 24 clips in May.\n
+
+Possible answer continuations:
+A: Therefore, she sold 24 clips in April and May.
+B: Natalia sold 48+24 = 72 clips altogether in April and May.
+C: Then she sold half as many clips in May.
+
+The correct continuation is: B
+
+
+Question: Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+Answer so far:
+
+Possible answer continuations:
+A: Weng earns 12/60 = $0.2 per minute.
+B: Weng earned $12 yesterday.
+C: Weng earns $12 an hour.
+
+The correct continuation is: A
+
+
+Question: Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+Answer so far: In the beginning, Betty has only 100 / 2 = $50.\n
+
+Possible answer continuations:
+A: Betty needs 100-50 = $50 more.
+B: Betty's parents gave her $15.
+C: Betty's parents gave her $15 and her grandparents gave her 15 * 2 = $30.
+
+The correct continuation is: C
+
+
+Question: [QUESTION]
+Answer so far: [ANSWER]
+
+Possible answer continuations:
+[OPTIONS]
+
+The correct continuation is: 

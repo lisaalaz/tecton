@@ -1,0 +1,197 @@
+[
+    {
+        "question": "A baker is dividing 7105 pounds of dough into loaves of bread that weigh 5783 pounds each. How many pounds of dough will be left over if they cannot make a complete loaf of bread with the remaining dough?",
+        "answer": 1322,
+        "func": "<remainder>(7105,5783)=1322"
+    },
+    {
+        "question": "A farmer has 7558 eggs and wants to put them into crates that hold 3788 eggs each. How many eggs will be left over?",
+        "answer": 3770,
+        "func": "<remainder>(7558,3788)=3770"
+    },
+    {
+        "question": "A pizza has 4696 slices and 3245 people want to share it equally. How many slices will be left?",
+        "answer": 1451,
+        "func": "<remainder>(4696,3245)=1451"
+    },
+    {
+        "question": "A rectangular room has a length of 427 meters and a width of 901 meters. What is the maximum length of a tile that can be used to cover the entire floor without cutting any tile?",
+        "answer": 1,
+        "func": "<gcd>(427,901)=1"
+    },
+    {
+        "question": "A group of students wants to distribute 237 pencils and 894 erasers evenly among themselves. What is the maximum number of students in the group that can receive the same number of pencils and erasers?",
+        "answer": 3,
+        "func": "<gcd>(237,894)=3"
+    },
+    {
+        "question": "A store has 716 shirts in one color and 103 shirts in another color. The store wants to arrange them in rows with the same number of shirts in each row. What is the largest possible number of shirts in each row?",
+        "answer": 1,
+        "func": "<gcd>(716,103)=1"
+    },
+    {
+        "question": "A recipe calls for 159.44 cups of flour to make 621.15 servings. How much flour is needed per serving?",
+        "answer": 0.26,
+        "func": "<divide>(159.44, 621.15)=0.26"
+    },
+    {
+        "question": "If an athlete can run 106.84 meters in 477.05 seconds, how many meters can they run in one minute?",
+        "answer": 7.95,
+        "func": "<divide>(477.05, 60)=7.95"
+    },
+    {
+        "question": "A car can travel 20282.14 miles on a full tank of gas. If the gas tank holds 16758.92 gallons of gas, how far can the car travel on one gallon of gas?",
+        "answer": 1.21,
+        "func": "<divide>(20282.14, 16758.92)=1.21"
+    },
+    {
+        "question": "A company has 9 employees. How many ways can you choose a team of 7 employees?",
+        "answer": 36,
+        "func": "<choose>(9,7)=36"
+    },
+    {
+        "question": "A store has 15 different colored shirts. How many ways can you choose 11 shirts?",
+        "answer": 1365,
+        "func": "<choose>(15,11)=1365"
+    },
+    {
+        "question": "A restaurant offers 15 different types of pizza toppings. If a customer can choose 5 toppings for their pizza, how many different pizzas can they order?",
+        "answer": 3003,
+        "func": "<choose>(15,5)=3003"
+    },
+    {
+        "question": "A company made a profit of $399.63 in January. In February, they lost $319.68. What was their net profit for the two months?",
+        "answer": 79.95,
+        "func": "<subtract>(399.63, 319.68)=79.95"
+    },
+    {
+        "question": "A restaurant has 311 bottles of soda in stock. They use 226 bottles of soda to serve customers today. How many bottles of soda are left in the restaurant?",
+        "answer": 85,
+        "func": "<subtract>(311, 226)=85"
+    },
+    {
+        "question": "A store had 464 pencils in stock. They sold 301 pencils today. How many pencils are left in the store?",
+        "answer": 163,
+        "func": "<subtract>(464, 301)=163"
+    },
+    {
+        "question": "If a bag of apples weighs 387.84 pounds and I want to buy 257 bags, how many pounds of apples will I have in total?",
+        "answer": 99674.88,
+        "func": "<multiply>(387.84, 257)=99674.88"
+    },
+    {
+        "question": "If a package of cookies has 142 cookies, and I want to buy 231 packages, how many cookies will I have in total?",
+        "answer": 32802,
+        "func": "<multiply>(142, 231)=32802"
+    },
+    {
+        "question": "A box contains 14 items and each item weighs 44.76 pounds. What is the total weight of the items in the box?",
+        "answer": 626.64,
+        "func": "<multiply>(14, 44.76)=626.64"
+    },
+    {
+        "question": "The variance of a float list is 4953. What is the standard deviation of the list?",
+        "answer": 70.38,
+        "func": "<sqrt>(4953)=70.38"
+    },
+    {
+        "question": "If we know the variance of the weather data is 9831, what is the standard deviation?",
+        "answer": 99.15,
+        "func": "<sqrt>(9831)=99.15"
+    },
+    {
+        "question": "The variance of a float list is 746. What is the standard deviation of the list?",
+        "answer": 27.31,
+        "func": "<sqrt>(746)=27.31"
+    },
+    {
+        "question": "A group of 7 friends are taking a photo together. How many ways can they arrange themselves in the photo?",
+        "answer": 5040,
+        "func": "<permutate>(7,7)=5040"
+    },
+    {
+        "question": "A teacher has 5 students who need to present their projects. The teacher wants to randomly select 3 students to present their projects. How many possible orders are there for the students to present their projects?",
+        "answer": 60,
+        "func": "<permutate>(5,3) = 60"
+    },
+    {
+        "question": "A restaurant has 12 tables and wants to arrange 7 tables for a private event, how many ways can they arrange the tables?",
+        "answer": 3991680,
+        "func": "<permutate>(12,7)=3991680"
+    },
+    {
+        "question": "ln(4230.98) is equal to what?",
+        "answer": 8.35,
+        "func": "<ln>(4230.98)=8.35"
+    },
+    {
+        "question": "What is the natural log of 3576.01?",
+        "answer": 8.18,
+        "func": "<ln>(3576.01)=8.18"
+    },
+    {
+        "question": "ln(5451) is equal to what?",
+        "answer": 8.6,
+        "func": "<ln>(5451)=8.6"
+    },
+    {
+        "question": "A sqaure has a side length of 2.39 meters. What is the area of the square in square meters?",
+        "answer": 5.71,
+        "func": "<power>(2.39, 2)=5.71"
+    },
+    {
+        "question": "A sqaure has a side length of 7.89 meters. What is the area of the square in square meters?",
+        "answer": 62.25,
+        "func": "<power>(7.89, 2)=62.25"
+    },
+    {
+        "question": "A bacteria culture doubles every 3 hours. Starting with one bacterium, how many bacteria will there be after 39 hours?",
+        "answer": 8192,
+        "func": "<power>(2, 39/3)=8192"
+    },
+    {
+        "question": "A group of friends wants to go on a road trip and must choose from three different routes. Route A takes 493 hours, Route B takes 545 hours, and Route C takes 601 hours. If the friends want to arrive at their destination at the same time, what is the earliest departure time they can choose?",
+        "answer": 161479685,
+        "func": "<lcm>(493,545,601)=161479685"
+    },
+    {
+        "question": "A group of students have to complete two different assignments. The first assignment takes 373 days to complete while the second assignment takes 316 days. If both assignments start at the same time, what is the least amount of time it will take for the students to complete both assignments?",
+        "answer": 117868,
+        "func": "<lcm>(373,316)=117868"
+    },
+    {
+        "question": "A choir is practicing for a concert. The soprano section practices their part every 908 minutes, while the alto section practices their part every 970 minutes. If both sections start practicing at the same time, what is the least amount of time it will take for both sections to practice their parts at the same time?",
+        "answer": 440380,
+        "func": "<lcm>(908,970)=440380"
+    },
+    {
+        "question": "log(7791) equals?",
+        "answer": 3.89,
+        "func": "<log>(7791)=3.89"
+    },
+    {
+        "question": "What is the value of the logarithm of 8878?",
+        "answer": 3.95,
+        "func": "<log>(8878)=3.95"
+    },
+    {
+        "question": "log(7548) equals?",
+        "answer": 3.88,
+        "func": "<log>(7548)=3.88"
+    },
+    {
+        "question": "A farmer harvested 147 apples and 167 oranges. How many fruits did he harvest in total?",
+        "answer": 314,
+        "func": "<add>(147, 167)=314"
+    },
+    {
+        "question": "A company received 494 orders on Monday and 209 on Tuesday. How many orders did they receive in total?",
+        "answer": 703,
+        "func": "<add>(494, 209)=703"
+    },
+    {
+        "question": "A company has 224 employees in one office and 77 employees in another office. How many employees does the company have in total?",
+        "answer": 301,
+        "func": "<add>(224, 77)=301"
+    }
+]

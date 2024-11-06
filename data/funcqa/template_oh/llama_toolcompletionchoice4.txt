@@ -1,0 +1,89 @@
+In this task, you must select the correct and most plausible continuation for the answer in the text below. You should use your common sense and logical and mathematical abilities. You should directly answer by choosing the correct option. Output only the letter corresponding to the correct option.
+
+Text to continue:
+Question: Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+Answer:
+
+Possible answer continuations:
+A: Natalia sold 48/2 =<add>(48, 2)=50
+B: Natalia sold 48/2 =<divide>(48, 2)=24
+C: Natalia sold 48/2 = 24 clips in may so <add>(24)=24
+D: Natalia sold 48/2 = 24 clips in may so she sold <add>(24, 24)=48
+
+The correct continuation is: B
+
+
+Text to continue:
+Question: Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?
+Answer: Let S be the amount Alexis paid for the shoes.\n
+
+Possible answer continuations:
+A: She spent S + 30 + 46 + 38 + 11 + 18 = S + <add>(30, 46, 38, 11, 18)=143
+B: She spent S + 30 + 46 + 38 + 11 + 18 = S + <subtract>(30, 46, 38, 11, 18)=-83
+C: She spent S + 30 + 46 + 38 + 11 + 18 = S + 30 = <add>(30)=30
+D: She spent S + 30 + 46 + 38 + 11 + 18 = S + 30 + 46 = <add>(30, 46)=76
+
+The correct continuation is: A
+
+
+Text to continue:
+Question: Ken created a care package to send to his brother, who was away at boarding school.  Ken placed a box on a scale, and then he poured into the box enough jelly beans to bring the weight to 2 pounds.  Then, he added enough brownies to cause the weight to triple.  Next, he added another 2 pounds of jelly beans.  And finally, he added enough gummy worms to double the weight once again.  What was the final weight of the box of goodies, in pounds?
+Answer:
+
+Possible answer continuations:
+A: To the initial weight 2 pounds of jelly beans he adds <add>(2, 2)=4
+B: To the initial weight 2 pounds of jelly beans he adds enough <add>(2, 3)=5
+C: To the initial weight 2 pounds of jelly beans he adds enough brownies to triple the weight so he obtains <divide>(2,3)=0.67
+D: To the initial weight 2 pounds of jelly beans he adds enough brownies to triple the weight so he obtains <multiply>(2,3)=6
+
+The correct continuation is: D
+
+
+Text to continue:
+Question: There are 5 houses on a street, and each of the first four houses has 3 gnomes in the garden. If there are a total of 20 gnomes on the street, how many gnomes does the fifth house have?
+Answer: In the first four houses, there are a total of 4 houses * 3 gnomes = 12 gnomes.\n
+
+Possible answer continuations:
+A: Therefore, the fifth house had 20 total gnomes - 12 gnomes = <add>(20, 12)=32
+B: Therefore, the fifth house had 20 total gnomes - 12 gnomes = <subtract>(20, 12)=8
+C: Therefore, the fifth house had 20 total gnomes - 12 gnomes = 8 <subtract>(20, 12, 8)=0
+D: Therefore, the fifth house had 20 total gnomes - 12 gnomes = 8 <subtract>(12, 8)=4
+
+The correct continuation is: B
+
+
+Text to continue:
+Question: Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+Answer:
+
+Possible answer continuations:
+A: Weng earns <multiply>(50, 12)=600
+B: Weng earns for each minute of work <divide>(50, 60)=0.833
+C: Weng earns for each minute of work 12/60 =<divide>(12, 60)=0.2
+D: Weng earns for each minute of work 12/60 =<add>(12, 60)=72
+
+The correct continuation is: C
+
+
+
+Text to continue:
+Question: Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+Answer:  
+
+Possible answer continuations:
+A: In the beginning, Betty has only $<divide>(100, 2)=50
+B: In the beginning, Betty has only $<subtract>(100, 2)=98
+C: In the beginning, Betty has only $50 and she receives $15 from her parents so $50+$15=<add>(50, 15)=65
+D: In the beginning, Betty has only $50 and she receives $15 from her parents so $50+$15=$<multiply>(50, 15)=750
+
+The correct continuation is: A
+
+
+Text to continue:
+Question: [QUESTION]
+Answer: [ANSWER]
+
+Possible answer continuations:
+[OPTIONS]
+
+The correct continuation is: 

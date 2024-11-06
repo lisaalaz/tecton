@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "There are 16329 rose bushes and thirty-seven oak trees currently in the park. Park workers will plant more rose bushes today. When the workers are finished there will be 44363 rose bushes in the park. How many rose bushes did the workers plant today ?",
+    "answer": "28034",
+    "func": "ans=44363-16329\n"
+  },
+  {
+    "question": "Julian is writing a comic book. His story has 94029 frames in all. If he wants to put exactly 92662 frames on each page, how many pages would he have?",
+    "answer": "1.0147525414948955",
+    "func": "ans=94029/92662\n"
+  },
+  {
+    "question": "There were 49228 people on the train. At the next stop 32789 people got off. How many people are there on the train now?",
+    "answer": "16439",
+    "func": "ans=49228-32789\n"
+  },
+  {
+    "question": "Savant has 3 jars. He puts in 87723 coins in the first jar, 86739 coins in the second jar and 77675 coins in the third jar. How many coins does Savant save together?",
+    "answer": "252137",
+    "func": "ans=87723+86739+77675\n"
+  },
+  {
+    "question": "At the town carnival Billy rode the ferris wheel 62661 times and the bumper cars 21392 times. If each ride cost 56462 tickets, how many tickets did he use?",
+    "answer": "4745800486",
+    "func": "ans=(62661+21392)*56462\n"
+  },
+  {
+    "question": "Gwen prepared 31728 books to sell in the flea market. After the activity ended she had 17257 books left. How many did she sell?",
+    "answer": "14471",
+    "func": "ans=31728-17257\n"
+  },
+  {
+    "question": "Every day, Ryan spends 75563 hours on learning English and 23897 hours on learning Chinese. How many hours does he spend on learning English and Chinese in all?",
+    "answer": "755647794",
+    "func": "ans=755623897+23897\n"
+  },
+  {
+    "question": "Frank was reading through his favorite book. The book had 37612 pages and it took Frank 14143 days to finish the book. How many pages did he read per day?",
+    "answer": "26593.66068019515",
+    "func": "ans=376114143/14143\n"
+  },
+  {
+    "question": "Annie takes trick or treating seriously. So, days before Halloween, she makes sure that the details of her trick or treating are well planned. First, she wanted to find out the number of houses in her village. If the village has 7630 houses per block and has a total of 44722 blocks, how many houses are there in her village?",
+    "answer": "341228860",
+    "func": "ans=7630*44722\n"
+  },
+  {
+    "question": "Mrs. Dalloway made 96275 tarts. If she wants to fill 31032 boxes with the same number of tarts, how many more tarts should she make?",
+    "answer": "3179",
+    "func": "ans=96275%31032\n"
+  },
+  {
+    "question": "A museum had 37314 paintings. After they got rid of some, they had 17876 left. What's the difference between the number of paintings before they got rid of and the left?",
+    "answer": "373100000",
+    "func": "ans=373117876-17876\n"
+  },
+  {
+    "question": "Ellen has 7744 more balls than Marin. Marin has 56601 balls. How many balls does Ellen have?",
+    "answer": "64345",
+    "func": "ans=7744+56601\n"
+  },
+  {
+    "question": "Vanessa had to complete 60551 pages of homework. Each page had 34378 problems on it. How many problems did she have to complete total?",
+    "answer": "2081622278",
+    "func": "ans=60551*34378\n"
+  },
+  {
+    "question": "Billy bought 38289 boxes of books at a yard sale. If each box had 1192 books, how many books did he buy?",
+    "answer": "45640488",
+    "func": "ans=38289*1192\n"
+  },
+  {
+    "question": "There are 43784 students in Mrs. Riley's class but she only has 31764 pencils. How many more pencils does Mrs. Riley need?",
+    "answer": "12020",
+    "func": "ans=43784-31764\n"
+  },
+  {
+    "question": "A store has 92554 shirts. Later they got in 62076 more shirts. How many shirts does the store have now?",
+    "answer": "154630",
+    "func": "ans=92554+62076\n"
+  },
+  {
+    "question": "There are 90840 students going to a trivia competition. If each school van can hold 20646 students, how many vans will they need?",
+    "answer": "10000.040685847138",
+    "func": "ans=206460840/20646\n"
+  },
+  {
+    "question": "The wolves, though accustomed to cold weather, also wanted to move away from the incoming winter. If there are 3581 packs of wolves living in the forest and 3474 packs went away, how many wolf packs were left in the forest?",
+    "answer": "107",
+    "func": "ans=3581-3474\n"
+  },
+  {
+    "question": "Sandy had 73461 pet fish. She bought 31753 more fish. How many pet fish does Sandy have now?",
+    "answer": "734349284",
+    "func": "ans=734317531+31753\n"
+  },
+  {
+    "question": "Olivia owned 17486 pennies. After she bought an apple, she had 6772 pennies left. How many did she spend for the apple?",
+    "answer": "10714",
+    "func": "ans=17486-6772\n"
+  },
+  {
+    "question": "For Halloween Isabel received 39745 pieces of candy from neighbors and 48473 pieces from her older sister. If she only ate 60245 pieces a day, how long would the candy last her?",
+    "answer": "1000016183409.7517",
+    "func": "ans=(60245974484760245+484760245)/60245\n"
+  },
+  {
+    "question": "Cody made 58153 dollars mowing lawns over the summer. If he charged 74406 bucks for each lawn, how many lawns did he mow?",
+    "answer": "0.7815633147864419",
+    "func": "ans=58153/74406\n"
+  },
+  {
+    "question": "A candy store has 82388 boxes of chocolates. Each box has 71883 pieces. How many pieces are there altogether in the 82388 boxes?",
+    "answer": "5922296604",
+    "func": "ans=82388*71883\n"
+  },
+  {
+    "question": "A farmer planted 94550 tomato seeds, 18504 cucumber seeds and 21714 pumpkin seeds. How many seeds did he plant all together?",
+    "answer": "134768",
+    "func": "ans=94550+18504+21714\n"
+  },
+  {
+    "question": "Marcus has 39206 baseball cards. He has 7923 more than Carter. How many baseball cards does Carter have?",
+    "answer": "31283",
+    "func": "ans=39206-7923\n"
+  },
+  {
+    "question": "David spent 77239 cents. He bought a ruler for 24507 cents and a folder for 43402 cents. He also bought 1692 pencils. How much does one pencil cost?",
+    "answer": "9954.51536643026",
+    "func": "ans=(77169239-(16924507+43401692))/1692\n"
+  },
+  {
+    "question": "Our watermelons have 88158 seeds each. If we have 10044 watermelons, how many seeds should there be when all seeds are taken out of the watermelons?",
+    "answer": "885458952",
+    "func": "ans=88158*10044\n"
+  },
+  {
+    "question": "Katie had 44180 DS games and her friend had 69643 games. How many do they have total?",
+    "answer": "113823",
+    "func": "ans=44180+69643\n"
+  },
+  {
+    "question": "The book store is very busy today. There are 93511 children listening to a story. 54770 people are shopping for books. 82924 people are at the checkout counter. How many people are at the bookstore?",
+    "answer": "231205",
+    "func": "ans=93511+54770+82924\n"
+  },
+  {
+    "question": "Carl, on the other hand, was able to collect 85104 stamps which are 37156 more than what Mark was able to collect. How many stamps was Mark able to collect?",
+    "answer": "47948",
+    "func": "ans=85104-37156\n"
+  },
+  {
+    "question": "A P.E. teacher needs to divide 33829 male students and 90583 female students into teams, each with the same combination of male students and female students and nobody left out. What is the greatest number of teams that can be formed?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(33829,90583)\n"
+  },
+  {
+    "question": "My car gets 31232 miles per gallon. How many miles can I drive on 11833 gallons of gas?",
+    "answer": "369568256",
+    "func": "ans=31232*11833\n"
+  },
+  {
+    "question": "A committee organizing a marathon has 38737 jugs of water and 65725 jugs of sports drink. The committee would like to set up a number of refreshment stations along the marathon course, with the same combination of jugs of water and jugs of sports drink at each station, with no beverages left over. What is the greatest number of refreshment stations that can be set up?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(38737,65725)\n"
+  },
+  {
+    "question": "They served a total of 64806 adults and 28058 children, if 25211 of all the people they served are male, how many are female?",
+    "answer": "67653",
+    "func": "ans=(64806+28058)-25211\n"
+  },
+  {
+    "question": "Oliver won 21313 tickets playing games at the arcade. If he spent 187 tickets buying a water gun, how many tickets did he still have?",
+    "answer": "21126",
+    "func": "ans=21313-187\n"
+  },
+  {
+    "question": "Paige had a sheet of paper that was 92321 inches long and 54984 inches wide. What is the area of the paper?",
+    "answer": "5076177864",
+    "func": "ans=92321*54984\n"
+  },
+  {
+    "question": "Mrs. Hilt baked pies last weekend for a holiday dinner. She baked 85941 pecan pies and 89577 apples pies. If she wants to arrange all of the pies in rows of 77603 pies each, how many rows will she have?",
+    "answer": "22877.52171952115",
+    "func": "ans=(877603941+897760377)/77603\n"
+  },
+  {
+    "question": "Omar loves to play checkers. He played 80454 games yesterday. He played 17233 games today. Omar lost 43314 games. How many games did he win?",
+    "answer": "54373",
+    "func": "ans=80454+17233-43314\n"
+  },
+  {
+    "question": "Paul bought 63653 boxes of chocolate candy and 17734 boxes of caramel candy. If each box has 48568 pieces inside it, how much candy did he have total?",
+    "answer": "3952803816",
+    "func": "ans=(63653+17734)*48568\n"
+  },
+  {
+    "question": "Dylan the Dog prepared 14054 hotdog sticks in a brown bag. His father placed 84090 more hotdog sticks in the same brown bag. How many hotdog sticks did Dylan and his father place in the brown bag?",
+    "answer": "98144",
+    "func": "ans=14054+84090\n"
+  },
+  {
+    "question": "Their last stop before leaving the zoo is the bird museum. There, they went through 25322 bird exhibits, spending 42328 minutes going around each exhibit. How much time did they spend going through the museum?",
+    "answer": "1071829616",
+    "func": "ans=25322*42328\n"
+  },
+  {
+    "question": "There are 19570 dogwood trees currently in the park. Park workers will plant more dogwood trees today. When the workers are finished there will be 32372 dogwood trees in the park. How many dogwood trees did the workers plant today ?",
+    "answer": "12802",
+    "func": "ans=32372-19570\n"
+  },
+  {
+    "question": "The rest of the kids around town got 4411 more eggs around the club house, 49207 eggs around the park and 34199 eggs in the town hall garden. If we add all the eggs that they got, how many eggs would that be?",
+    "answer": "3414920802825",
+    "func": "ans=4411+3414920749207+49207\n"
+  },
+  {
+    "question": "Another material that he needs is rope. If he already has 2925 feet of rope and he needs additional ropes having 11112 times the length of what he already have, how long should be the additional rope?",
+    "answer": "324593876544",
+    "func": "ans=29211112*11112\n"
+  },
+  {
+    "question": "A transport company bought 64558 tons of oil. A large barrel can hold 36598 tons of oil and a small barrel can hold 5 tons of oil. In order to use the least number of barrels and have every barrel fully occupied, how many large barrels should be used?",
+    "answer": "10000",
+    "func": "ans=365984558//36598\n"
+  },
+  {
+    "question": "It's basketball season in Ashford Elementary School. Chuck, the team captain of the Blue Team is feeling nervous about it. Their first opponent is the Red Team, composed of other 3rd graders, gave them a hard time. If they lost by 28837 points and the Red Team scored 53745 points, what is their team's final score?",
+    "answer": "24908",
+    "func": "ans=53745-28837\n"
+  },
+  {
+    "question": "There are 37994 boys and 3765 girls on the math team. For the next math competition, Mr. Johnson would like to arrange all of the students in equal rows with only girls or only boys in each row. What is the greatest number of students that can be in each row?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(37994,3765)\n"
+  },
+  {
+    "question": "Gwen's hair was 27822 centimeters long. After a haircut it was 2869 centimeters long. How much did she cut off?",
+    "answer": "24953",
+    "func": "ans=27822-2869\n"
+  },
+  {
+    "question": "When relatives visit Haley and her family, she and her cousins do origami. If she has 66259 origami papers to give away to her 28032 cousins, how many will each receive if she gives everyone the same number of origami papers?",
+    "answer": "100001000.00923944",
+    "func": "ans=2803228032259/28032\n"
+  },
+  {
+    "question": "Tripp and Charlotte are going on a 36 mile hike. Tripp's backpack weighs 41927 pounds. Charlotte's backpack weighs 2566 pounds. They hiked 9 miles the first day. What's the difference between the pounds of backpack of Tripp and Charlotte?",
+    "answer": "39361",
+    "func": "ans=41927-2566\n"
+  },
+  {
+    "question": "Dennis has 33578 pencils stored in boxes. If the are 27625 boxes, how many pencils must go in each box?",
+    "answer": "1.2154932126696834",
+    "func": "ans=33578/27625\n"
+  },
+  {
+    "question": "Carol had 15214 pieces of paper in her folder. After a week she had 12557 left. How many pieces did she use in the week?",
+    "answer": "2657",
+    "func": "ans=15214-12557\n"
+  },
+  {
+    "question": "While exercising Paul did 20137 push-ups in the morning and 10938 more in the afternoon. How many push-ups did Paul do total?",
+    "answer": "31075",
+    "func": "ans=20137+10938\n"
+  },
+  {
+    "question": "Bobby has 85749 books. Kristi has 42543 books. What's the difference of the number of Bobby's books and Kristi's books?",
+    "answer": "43206",
+    "func": "ans=85749-42543\n"
+  },
+  {
+    "question": "The ice rink has 3477 pairs of skates to rent. 3376 people rented skates when the ice rink opened. 40 more people rented skates during the first hour. How many pairs of skates are left?",
+    "answer": "61",
+    "func": "ans=3477-3376-40\n"
+  },
+  {
+    "question": "Jack loves to collect and read books. In fact, he has a mini-library in their house and he usually spends most of his time in it. The library is divided into different sections for different type of books. The science fiction section has 94448 books. If each book has 74585 pages, how many pages do all the 94448 books have in total?",
+    "answer": "452826024704",
+    "func": "ans=94448*4794448\n"
+  },
+  {
+    "question": "A pizza store had 23600 pieces of pepperoni to put on their pizzas. If each pizza got 81397 pieces, how many extra pieces of pepperoni would they have?",
+    "answer": "3600",
+    "func": "ans=813973600%81397\n"
+  },
+  {
+    "question": "A pet store had 17939 Siamese cats. If they sold 11327 of them, how many cats did they still have?",
+    "answer": "6612",
+    "func": "ans=17939-11327\n"
+  },
+  {
+    "question": "The music room has 59603 violins. There are also 47920 flutes. 18 students are in the school band. How many instruments are in the music room?",
+    "answer": "107523",
+    "func": "ans=59603+47920\n"
+  },
+  {
+    "question": "At the arcade Billy had won 51595 tickets. After buying a yoyo he had 20191 tickets left. How many tickets did the yoyo cost?",
+    "answer": "31404",
+    "func": "ans=51595-20191\n"
+  },
+  {
+    "question": "Tom bought 59902 tickets at the state fair. He spent 49512 tickets at the 'dunk a clown' booth and decided to use the rest on rides. If each ride cost 5288 tickets, how many rides could he go on?",
+    "answer": "1.9648260211800304",
+    "func": "ans=(59902-49512)/5288\n"
+  },
+  {
+    "question": "When Jose rode on a bus, he noticed some people sitting. At the next bus stop, 8909 people got on and 20373 people got off. Two stops later, 47740 people got on 84455 people got off the bus at the terminal station. How many people were in the bus when Jose got on the bus?",
+    "answer": "84489062633",
+    "func": "ans=84489098909-47740+20373-8909\n"
+  },
+  {
+    "question": "Shaquira is baking cookies to put in packages for a fundraiser. Shaquira has made 99189 chocolate chip cookies and 4309 sugar cookies. Shaquira wants to create identical packages of cookies to sell, and she must use all of the cookies. What is the greatest number of identical packages that Shaquira can make?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(99189,4309)\n"
+  },
+  {
+    "question": "Dean knew that they are going to stay at the beach for a while, so he brought 11317 sets of clothes for every week of their stay. If Dean is staying for 72205 weeks there, how many sets of clothes did he bring?",
+    "answer": "817143985",
+    "func": "ans=11317*72205\n"
+  },
+  {
+    "question": "Miki bought 22213 packs of red bouncy balls and 5997 packs of yellow bouncy balls. Each package contained 7 bouncy balls. How many more packs of red bouncy balls than yellow bouncy balls did Miki buy?",
+    "answer": "22210000",
+    "func": "ans=22215997-5997\n"
+  },
+  {
+    "question": "J.T. has some superhero trading cards. He lost 30038 of them. He gave 54552 of them to his best friend. Now he has 70062 cards left. How many cards did J.T. have at first?",
+    "answer": "154652",
+    "func": "ans=70062+30038+54552\n"
+  },
+  {
+    "question": "When he arrived there, he went on to climb to the top of the falls. It usually takes 31607 minutes for someone to get to the top. Stanley took time to see the view so his climb took 96957 times longer than the usual. How many minutes did it take Stanley to get to the top?",
+    "answer": "30647812659849",
+    "func": "ans=316096957*96957\n"
+  },
+  {
+    "question": "Matthew and Billie went apple picking. Matthew found 31719 big, red apples. Billie found some as well. Together they found 47707 apples. How many apples did Billie find?",
+    "answer": "15988",
+    "func": "ans=47707-31719\n"
+  },
+  {
+    "question": "For a birthday party a clown gave away 34090 balloons. Now he has 95690 balloons left. How many balloons did the clown have to start with?",
+    "answer": "129780",
+    "func": "ans=34090+95690\n"
+  },
+  {
+    "question": "Mona is having a party at her house to celebrate her birthday. She invited some friends and family. Mona prepared rainbow colored cupcakes for dessert. If she made 98337 sets for each of the 98337 colors of the rainbow and each set has 69084 cupcakes, how many cupcakes did Mona prepare in total?",
+    "answer": "6793513308",
+    "func": "ans=98337*69084\n"
+  },
+  {
+    "question": "Cheryl and Lori started a lemonade stand on Friday. They bought 85040 plastic cups. They sold a lot of lemonade and only had 1283 cups left. How many cups did Cheryl and Lori use?",
+    "answer": "83757",
+    "func": "ans=85040-1283\n"
+  },
+  {
+    "question": "It takes 85456 minutes to bake one pan of cookies. How long will it take to bake 19765 pans of cookies?",
+    "answer": "16839316629340",
+    "func": "ans=851976556*19765\n"
+  },
+  {
+    "question": "Sean has 5601 whistles. He has 3635 more whistles that Charles. How many whistles does Charles have?",
+    "answer": "1966",
+    "func": "ans=5601-3635\n"
+  },
+  {
+    "question": "The very first thing that Rachel tried when they reached England was the food. If she ate 82648 grams of bacon and 5514 grams of sausages, how much food did she eat in total?",
+    "answer": "88162",
+    "func": "ans=82648+5514\n"
+  },
+  {
+    "question": "Mr. Peter harvested some pears. He picked 25848 kg of the pears into a bag and 14874 kg of the pears into another bag. If there were still 67420 kg of pears left unpacked, how many kilograms of pears did Mr. Peter harvest?",
+    "answer": "108142",
+    "func": "ans=25848+14874+67420\n"
+  },
+  {
+    "question": "Chloe was making baggies of cookies with 65258 cookies in each bag. If she had 64532 chocolate chip cookies and 31364 oatmeal cookies, how many baggies could she make?",
+    "answer": "1.4694903306874254",
+    "func": "ans=(31364+64532)/65258\n"
+  },
+  {
+    "question": "Matthew had 50963 crackers. If Matthew gave equal numbers of crackers to his 18869 friends, how many crackers did each person eat?",
+    "answer": "26598.49292490328",
+    "func": "ans=501886963/18869\n"
+  },
+  {
+    "question": "Sarah is making bead necklaces. She has 67683 beads and is making 23437 necklaces with each necklace using the same number of beads. How many beads will each necklace use?",
+    "answer": "26600.575286939456",
+    "func": "ans=623437683/23437\n"
+  },
+  {
+    "question": "For the walls of the house, he would use 92053 large planks of wood. If each plank of wood needs 82114 pieces of nails to be secured, how many nails does John need for the house wall?",
+    "answer": "7558840042",
+    "func": "ans=92053*82114\n"
+  },
+  {
+    "question": "A bee has 26894 legs. How many legs do 77535 bees have?",
+    "answer": "20760274910790",
+    "func": "ans=267753594*77535\n"
+  },
+  {
+    "question": "Rachel bought some wrapping paper for Christmas that was 20709 feet long and with an area of 53678 square feet. What is the width of the wrapping paper?",
+    "answer": "2.5920131343860158",
+    "func": "ans=53678/20709\n"
+  },
+  {
+    "question": "For Paige's birthday she received 1069 dollars from her friends and 15090 dollars from her relatives. How much money did she get for her birthday?",
+    "answer": "16159",
+    "func": "ans=1069+15090\n"
+  },
+  {
+    "question": "Cheryl counted 85501 lemons. Lori bought 70168 more lemons. How many lemons do the girls have altogether?",
+    "answer": "155669",
+    "func": "ans=85501+70168\n"
+  },
+  {
+    "question": "A teacher is to arrange 82242 boys and 89660 girls in rows. He wishes to arrange them in such a way that only boys or girls will be there in a row. Find the greatest number of students that could be arranged in a row.",
+    "answer": "2",
+    "func": "import math\nans=math.gcd(82242,89660)\n"
+  },
+  {
+    "question": "Zoe was unboxing some of her old winter clothes. She found 90434 boxes of clothing and inside each box there were 60915 scarves and 12811 mittens. How many pieces of winter clothing did Zoe have total?",
+    "answer": "116710788298317484",
+    "func": "ans=(1290434110915+129043411)*90434\n"
+  },
+  {
+    "question": "A magician was selling magic card decks for 14694 dollars each. If he started with 51902 decks and by the end of the day he had 31948 left, how much money did he earn?",
+    "answer": "7625932469724",
+    "func": "ans=(519014694-31948)*14694\n"
+  },
+  {
+    "question": "Mrs. Wong had 92914 Valentines. She gave 29439 Valentines to her children. How many does she have left?",
+    "answer": "63475",
+    "func": "ans=92914-29439\n"
+  },
+  {
+    "question": "Tiffany was buying sodas for her and her friends. They needed 5512 sodas, but Tiffany bought 46987 extra. How many did she buy?",
+    "answer": "52499",
+    "func": "ans=5512+46987\n"
+  },
+  {
+    "question": "Next, she went to a country full of mountains. There she saw 63389 species of insects, reptiles and birds. If she saw 10008 insect species and 17831 bird species, how many reptile species did she see?",
+    "answer": "35550",
+    "func": "ans=63389-(10008+17831)\n"
+  },
+  {
+    "question": "At the arcade Amy had 93261 tickets she saved from the last time she went. This time she played a game 48364 times and earned 41472 tickets each time she played. How many tickets does she have now?",
+    "answer": "20069653461069",
+    "func": "ans=483932614*41472+93261\n"
+  },
+  {
+    "question": "At a store, there are 78951 computers. 59687 are sold. 11711 are shipped away to a company. How many computers are left?",
+    "answer": "7553",
+    "func": "ans=78951-59687-11711\n"
+  },
+  {
+    "question": "An airline has 81340 pieces of luggage to put away. If each luggage compartment will hold 35740 pieces of luggage, how many will be in the compartment that isn't full?",
+    "answer": "9860",
+    "func": "ans=81340%35740\n"
+  },
+  {
+    "question": "At the playground, the new sandbox was 6941 meters wide and 88844 meters long. What is the area of the sandbox?",
+    "answer": "616666204",
+    "func": "ans=6941*88844\n"
+  },
+  {
+    "question": "There were 301 roses in the vase. Jessica cut some more roses from her flower garden. There are now 9901 roses in the vase. How many roses did she cut ?",
+    "answer": "9600",
+    "func": "ans=9901-301\n"
+  },
+  {
+    "question": "Penny's class is going to Animaland, the largest zoo on earth, for their science field trip. The zoo has a variety of wild animals in captivity. Their first destination was the aviary. The aviary has 3 species of eagles on show that day. They have 50922 Bald Eagles, 10763 Harpy Eagles, and 10470 Crowned Eagles. How many eagles are on display that day?",
+    "answer": "72155",
+    "func": "ans=50922+10763+10470\n"
+  },
+  {
+    "question": "The school is planning a field trip. The school has 11 classrooms. There are 60279 students in the school and 66458 seats on each school bus. How many buses are needed to take the trip?",
+    "answer": "0.9070239850732794",
+    "func": "ans=60279/66458\n"
+  },
+  {
+    "question": "Mike is serving vegetables at a soup kitchen. He has 2996 carrot sticks and 21192 baby potatoes that he wants to divide evenly, with no food left over. What is the greatest number of plates Mike can prepare?",
+    "answer": "4",
+    "func": "import math\nans=math.gcd(2996,21192)\n"
+  },
+  {
+    "question": "A waiter had 38876 customers. If 33912 left, how many customers would the waiter still have?",
+    "answer": "388700000",
+    "func": "ans=388733912-33912\n"
+  },
+  {
+    "question": "At a bus stop 24522 people got off the bus. Now there were 42081 people on the bus. What's the difference between the number of people getting off the bus and still on the bus?",
+    "answer": "17559",
+    "func": "ans=42081-24522\n"
+  },
+  {
+    "question": "Zoe picked 6307 apples from her tree. Now the tree has 23184 apples still on it. What's the difference between the number of apples Zoe picked and now the tree has?",
+    "answer": "16877",
+    "func": "ans=23184-6307\n"
+  },
+  {
+    "question": "Molly had 42914 candles on her birthday cake. She grew older and got 81857 more on her birthday cake. How old is Molly now?",
+    "answer": "124771",
+    "func": "ans=42914+81857\n"
+  },
+  {
+    "question": "With flu season coming up, Lexi decides to make get-well-soon kits. She has 92510 cans of chicken soup and 49883 boxes of tissue, which she wants to use to make identical kits with no materials left over. What is the greatest number of get-well-soon kits Lexi can make?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(92510,49883)\n"
+  },
+  {
+    "question": "Beside the pile of clean white paper was a stack of 49462 sheets of used paper. She wants to place it in boxes for recycling. If every box can contain 64554 sheets, how many boxes does she need?",
+    "answer": "0.7662112340056387",
+    "func": "ans=49462/64554\n"
+  },
+  {
+    "question": "A music teacher had 36692 recorders, but she decided to buy 68845 more boxes with each box having 40781 recorders in it. How many recorders did she have after buying the 68845 boxes?",
+    "answer": "2807604637",
+    "func": "ans=68845*40781+36692\n"
+  },
+  {
+    "question": "Olivia gave her cat 6445 cheese cubes. Now Olivia has 55473 cheese cubes left. How many cheese cubes did Olivia have originally?",
+    "answer": "61918",
+    "func": "ans=6445+55473\n"
+  },
+  {
+    "question": "Betty also bought 78897 shiny blue round stones. If 21005 pieces of this stone is in each bracelet, how many bracelets of blue shiny round stones will there be?",
+    "answer": "3.756105689121638",
+    "func": "ans=78897/21005\n"
+  },
+  {
+    "question": "For the school bake sale Amy made pastries. She baked 59452 cupcakes and 37385 cookies. After the sale she had 12698 to take back home. How many pastries did she sell?",
+    "answer": "84139",
+    "func": "ans=59452+37385-12698\n"
+  },
+  {
+    "question": "To add support on the house's connections, he decided to tie the wood joints with rope. He needs 57908 feet of rope. If he has 3522 feet of rope with him and at the moment he only needed 53138 feet, how many feet of rope did his friends give to him?",
+    "answer": "53082248",
+    "func": "ans=53138908-(53138+3522)\n"
+  },
+  {
+    "question": "Jerry was selling his old games. He started out with 10497 but sold 3525 of them. He packed the rest up putting 6768 games into each box. How many boxes did he have to use?",
+    "answer": "1529.1182033096927",
+    "func": "ans=(10352597-3525)/6768\n"
+  },
+  {
+    "question": "One bright sunny day, Betty decided to make bracelets from beautiful stones she bought from a local store. She bought 96580 pink flower stones and wanted to make 358 bracelets out of these stones. How many pink flower stones will each bracelet have if she used the same number of stones in each bracelet?",
+    "answer": "26965.307262569833",
+    "func": "ans=9653580/358\n"
+  },
+  {
+    "question": "Lana had 77481 DS games. If she bought 49851 more games, how many would she have total?",
+    "answer": "127332",
+    "func": "ans=77481+49851\n"
+  },
+  {
+    "question": "Terry and Grace are building a gear machine. Terry used 45809 building pieces. Grace used 64517 pieces. How many building pieces did they use altogether?",
+    "answer": "64582326",
+    "func": "ans=64517809+64517\n"
+  },
+  {
+    "question": "With the win streak that they have, Chuck's team was able to get into the playoffs. They reached the semi-finals where they played against the Black Team. If they finished the game with 43036 points and won it by 9115 points, what is the Black Team's final score?",
+    "answer": "33921",
+    "func": "ans=43036-9115\n"
+  },
+  {
+    "question": "Michelle likes to save money every now and then so that she has money to buy the things that she wants. One day, she decided to count her savings. She opened her piggy bank and sorted out the different coins and dollar bills. If she counted a total of 10792 nickels (a nickel is equivalent to 66823 cents), what is the total value of money does she have in nickels?",
+    "answer": "721153816",
+    "func": "ans=10792*66823\n"
+  },
+  {
+    "question": "Alyssa has 45181 books in her library. She bought several books at a yard sale over the weekend. She now has 81344 books in her library. How many books did she buy at the yard sale ?",
+    "answer": "36163",
+    "func": "ans=81344-45181\n"
+  },
+  {
+    "question": "The twins Ellie and Amy were able to locate 29063 eggs around the club house, 1651 eggs in the town hall garden and 94862 more around the park. How many eggs do they have in total?",
+    "answer": "310529736",
+    "func": "ans=290948623+19486251+94862\n"
+  },
+  {
+    "question": "At the fair Haley went on 30933 rides in the day and 79798 at night. How many rides did Haley go on total?",
+    "answer": "79798097979959596",
+    "func": "ans=79798097979879798+79798\n"
+  },
+  {
+    "question": "Daniel had some noodles. He gave 66386 noodles to William. Now Daniel only has 61060 noodles. How many noodles did Daniel have to begin with?",
+    "answer": "127446",
+    "func": "ans=61060+66386\n"
+  },
+  {
+    "question": "Andy had 5915 baseball cards. His dad gave him some more. Then Andy had 46049 baseball cards. How many baseball cards did Andy get from his dad?",
+    "answer": "40134",
+    "func": "ans=46049-5915\n"
+  },
+  {
+    "question": "The elephant had 84264 peanuts. She ate 16817 of them. How many peanuts did the elephant have left?",
+    "answer": "67447",
+    "func": "ans=84264-16817\n"
+  },
+  {
+    "question": "There are 8051 pigs in the barn. Some more come to join them. Now there are 15832 pigs. How many pigs came to join them?",
+    "answer": "7781",
+    "func": "ans=15832-8051\n"
+  },
+  {
+    "question": "There were 62276 people on the bus. At the next stop 1917 more people got on the bus. How many people are there on the bus now?",
+    "answer": "64193",
+    "func": "ans=62276+1917\n"
+  },
+  {
+    "question": "Paco had 2350 cookies. He ate 2338 of them. How many cookies did Paco have left?",
+    "answer": "12",
+    "func": "ans=2350-2338\n"
+  },
+  {
+    "question": "Rick and Todd have the same number of candy bars. Rick ate 26000 candy bars. Todd gave away 90344 of his candy bars. How many more candy bars did Rick have than Todd then?",
+    "answer": "64344",
+    "func": "ans=90344-26000\n"
+  },
+  {
+    "question": "For a birthday party Cody bought 64329 regular sodas and 23044 diet sodas. If his fridge would only hold 19618 on each shelf, how many shelves would he fill up?",
+    "answer": "4.453715975124886",
+    "func": "ans=(64329+23044)/19618\n"
+  },
+  {
+    "question": "Tiffany was sending out birthday invitations to her friends. She sent out 35839 on Monday and 62260 on Tuesday. How many did she send total?",
+    "answer": "356288299",
+    "func": "ans=356226039+62260\n"
+  },
+  {
+    "question": "A baker made 95136 cakes. If he sold 74560 of them, how many cakes would the baker still have?",
+    "answer": "20576",
+    "func": "ans=95136-74560\n"
+  },
+  {
+    "question": "A farm was 72390 miles wide and 92940 miles long. What is the area of the farm?",
+    "answer": "6727926600",
+    "func": "ans=72390*92940\n"
+  },
+  {
+    "question": "The next act involved several jugglers. If each juggler is juggling 43998 balls at a time, how many balls are needed if there are 11103 jugglers putting a show at the same time?",
+    "answer": "488509794",
+    "func": "ans=43998*11103\n"
+  },
+  {
+    "question": "Hayley had 19672 meatballs on her plate. Kirsten stole some of her meatballs. Now she has 11688 meatballs on her plate. How many meatballs did Kirsten steal?",
+    "answer": "7984",
+    "func": "ans=19672-11688\n"
+  },
+  {
+    "question": "At the river, 15306 out of 39766 salmon families went to warmer waters to avoid being frozen. How many salmon families were left in the river?",
+    "answer": "24460",
+    "func": "ans=39766-15306\n"
+  },
+  {
+    "question": "A chef had 14483 apples. If he used 4681 of them to make a pie, how many apples would he still have?",
+    "answer": "14442132",
+    "func": "ans=14446813-4681\n"
+  },
+  {
+    "question": "A vase can hold 85113 flowers. If you had 50770 flowers, how many vases would you need?",
+    "answer": "10000.009046796611",
+    "func": "ans=851130770/85113\n"
+  },
+  {
+    "question": "Tim has 35700 pairs of headphones and 7523 music players. Tim wants to sell all of the headphones and music players in identical packages. What is the greatest number of packages Tim can make?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(35700,7523)\n"
+  },
+  {
+    "question": "Debby had 57086 quarters. If it costs 6288 quarters for each coke from a coke machine, how many could she buy?",
+    "answer": "9.07856234096692",
+    "func": "ans=57086/6288\n"
+  },
+  {
+    "question": "Victor had 89201 apps on his phone. He deleted 7901 of them. How many apps does Victor have left?",
+    "answer": "79011300",
+    "func": "ans=79019201-7901\n"
+  },
+  {
+    "question": "Tiffany was playing a video game and had 26231 lives. In a hard part of the game she lost 21605 lives. If she got 4043 more lives in the next level, how many lives would she have?",
+    "answer": "8669",
+    "func": "ans=26231-21605+4043\n"
+  },
+  {
+    "question": "They also gathered paper to create some star-shaped papier-mache. If each star requires 89764 pieces of paper and they had 70054 pieces of paper, how many stars were they able to make?",
+    "answer": "0.780424223519451",
+    "func": "ans=70054/89764\n"
+  },
+  {
+    "question": "A mirror store has 32022 mirrors in stock. 24436 mirrors are broken, and 7382 mirrors are sold. How many mirrors are left?",
+    "answer": "204",
+    "func": "ans=32022-24436-7382\n"
+  },
+  {
+    "question": "A chef used 80867 cherries to make a pie. Now he has 55793 cherries left. How many cherries did he have before he made the pie?",
+    "answer": "136660",
+    "func": "ans=80867+55793\n"
+  },
+  {
+    "question": "The parents are making sandwiches for the class picnic. They have 50737 turkey slices, 70459 cheese slices, and 96 tomato slices. What is the greatest number of sandwiches they can make if each sandwich has the same filling?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(50737,70459)\n"
+  },
+  {
+    "question": "A grocery store had 11651 bottles of regular soda and 95490 bottles of diet soda. How many bottles did they have total?",
+    "answer": "107141",
+    "func": "ans=11651+95490\n"
+  },
+  {
+    "question": "Determined to have fun, they travelled to the next amusement park, HappyLand. If they cover a distance of 93656 feet for every minute of travel and they travelled for 51750 minutes, how far is HappyLand from SFL?",
+    "answer": "26780814198000",
+    "func": "ans=517503656*51750\n"
+  },
+  {
+    "question": "A garden has 96614 rows and 75797 columns of bean plants. How many plants are there in all?",
+    "answer": "7323051358",
+    "func": "ans=96614*75797\n"
+  },
+  {
+    "question": "Liz and Jenn had a book sale. They sold 48740 detective books and 59921 puzzle books. How many books did they sell altogether?",
+    "answer": "108661",
+    "func": "ans=48740+59921\n"
+  },
+  {
+    "question": "Mr. Lee harvested 18908 apples and he packed them evenly in some baskets. If there are 20518 apples in each basket, how many apples were left unpacked?",
+    "answer": "18908",
+    "func": "ans=18908%20518\n"
+  },
+  {
+    "question": "Jack received 67115 emails in the morning and 99225 emails in the afternoon. How many emails did Jack receive in the day?",
+    "answer": "166340",
+    "func": "ans=67115+99225\n"
+  },
+  {
+    "question": "Paul had 2980 books. After selling some in a garage sale he had 701 left. How many books did he sell?",
+    "answer": "2279",
+    "func": "ans=2980-701\n"
+  },
+  {
+    "question": "Willie, the town baker, wanted to make the biggest cake their town has ever seen. First, he prepared the flour. He is planning to use 9771 lbs. of flour. If he has 5200 lbs. of flour stored in his bakery, how much more flour does he need to buy?",
+    "answer": "4571",
+    "func": "ans=9771-5200\n"
+  },
+  {
+    "question": "At the zoo a cage had 55455 snakes. If 27873 were hiding, how many snakes were not hiding?",
+    "answer": "27582",
+    "func": "ans=55455-27873\n"
+  },
+  {
+    "question": "Shiela was into history of Asia. She can read 56623 pages per hour of the book entitled \"Asia's History Made Easy\". If the encyclopedia has 78691 pages, how many hours did it take Shiela to finish reading the book?",
+    "answer": "1.3897356198011408",
+    "func": "ans=78691/56623\n"
+  },
+  {
+    "question": "Larry's Lawn Care charges 7665 bucks to trim a hedge. If Henry has 57467 hedges, how much money would he spend?",
+    "answer": "440484555",
+    "func": "ans=7665*57467\n"
+  },
+  {
+    "question": "Paige sent out 67176 birthday party invitations. If 37228 people showed up, how many people didn't come?",
+    "answer": "29948",
+    "func": "ans=67176-37228\n"
+  },
+  {
+    "question": "The friends then proceeded to the rest of the houses in their village. However, Sam had to go home earlier. She got her share of candies which are composed of 11584 chewing gums, 91102 chocolate bars, and 92195 assorted fruit candies. How many candies did she get in total?",
+    "answer": "19293581",
+    "func": "ans=19110284+91102+92195\n"
+  },
+  {
+    "question": "Gary had 97324 dollars. He spent 95859 dollars on a pet snake. How many dollars did Gary have left?",
+    "answer": "1465",
+    "func": "ans=97324-95859\n"
+  },
+  {
+    "question": "Gwen had 90982 fish and her sister had 21140 fish. How many fish did they have total?",
+    "answer": "112122",
+    "func": "ans=90982+21140\n"
+  },
+  {
+    "question": "Amy had 86120 music files and 9051 video files on her flash drive. If she deleted 17073 of the files, how many files were still on her flash drive?",
+    "answer": "78098",
+    "func": "ans=(86120+9051)-17073\n"
+  },
+  {
+    "question": "Keith has 58124 marbles and 3 pencils. If he shares the marbles among 30017 friends, how many marbles does each friend get?",
+    "answer": "1.9363693906786155",
+    "func": "ans=58124/30017\n"
+  },
+  {
+    "question": "Marian's friends were coming over that afternoon so she made 95305 bite-sized pretzels. If one serving is equal to 2658 pretzels, how many servings of bite-sized pretzels was Marian able to prepare?",
+    "answer": "35.855906696764485",
+    "func": "ans=95305/2658\n"
+  },
+  {
+    "question": "Jaden is putting together first-aid kits. He has 16720 large bandages and 94693 small bandages, and he wants each kit to be identical, with no bandages left over. What is the greatest number of first-aid kits Jaden could put together?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(16720,94693)\n"
+  },
+  {
+    "question": "Next on his checklist are wax glues to stick the feathers together. If the feathers require 50386 g of wax and right now he just needs 4512 g, how many grams of wax glue does he already have?",
+    "answer": "45874",
+    "func": "ans=50386-4512\n"
+  },
+  {
+    "question": "Lana's mom was buying extra school supplies for her and her siblings. If she bought 30682 packs of glue sticks with 61034 glue sticks in each pack, how many did she get total?",
+    "answer": "1872645188",
+    "func": "ans=30682*61034\n"
+  },
+  {
+    "question": "A florist had 85774 roses. If she sold 13425 of them and then later picked 20888 more, how many roses would she have?",
+    "answer": "93237",
+    "func": "ans=85774-13425+20888\n"
+  },
+  {
+    "question": "Frank had 1203 pieces of candy. If he put them into bags with 84087 pieces in each bag, how many bags would he have?",
+    "answer": "0.014306611010025332",
+    "func": "ans=1203/84087\n"
+  },
+  {
+    "question": "Jennifer has an 64348 cm long ribbon. She uses 23907 cm of the ribbon to tie a present for her friend and 21747 cm of the ribbon to make a bow. How much of the ribbon is left in the end?",
+    "answer": "18694",
+    "func": "ans=64348-23907-21747\n"
+  },
+  {
+    "question": "She had 81064 mistletoe stickers and wanted to place them equally in 15138 cards. How many mistletoe stickers will she have left?",
+    "answer": "1064",
+    "func": "ans=151381064%15138\n"
+  },
+  {
+    "question": "There are 46199 students trying out for the school's trivia teams. If 41438 of them didn't get picked for the team and the rest were put into 3191 groups, how many students would be in each group?",
+    "answer": "1.492008774678784",
+    "func": "ans=(46199-41438)/3191\n"
+  },
+  {
+    "question": "Edward started his own lawn mowing business. In the spring he made 71185 dollars mowing lawns and in the summer he made 22597 dollars. If he had to spend 31995 dollars buying supplies, how much money did he end up with?",
+    "answer": "7830119957",
+    "func": "ans=711831995+7118319957-31995\n"
+  },
+  {
+    "question": "There are 22287 students and 90257 apples. Each student has 9 Skittles. If the apples are divided equally among the students, how many does each student get?",
+    "answer": "4.049759949746489",
+    "func": "ans=90257/22287\n"
+  },
+  {
+    "question": "Lex read a 17356 page book about music and instruments. If he can read exactly 60690 pages a day, how many days will it take Lex to finish reading the book?",
+    "answer": "0.2859779205799967",
+    "func": "ans=17356/60690\n"
+  },
+  {
+    "question": "A florist has 5427 tulips and 84419 carnations. If the florist wants to create identical bouquets without any leftover flowers, what is the greatest number of bouquets the florist can make?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(5427,84419)\n"
+  },
+  {
+    "question": "Stanley, a car enthusiast, loves to drive across different places as a hobby. So for his vacation, he decided to go around his favorite places. His first destination is the famous Sky Falls, one of the tallest waterfalls in his country. It is said to be 54899 times as tall as the tallest building in their city. If the building is 26394 feet tall, how tall is Sky Falls?",
+    "answer": "144708785020243236",
+    "func": "ans=5482639426394*26394\n"
+  },
+  {
+    "question": "The first act included 78576 clown mobiles, each stuffed with 89762 clowns. How many clowns are inside all the clown mobiles combined?",
+    "answer": "7053138912",
+    "func": "ans=78576*89762\n"
+  },
+  {
+    "question": "Mrs. Hilt bought a yoyo for 37208 cents and a whistle for 30049 cents. How much did she spend in all for the two toys?",
+    "answer": "67257",
+    "func": "ans=37208+30049\n"
+  },
+  {
+    "question": "Mary's mom is getting ready for Mary's birthday party. She blew up 40986 balloons this morning and 20697 balloons this afternoon. How many balloons did she blow up in all?",
+    "answer": "61683",
+    "func": "ans=40986+20697\n"
+  },
+  {
+    "question": "There are 92920 stickers on a page. If you have 57568 pages of stickers, how many stickers do you have?",
+    "answer": "5349218560",
+    "func": "ans=92920*57568\n"
+  },
+  {
+    "question": "Bryan has 11143 skittles. Ben has 8646 M&amp;M's. How many more does Brian have?",
+    "answer": "2497",
+    "func": "ans=11143-8646\n"
+  },
+  {
+    "question": "There were 6042 boys and 37678 girls on the playground at recess. How many children were on the playground at recess?",
+    "answer": "43720",
+    "func": "ans=6042+37678\n"
+  },
+  {
+    "question": "Allen, Shiela's brother, likes to play with blocks. Shiela repainted Allen's old blocks in different colors. If Allen has 73344 identical blocks and there are 43674 blocks for every color of paint used, how many colors did Shiela use?",
+    "answer": "10000.076567294042",
+    "func": "ans=436743344/43674\n"
+  },
+  {
+    "question": "I have 65596 cents to buy candy. If each gumdrop costs 38755 cents, how many gumdrops can I buy?",
+    "answer": "1.6925816023738873",
+    "func": "ans=65596/38755\n"
+  },
+  {
+    "question": "A farmer had 61172 tomatoes from his garden. After picking some he had 53076 left. How many did he pick?",
+    "answer": "8096",
+    "func": "ans=61172-53076\n"
+  },
+  {
+    "question": "Peter has 42045 tickets and 4 pencils. If he shares the tickets among 39937 friends, how many tickets does each friend get?",
+    "answer": "1.0527831334351603",
+    "func": "ans=42045/39937\n"
+  },
+  {
+    "question": "A chef had 95630 apples. After making a pie he had 17545 left. How many apples did he use in the pie?",
+    "answer": "78085",
+    "func": "ans=95630-17545\n"
+  },
+  {
+    "question": "Samantha has two pieces of cloth. One piece is 91598 inches wide and the other piece is 10962 inches wide. She wants to cut both pieces into strips of equal width that are as wide as possible. How wide should she cut the strips?",
+    "answer": "2",
+    "func": "import math\nans=math.gcd(91598,10962)\n"
+  },
+  {
+    "question": "I am planting 67368 apple trees and 70433 peach trees. I want the same number and type of trees per row. What is the maximum number of trees I can plant per row?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(67368,70433)\n"
+  },
+  {
+    "question": "She also decided to contribute to the collection of the Museum of Natural History. After donating some of her bug collection, she was left with 36195 bug species. If she originally has 40510 bug species, how many did she donate?",
+    "answer": "4315",
+    "func": "ans=40510-36195\n"
+  },
+  {
+    "question": "Isabel had some candy. She gave her friend 60951 pieces and had 34005 left. How many pieces did she have to start with?",
+    "answer": "94956",
+    "func": "ans=60951+34005\n"
+  },
+  {
+    "question": "An island in the Atlantic Ocean was 58455 miles wide and 50363 miles long. What is the area of the island?",
+    "answer": "2943969165",
+    "func": "ans=58455*50363\n"
+  },
+  {
+    "question": "There are 84981 basketballs at a school. If the school buys another 53279 basketballs, how many basketballs will the school have?",
+    "answer": "138260",
+    "func": "ans=84981+53279\n"
+  },
+  {
+    "question": "A school had 81722 students sign up for the trivia teams. If they wanted to have 66409 team, with the same number of students on each team, how many more students would need to sign up?",
+    "answer": "15313",
+    "func": "ans=81722%66409\n"
+  },
+  {
+    "question": "Bianca had 86680 coloring books. If she gave away 63330 of them, but then bought 10468 more, how many would she have total?",
+    "answer": "8633306280218",
+    "func": "ans=8633306333080-63330+10468\n"
+  },
+  {
+    "question": "There were 74536 passengers on the bus. 65787 passengers got off at the first stop. 978 passengers got off at the second stop. How many passengers were left on the bus?",
+    "answer": "7771",
+    "func": "ans=74536-65787-978\n"
+  },
+  {
+    "question": "Laverne has 46801 baseballs and 57731 basketballs. If she wants to divide them into identical groups without any balls left over, what is the greatest number of groups Laverne can make?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(46801,57731)\n"
+  },
+  {
+    "question": "Three pieces of timber 74759 m, 27620 m and 1668 m long have to be divided into planks of the same length. What is the greatest possible length of each plank?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(math.gcd(74759,27620),1668)\n"
+  },
+  {
+    "question": "Mrs. Hilt and her sister drove to a concert 33155 miles away. They drove 26910 miles and then stopped for gas. Her sister put 28 gallons of gas in the car. How many miles did they have left to drive?",
+    "answer": "6245",
+    "func": "ans=33155-26910\n"
+  },
+  {
+    "question": "The book fair sold 90626 posters. Now they have 59478 posters left. How many posters did they have to begin with?",
+    "answer": "906654264",
+    "func": "ans=906594786+59478\n"
+  },
+  {
+    "question": "Janet's dad took the family out to eat for her birthday. There were 30432 people total. There were 11941 kids and everyone else was an adult. How many adults were there?",
+    "answer": "18491",
+    "func": "ans=30432-11941\n"
+  },
+  {
+    "question": "At a carnival, there are 17756 kids, teenagers, and adults waiting to get in. 17315 are teenagers, 141 are adults, and the rest are kids. How many kids are waiting in line at the carnival?",
+    "answer": "300",
+    "func": "ans=(17756-17315)-141\n"
+  },
+  {
+    "question": "Roger is at the library helping put away books. There are 46908 book to put away total but a librarian takes 3411 of them and leaves Roger with the rest. If he can fit 28820 books on a shelf, how many shelves will he need?",
+    "answer": "1.5092643997224149",
+    "func": "ans=(46908-3411)/28820\n"
+  },
+  {
+    "question": "An architect was building a hotel downtown. He built it 2219 stories tall with 38566 rooms on each story. How many rooms does the hotel have totaled?",
+    "answer": "85577954",
+    "func": "ans=2219*38566\n"
+  },
+  {
+    "question": "Beth has 84481 packs of crayons. Each pack has 55651 crayons in it. She also has 49203 extra crayons. How many crayons does Beth have altogether?",
+    "answer": "46880226222034",
+    "func": "ans=(84481*554920351)+49203\n"
+  },
+  {
+    "question": "There are 83560 bananas in Janice's banana collection. Janice also has 5 crayons. If the bananas are organized into 72459 groups, how big is each group?",
+    "answer": "1.1532038808153577",
+    "func": "ans=83560/72459\n"
+  },
+  {
+    "question": "A store has 8732 shirts. After selling some there were 2956 left. What's the difference between of the number of shirts before selling and after selling?",
+    "answer": "5776",
+    "func": "ans=8732-2956\n"
+  },
+  {
+    "question": "Cindy had 47196 pieces of candy. She ate 7372 pieces in the morning, and 26996 more pieces in the afternoon. How many pieces of candy does she have left?",
+    "answer": "47163004",
+    "func": "ans=47197372-7372-26996\n"
+  },
+  {
+    "question": "Luke had 25443 pieces of candy. If he wants to split the candy into 78041 bags with the same amount of candy in each bag, how many more pieces would he need to make sure each bag had the same amount?",
+    "answer": "5443",
+    "func": "ans=780415443%78041\n"
+  },
+  {
+    "question": "For Halloween Bianca received 93550 pieces of candy. She ate 60905 pieces then placed the rest into piles with 20216 in each pile. How many piles could she make?",
+    "answer": "45516.20721210922",
+    "func": "ans=(920216550-60905)/20216\n"
+  },
+  {
+    "question": "Vanessa bought 6194 old CDs at a garage sale. If 4097 of the CDs were scratched up, how many good CDs did she buy?",
+    "answer": "2097",
+    "func": "ans=6194-4097\n"
+  },
+  {
+    "question": "The Book Nook sold 59772 computer books last week. The sold 6665 more cook books than computer books. How many cook books did the Book Nook sell?",
+    "answer": "66437",
+    "func": "ans=59772+6665\n"
+  },
+  {
+    "question": "A baker sold 47085 cakes. Now he has 67977 cakes. How many cakes did the baker have to start with?",
+    "answer": "115062",
+    "func": "ans=47085+67977\n"
+  },
+  {
+    "question": "Bobby ate 1831 pieces of candy. Then, he ate 89369 more. How many pieces of candy did Bobby eat?",
+    "answer": "91200",
+    "func": "ans=1831+89369\n"
+  },
+  {
+    "question": "Rachel had to complete 96929 pages of math homework and 70444 pages of reading homework. How many pages did she have to complete total?",
+    "answer": "969774893",
+    "func": "ans=969704449+70444\n"
+  },
+  {
+    "question": "In Haley's class, 34366 are boys who love to play marbles. If Haley has 67842 marbles, how many will each of the boys receive?",
+    "answer": "1.9741023104230926",
+    "func": "ans=67842/34366\n"
+  },
+  {
+    "question": "Allie has 37463 math books and 7499 science books. If she wants to distribute them evenly among some bookshelves so that each bookshelf has the same combination of math and science books, with no books left over, what is the greatest number of bookshelves Allie can use?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(37463,7499)\n"
+  },
+  {
+    "question": "A pet shelter had 98478 puppies when another 36822 were brought in. If 2317 puppies a day are adopted, how long would it take for all of them to be adopted?",
+    "answer": "58.394475615019424",
+    "func": "ans=(98478+36822)/2317\n"
+  },
+  {
+    "question": "Jerry had 8975 cherries. He ate 7177 of them. How many cherries does Jerry have left?",
+    "answer": "7170798",
+    "func": "ans=7177975-7177\n"
+  },
+  {
+    "question": "A chef had 39619 apples. After making some pies he had 8728 left. How many apples did he use?",
+    "answer": "30891",
+    "func": "ans=39619-8728\n"
+  },
+  {
+    "question": "A clown gave away 32567 balloons to girls and 15098 balloons to boys. How many balloons did he give away total?",
+    "answer": "150997665",
+    "func": "ans=150982567+15098\n"
+  },
+  {
+    "question": "Last week Fred had 3827 dollars and Jason had 13 dollars. Fred washed cars over the weekend and now has 11753 dollars. How much money did Fred make washing cars ?",
+    "answer": "7926",
+    "func": "ans=11753-3827\n"
+  },
+  {
+    "question": "Matt had 63733 small cans of gold paint. If the 17871 stars that they made were to be distributed equally to the cans of paint, how many stars will be left unpainted?",
+    "answer": "17871",
+    "func": "ans=17871%63733\n"
+  },
+  {
+    "question": "At the arcade Henry had won 27849 tickets. Later he won 80162 more tickets. How many tickets did Henry have total?",
+    "answer": "108011",
+    "func": "ans=27849+80162\n"
+  },
+  {
+    "question": "At the fair Kaleb bought 74785 tickets. After riding the ferris wheel he had 45033 tickets left. If each ticket cost 1712 dollars, how much money did Kaleb spend riding the ferris wheel?",
+    "answer": "50935424",
+    "func": "ans=(74785-45033)*1712\n"
+  },
+  {
+    "question": "Susie's father repaired the bookshelves in the reading room. If he has 42800 books to be distributed equally on the 42436 shelves he repaired, how many books will each shelf contain?",
+    "answer": "1.0085776227731171",
+    "func": "ans=42800/42436\n"
+  },
+  {
+    "question": "There are 91954 people on the Green Bay High track team. If a relay race is 7961 meters long, and all 91954 team members participate, how far will each team member have to run?",
+    "answer": "0.08657589664397417",
+    "func": "ans=7961/91954\n"
+  },
+  {
+    "question": "Sam had 42724 friends over for his birthday party. Later 36235 of his friends had to go home. How many friends were left?",
+    "answer": "6489",
+    "func": "ans=42724-36235\n"
+  },
+  {
+    "question": "Brenda, Betty's sister, wanted to have 70313 bracelets with star-shaped stones. She also bought 64072 star-shaped stones from the local store and gave it to Betty. How many star-shaped stones will there be in each of the bracelet Betty makes for Brenda?",
+    "answer": "0.9112397422951659",
+    "func": "ans=64072/70313\n"
+  },
+  {
+    "question": "When the building is done, they wanted to make it shine brightly in the night. To fix that, they commissioned 17247 fireflies and 60955 glow worms. How many animals worked in the lights?",
+    "answer": "78202",
+    "func": "ans=17247+60955\n"
+  },
+  {
+    "question": "A clothing company used 26134 buttons on jeans and 79594 buttons on shirts. If they made 81751 shirts and 86800 pair of jeans, how many buttons would they use total?",
+    "answer": "699402089635547579953618995482388799698400",
+    "func": "ans=(78868007586800588680075868004*8868007586800)+(268680034*86800)\n"
+  },
+  {
+    "question": "Mikey had 53567 leaves. Some of her leaves blew away. Now she has 6069 leaves left. How many of her leaves blew away?",
+    "answer": "47498",
+    "func": "ans=53567-6069\n"
+  },
+  {
+    "question": "There are 14154 students in the school band. If the band instructor put the students into rows with 67351 students in each row, how many rows could he make?",
+    "answer": "2103.510178022598",
+    "func": "ans=141673514/67351\n"
+  },
+  {
+    "question": "Dave bought a new flat screen TV. The screen was 44899 feet wide and 98693 feet tall. What is the area of the screen?",
+    "answer": "974040565296974007",
+    "func": "ans=9869398693899*98693\n"
+  },
+  {
+    "question": "A club has 21531 girls and 88781 boys as members. The president wants to break the club into groups, with each group containing the same combination of girls and boys. The president also wants to make sure that no one is left out. What is the greatest number of groups the president can make?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(21531,88781)\n"
+  },
+  {
+    "question": "There were 76999 ducks swimming in the pond. 5701 ducks flew away. How many ducks are still swimming in the pond?",
+    "answer": "71298",
+    "func": "ans=76999-5701\n"
+  },
+  {
+    "question": "A tape was 23715 meters long. Haley used some to seal cartons. Now the tape is 13634 meters long. How much tape did she use?",
+    "answer": "10081",
+    "func": "ans=23715-13634\n"
+  },
+  {
+    "question": "Haley's favorite band was holding a concert where tickets were 7506 dollars each. Haley bought 46455 tickets for herself and her friends and 45710 extra tickets in case anyone else wanted to go. How much did she spend?",
+    "answer": "56345103056704323052886438520",
+    "func": "ans=(7506675067506571075065710+75065710)*7506\n"
+  },
+  {
+    "question": "At the zoo Zoe took 16019 pictures. If her sister took another 72621 pictures, how many did they take total?",
+    "answer": "88640",
+    "func": "ans=16019+72621\n"
+  },
+  {
+    "question": "Thanksgiving came and their family hosted their building's Thanksgiving dinner. They prepared a lot of food so she asked her parents if they could donate some to the soup kitchen next bock. If they prepared 91140 turkeys and gave 30995 of it to the soup kitchen, how many were left for them to eat?",
+    "answer": "60145",
+    "func": "ans=91140-30995\n"
+  },
+  {
+    "question": "During recess, Buddy went to the cafeteria where he met other students from different grades. If he met 61758 second grade students, 38310 fourth grade students and 31150 fifth grade students, how many more students did Buddy meet during recess?",
+    "answer": "131218",
+    "func": "ans=61758+38310+31150\n"
+  },
+  {
+    "question": "Adam had 85499 boxes of toys. Each box had 33994 toys. Later Adam bought 81466 more toys. How many toys did he have total?",
+    "answer": "29964572248472",
+    "func": "ans=881466499*33994+81466\n"
+  },
+  {
+    "question": "There are 12631 students in a school. If the school has 66854 grades and each grade had the same number of students, how many students were in each grade?",
+    "answer": "0.18893409519250906",
+    "func": "ans=12631/66854\n"
+  },
+  {
+    "question": "For a potluck lunch Bianca brought 90058 bottles of soda. If someone else had already brought 67459 sodas, how many were there total?",
+    "answer": "900634918",
+    "func": "ans=900567459+67459\n"
+  },
+  {
+    "question": "A farmer had 90398 seeds to plant. He planted the same number of seeds each day and it took him 55715 days to plant them all. How many seeds did he plant per day?",
+    "answer": "1.622507403751234",
+    "func": "ans=90398/55715\n"
+  },
+  {
+    "question": "Amy had 73328 video games. If she placed the games into 36750 different stacks, how many games would be in each stack?",
+    "answer": "1.9953197278911565",
+    "func": "ans=73328/36750\n"
+  },
+  {
+    "question": "Vondra is putting together bags of groceries to donate to charity. She has 28938 boxes of macaroni and cheese and 73128 cans of vegetables. Vondra wants to divide them up evenly, so that each bag has the same contents and no items are left over. What is the greatest number of bags of groceries Vondra can put together?",
+    "answer": "6",
+    "func": "import math\nans=math.gcd(28938,73128)\n"
+  },
+  {
+    "question": "When she got to school, she saw that the school is composed of 43308 buildings, each having 56401 classrooms. How many classrooms does the school have?",
+    "answer": "2457054179218",
+    "func": "ans=43564018*56401\n"
+  },
+  {
+    "question": "It takes 90168 eggs to make a cake. How many cakes can you make with 48306 eggs?",
+    "answer": "5423",
+    "func": "ans=489016806//90168\n"
+  },
+  {
+    "question": "Simon, an adventurer, got trapped in the magical Blackwood Forest. In order to find the way out, he needs to solve a series of puzzles. The first puzzle involved two giant trees. To open the path, he needs to find the height difference between the two trees. If the first tree is 48344 ft high and the second is 35413 ft, what is the height difference?",
+    "answer": "12931",
+    "func": "ans=48344-35413\n"
+  },
+  {
+    "question": "Joanne is campaigning for class president and plans to distribute some campaign materials: 92075 flyers and 47877 buttons. She wants each classroom to receive an identical set of campaign materials, without having any materials left over. What is the greatest number of classrooms Joanne can distribute materials to?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(92075,47877)\n"
+  },
+  {
+    "question": "Mike made 12337 dollars mowing lawns over the summer. If he spent 8243 dollars buying new mower blades, how many 1181 dollar games could he buy with the money he had left?",
+    "answer": "3.466553767993226",
+    "func": "ans=(12337-8243)/1181\n"
+  },
+  {
+    "question": "Brian has 21277 more plums than Paul. Paul has 37625 plums. How many plums does Brian have?",
+    "answer": "2123762575250",
+    "func": "ans=2123762537625+37625\n"
+  },
+  {
+    "question": "There are some rooms in a building. 39892 of them are classrooms, 38442 of them are office and the remaining 28917 are reading rooms. How many rooms are in the building?",
+    "answer": "107251",
+    "func": "ans=39892+38442+28917\n"
+  },
+  {
+    "question": "A new building needed 30181 windows. The builder had already installed 26810 of them. If it takes 2470 hours to install each window, how long will it take him to install the rest?",
+    "answer": "8326370",
+    "func": "ans=(30181-26810)*2470\n"
+  },
+  {
+    "question": "The ski resort reported 33682 inches of snow in January. They measured 18923 inches of snow during the first week. They measured 12174 inches of snow the second week. How much snow did they get the rest of the month?",
+    "answer": "2585",
+    "func": "ans=33682-18923-12174\n"
+  },
+  {
+    "question": "There are 37093 pots. Each pot has 8913 flowers in it. How many flowers are there in all?",
+    "answer": "330609909",
+    "func": "ans=37093*8913\n"
+  },
+  {
+    "question": "Ted and Fred measured their height. Fred's height is 33884 inches. Ted is 32810 inches tall. What's the difference between Ted's height and Fred's height?",
+    "answer": "1074",
+    "func": "ans=33884-32810\n"
+  },
+  {
+    "question": "At the bird zoo, the kids were able to visit 86716 different bird cages, each containing 42812 different kinds of birds. How many different kinds of birds did the children see from the bird cages?",
+    "answer": "18328960965392",
+    "func": "ans=428126716*42812\n"
+  },
+  {
+    "question": "Rachel picked 76916 apples from her tree. Now the tree has 52857 apples still on it. How many apples did the tree have to begin with?",
+    "answer": "129773",
+    "func": "ans=76916+52857\n"
+  },
+  {
+    "question": "Amy had 20167 pencils. If she used 9455 of them, how many would she have left?",
+    "answer": "10712",
+    "func": "ans=20167-9455\n"
+  },
+  {
+    "question": "Their last stop was the largest of them all, Lake Superior. Tired with their travels, they decided to do less fishing and enjoy the lake's beauty instead. They were able to catch 62056 catfishes, 88365 sturgeons, 8807 pikes and 74462 eels. How many fishes were caught from Lake Superior?",
+    "answer": "69008190",
+    "func": "ans=68836556+88365+8807+74462\n"
+  },
+  {
+    "question": "Bridget wants to win the giant stuffed panda bear. She needs a total of 5037 points to get it. Bridget already scored 285 points at the penny pitch booth. She scored 2130 more points on her next try. How many more points does Bridget need?",
+    "answer": "2622",
+    "func": "ans=5037-285-2130\n"
+  },
+  {
+    "question": "Mikayla has a huge collection of music CDs. She gave 42067 CDs to her friend. Now she has 82921 CDs left. How many CDs were in Mikayla's collection at first?",
+    "answer": "124988",
+    "func": "ans=42067+82921\n"
+  },
+  {
+    "question": "It has been tradition in Shiela's home to hang a sock above the fireplace for each member of the family. This year, she placed a cinnamon ball every day in the socks for 44359 of her family members. How long can she do this if she bought 50593 cinnamon balls?",
+    "answer": "100000100.00209653",
+    "func": "ans=4435904435993/44359\n"
+  },
+  {
+    "question": "Cindy has 7026 stickers. She uses 2130 stickers. She buys 1688 more stickers. How many stickers does Cindy have now?",
+    "answer": "6584",
+    "func": "ans=7026-2130+1688\n"
+  },
+  {
+    "question": "On the actual day of Annie's birthday, almost everyone in her class came to surprise her. If Annie has 38902 girl classmates, 93243 boy classmates and 63202 teachers in her class, how many people attended her birthday party?",
+    "answer": "9632654555306",
+    "func": "ans=632028902+9632022463202+63202\n"
+  },
+  {
+    "question": "Lucy has 29131 fish. How many more fish does she need to buy to have 98403 fish?",
+    "answer": "69272",
+    "func": "ans=98403-29131\n"
+  },
+  {
+    "question": "A mailman has to give 96504 pieces of junk mail to each block. If there are 24717 houses on a block, how many pieces of junk mail should he give each house?",
+    "answer": "39042.9549298054",
+    "func": "ans=965024717/24717\n"
+  },
+  {
+    "question": "Georgia had 59150 yellow buttons, 16528 black buttons and 28609 green buttons. She gave some of the buttons to Mary and now Georgia has 1145 buttons left. How many buttons did Georgia give Mary?",
+    "answer": "103142",
+    "func": "ans=59150+16528+28609-1145\n"
+  },
+  {
+    "question": "Annie's mother has also been asked to be a part of the surprise. She was tasked to be in charge of drinks. She made 269 glasses of orange juice, 38852 glasses of grape juice and 665 glasses of apple juice. How many glasses of juice would there be?",
+    "answer": "3887586",
+    "func": "ans=269+3886652+665\n"
+  },
+  {
+    "question": "Robin had 40774 pieces of gum. Her brother gave her some more pieces. Now Robin has 97146 pieces in all. How many pieces of gum did Robin's brother give her?",
+    "answer": "56372",
+    "func": "ans=97146-40774\n"
+  },
+  {
+    "question": "Katie had 11310 pencils in her desk and 72893 more in her backpack. How many did she have total?",
+    "answer": "117362203",
+    "func": "ans=117289310+72893\n"
+  },
+  {
+    "question": "A restaurant has 52492 tomatoes. 28665 are made into salads. Another 1959 are made into pasta sauce. How many tomatoes are left?",
+    "answer": "21868",
+    "func": "ans=52492-28665-1959\n"
+  },
+  {
+    "question": "An architect was building his two story house. On the first floor the house had 83066 bedrooms and the second floor had 4751 bedrooms. How many bedrooms does the house have totaled?",
+    "answer": "87817",
+    "func": "ans=83066+4751\n"
+  },
+  {
+    "question": "Wendy was playing a video game where she scores 52903 points for each treasure she finds. If she found 12191 treasures on the first level and 57184 on the second, what would her score be?",
+    "answer": "27988299085625",
+    "func": "ans=(12191+529037184)*52903\n"
+  },
+  {
+    "question": "A store has 67271 shirts. If they sold 1601 of them, how many shirts would they have?",
+    "answer": "65670",
+    "func": "ans=67271-1601\n"
+  },
+  {
+    "question": "Adam had 52254 books. If he sold 27754 of them and used the money he earned to buy 6826 new books, how many books would Adam have?",
+    "answer": "31326",
+    "func": "ans=52254-27754+6826\n"
+  },
+  {
+    "question": "Rob also matched the London Eye which stands at 1034 ft and Las Vegas' High Roller standing at 6379 ft. Being the tallest Ferris wheel in the world, how much taller is High Roller than the London Eye?",
+    "answer": "5345",
+    "func": "ans=6379-1034\n"
+  },
+  {
+    "question": "There are 74348 people attending a luncheon. If a table can hold 80201 people, how many tables do they need?",
+    "answer": "0.9270208600890263",
+    "func": "ans=74348/80201\n"
+  },
+  {
+    "question": "Ted and Fred measured their height. Their total height is 74576 inches. Ted is 69364 inches tall. How tall is Fred?",
+    "answer": "5212",
+    "func": "ans=74576-69364\n"
+  },
+  {
+    "question": "For Halloween Tom received 76383 pieces of candy. If he put them into piles with 24055 in each pile, how many piles could he make?",
+    "answer": "3.1753481604655995",
+    "func": "ans=76383/24055\n"
+  },
+  {
+    "question": "A fast food restaurant had 23933 hotdogs. After selling some they had 15409 left. What's the difference between the number of hotdogs before selling and after selling?",
+    "answer": "8524",
+    "func": "ans=23933-15409\n"
+  },
+  {
+    "question": "Ned was buying books about astronomy. He bought 73866 books about the planets and 63364 about the space program. How many books did he buy total?",
+    "answer": "137230",
+    "func": "ans=73866+63364\n"
+  },
+  {
+    "question": "Carol is making bead necklaces for her friends. She has 70025 beads and each necklace takes 10115 beads. About how many necklaces can Carol make?",
+    "answer": "6",
+    "func": "ans=70025//10115\n"
+  },
+  {
+    "question": "Roger went to the movies 77916 times last year and 34871 times this year. How many times did Roger go to the movies all together?",
+    "answer": "112787",
+    "func": "ans=77916+34871\n"
+  },
+  {
+    "question": "There are 38444 shapes. How many groups of 47847 can you make with them?",
+    "answer": "10000",
+    "func": "ans=478478444//47847\n"
+  },
+  {
+    "question": "At Mrs. Hilt's house, there was 53532 inches of snow, and Brecknock Elementary School received 49121 inches of snow. How much more snow did Mrs. Hilt's house have?",
+    "answer": "4411",
+    "func": "ans=53532-49121\n"
+  },
+  {
+    "question": "Li Na is going to plant 91882 tomato plants and 99762 rhubarb plants. Li Na would like to plant the plants in rows where each row has the same number of tomato plants and each row has the same number of rhubarb plants. What is the greatest number of rows Li Na can plant?",
+    "answer": "2",
+    "func": "import math\nans=math.gcd(91882,99762)\n"
+  },
+  {
+    "question": "Annie also planned the time she would spend going around the 53315 blocks in her village. If she plans on spending just 87119 minutes on each block, how much time would it take for her to finish trick or treating?",
+    "answer": "4644749485",
+    "func": "ans=53315*87119\n"
+  },
+  {
+    "question": "After giving out clothes, he invited the homeless to the nearest soup kitchen to give them a proper meal. If he fed 32456 men and 8085 women, how many homeless people was he able to feed?",
+    "answer": "40541",
+    "func": "ans=32456+8085\n"
+  },
+  {
+    "question": "Evan has a large collection of books. He gave his best friend 28676 books. He gave his little brother 94686 books. Now Evan has 61802 books in his collection. How many books did he have at first?",
+    "answer": "914249964",
+    "func": "ans=619468602+294686676+94686\n"
+  },
+  {
+    "question": "Erin and Dana finished a two day bike-a-thon. They rode 31269 miles the first day The rode 27825 miles the second day. How many miles did they ride altogether?",
+    "answer": "59094",
+    "func": "ans=31269+27825\n"
+  },
+  {
+    "question": "Mrs. Snyder made 90886 heart cookies. She made 35555 red cookies and the rest are pink. How many pink cookies did she make?",
+    "answer": "55331",
+    "func": "ans=90886-35555\n"
+  },
+  {
+    "question": "Jane's mom picked cherry tomatoes from their backyard. If she gathered 76336 cherry tomatoes and is about to place them in small jars which can contain 22515 cherry tomatoes at a time, how many jars will she need?",
+    "answer": "3.3904508105707305",
+    "func": "ans=76336/22515\n"
+  },
+  {
+    "question": "Because of the decision, Sofia asked the students to suggest specific types of food. If 65301 students suggested adding mashed potatoes while 97095 suggested adding bacon to the menu, how many students participated in the suggestion of new food items?",
+    "answer": "162396",
+    "func": "ans=65301+97095\n"
+  },
+  {
+    "question": "They had 95801 matchboxes wrapped in colorful shiny wrappers. If they are to distribute the matchboxes equally to the 19906 houses in the first block, how may matchboxes will each house receive?",
+    "answer": "10000",
+    "func": "ans=199065801//19906\n"
+  },
+  {
+    "question": "The school's baseball team had 36451 new players and 62859 returning players. If the coach put them into groups with 82922 players in each group, how many groups would there be?",
+    "answer": "10000077816001.217",
+    "func": "ans=(829226451+829226451829226451)/82922\n"
+  },
+  {
+    "question": "Ethan has 24659 presents. Alissa has 49191 more than Ethan. How many presents does Alissa have?",
+    "answer": "73850",
+    "func": "ans=24659+49191\n"
+  },
+  {
+    "question": "For Halloween Frank got 9848 pounds of candy. If he gave 3921 pounds to Nancy, what's the difference between the pounds of Frank's candy before he gave Nancy and he gave to?",
+    "answer": "9392140000",
+    "func": "ans=9392143921-3921\n"
+  },
+  {
+    "question": "Ramon works at the supermarket. He put 96209 boxes of Choco Delights on the shelf. There were already 65500 boxes there. Later that day, Ramon counted 20682 boxes on the shelf. How many boxes of Choco Delights were missing?",
+    "answer": "141027",
+    "func": "ans=96209-20682+65500\n"
+  },
+  {
+    "question": "Mrs. Hilt saw 84464 snakes, 45377 alligators, 36 frogs, and 57 bears. How many reptiles did Mrs. Hilt see?",
+    "answer": "129841",
+    "func": "ans=84464+45377\n"
+  },
+  {
+    "question": "Professor Treehead of the Flora University requested his students to participate. He said that they planted 67504 species of trees in the natural park, 75950 species of trees in the neighboring forest and 66341 species of trees all around different locations in town. How many species of trees were planted by the students?",
+    "answer": "209795",
+    "func": "ans=67504+66341+75950\n"
+  },
+  {
+    "question": "A factory produced 38006 printers and 15398 scanners. After 14476 of the printers were sold, it produced another 7391 scanners. How many printers and scanners did the factory have in the end?",
+    "answer": "46319",
+    "func": "ans=38006+15398-14476+7391\n"
+  },
+  {
+    "question": "They decided to hold the party in their backyard. If they have 15200 sets of tables and each set has 48994 chairs, how many chairs do they have for the guests?",
+    "answer": "744708800",
+    "func": "ans=15200*48994\n"
+  },
+  {
+    "question": "There are 18847 green books, 15343 blue book, and 3004 orange books in a bookshelf. If 471 of them are taken out to be read, how many books are left on the bookshelf?",
+    "answer": "15471471019943356185051",
+    "func": "ans=15471471004471884710047+15471471004471+471004-471\n"
+  },
+  {
+    "question": "At the carnival, 75099 friends bought 29767 tickets. If they wanted to split all the tickets so each friend got the same amount, how many more tickets would they need to buy?",
+    "answer": "58561",
+    "func": "ans=297750997%75099\n"
+  },
+  {
+    "question": "It is Easter time and the kids in the neighborhood of Easterville are very excited about the annual Easter egg hunt. The parents have decided to hide the eggs in a lot of different places. They hid 58741 eggs around the club house, 60403 eggs around the village park and 31388 eggs in the town hall garden. How many eggs were hidden in total?",
+    "answer": "150532",
+    "func": "ans=58741+60403+31388\n"
+  },
+  {
+    "question": "Adam was reading through his favorite book series. The first week he read 6166 different books. The next week he read 80531 books. How many books did he read total?",
+    "answer": "86697",
+    "func": "ans=6166+80531\n"
+  },
+  {
+    "question": "It's Earth Awareness Day and the town of Flora is celebrating by planting trees in areas where the forest has been damaged. Mayor Fauna, leader of the town of Flora, donated 42309 oak tree seedlings and 53169 seedlings of holly. How many seedlings did he donate altogether?",
+    "answer": "95478",
+    "func": "ans=42309+53169\n"
+  },
+  {
+    "question": "There were 892 red roses and two white roses in the vase. Melanie cut some more roses from her flower garden. There are now 75808 red roses in the vase. How many red roses did she cut ?",
+    "answer": "758920000",
+    "func": "ans=758920892-892\n"
+  },
+  {
+    "question": "Christian and the junior ranger brought a bag of 117 nails as they visited every station assigned to the junior ranger. If they left exactly 95070 nails in every station they visited, how many stations did Joline and the junior ranger visit?",
+    "answer": "12.570421794467235",
+    "func": "ans=1195070/95070\n"
+  },
+  {
+    "question": "A chef only had 99749 apples so he ordered 15311 more bags. If each bag has 15963 apples, how many apples does he have total?",
+    "answer": "25547953133097088",
+    "func": "ans=159974911*159699749+99749\n"
+  },
+  {
+    "question": "James ate 36183 carrot sticks before dinner and 96072 more after dinner. How many carrot sticks did he eat?",
+    "answer": "132255",
+    "func": "ans=36183+96072\n"
+  },
+  {
+    "question": "Kelly has 64794 Nintendo games. How many does she need to give away so that she will have 51628 games left?",
+    "answer": "13166",
+    "func": "ans=64794-51628\n"
+  },
+  {
+    "question": "Shelley has 53553 forks and 95190 knives to place in silverware holders at the fast food restaurant where she works. She wants to distribute them equally, with no forks or knives left over. What is the greatest number of silverware holders Shelley can stock?",
+    "answer": "3",
+    "func": "import math\nans=math.gcd(53553,95190)\n"
+  },
+  {
+    "question": "She also ate a hearty breakfast so that she would have enough energy. She bought 36292 pieces of her favorite bread. If each piece of bread costs 29845 cents, how much did Jenny spend for her breakfast?",
+    "answer": "1083134740",
+    "func": "ans=36292*29845\n"
+  },
+  {
+    "question": "Isabel had 90710 bottles of water. After a week she had 82370 left. How many did she drink?",
+    "answer": "908154640",
+    "func": "ans=908237010-82370\n"
+  },
+  {
+    "question": "At a comic convention Janet wanted to buy 16964 comics, but each one costs 79996 dollars, plus it costs 59550 to even get in. How much money should she take with her so she can get in and buy what she wants?",
+    "answer": "13573721019566",
+    "func": "ans=169679996*79996+59550\n"
+  },
+  {
+    "question": "The Razorback T-shirt Shop ordered 10843 cases of t-shirts. If each case contains 27550 t-shirts, how many t-shirts did they order?",
+    "answer": "298724650",
+    "func": "ans=10843*27550\n"
+  },
+  {
+    "question": "Two wires with lengths of 13831 cm and 38156 cm are to be cut into pieces of all the same length without remainder. What is the greatest possible length of the pieces?",
+    "answer": "1",
+    "func": "import math\nans=math.gcd(13831,38156)\n"
+  },
+  {
+    "question": "Mrs. Hilt saw 3287 butterflies. Some of the butterflies were red and others were orange. If 25 of the butterflies were orange, how many of them were red?",
+    "answer": "3262",
+    "func": "ans=3287-25\n"
+  },
+  {
+    "question": "There are 47845 butterflies. Each butterfly has 38616 black dots and 17 yellow dots. How many black dots are there in all?",
+    "answer": "1847582520",
+    "func": "ans=47845*38616\n"
+  },
+  {
+    "question": "Before they end the meeting, Tom counted the total number of robots in his collection. He has 53596 sets of robots and each set is composed of 7743 robots. How many robots does Tom have in his collection?",
+    "answer": "414993828",
+    "func": "ans=53596*7743\n"
+  },
+  {
+    "question": "Next in their itinerary was the insectarium, home to hundreds of insect species. Penny, who likes butterflies and ants, took pictures of the different species. She was able to capture 96591 species of butterflies, 89336 species of ants and 13080 species of other insects. How many species of insects did Penny capture?",
+    "answer": "199007",
+    "func": "ans=96591+89336+13080\n"
+  },
+  {
+    "question": "The mini library also has a section for the classics. If Jack has a collection of 37896 classic authors, with each author having 73484 books, how many books does he have in the classics section?",
+    "answer": "2784749664",
+    "func": "ans=37896*73484\n"
+  },
+  {
+    "question": "Roger mowed his lawn 79199 times total during the spring and summer. If he mowed it 47183 times in the summer. How many times did he mow in the spring?",
+    "answer": "74718314718300000",
+    "func": "ans=74718314718347183-47183\n"
+  },
+  {
+    "question": "On Tuesday, Mrs. Hilt saw 14215 raisins on a tray in the cafeteria. That was 13803 more raisins than she saw the day before. How many raisins were on the table on Monday?",
+    "answer": "412",
+    "func": "ans=14215-13803\n"
+  },
+  {
+    "question": "Ryan collected 19526 leaves. He lost 1619 leaves and threw away 4260 leaves. How many leaves did Ryan have left?",
+    "answer": "13647",
+    "func": "ans=19526-1619-4260\n"
+  },
+  {
+    "question": "A chef had 46637 potatoes to make fries with, but he only used 6423 of them. How many potatoes does he still have?",
+    "answer": "46657814",
+    "func": "ans=46664237-6423\n"
+  },
+  {
+    "question": "At a concert, the band has 57990 men's T-shirts and 28952 women's T-shirts. The band wants to set up tables to sell the shirts, with an equal number of men's and women's shirts available at each table and no shirts left over. What is the greatest number of tables the band can sell shirts from?",
+    "answer": "2",
+    "func": "import math\nans=math.gcd(57990,28952)\n"
+  },
+  {
+    "question": "Kale was drawing on scrap paper. He could fit 82241 drawings on each page. If he has 55476 pages, how many drawings can he make?",
+    "answer": "4562401716",
+    "func": "ans=82241*55476\n"
+  },
+  {
+    "question": "A clown had 20399 balloons. After a party he had 7534 left. How many balloons did he use at the party?",
+    "answer": "12865",
+    "func": "ans=20399-7534\n"
+  },
+  {
+    "question": "A DVD book holds 55807 DVDs. There are 37297 DVDs already in the book. How many more DVDs can be put in the book?",
+    "answer": "18510",
+    "func": "ans=55807-37297\n"
+  },
+  {
+    "question": "It took all of the workers one year to finish the Animus Tower and it was indeed the brightest and tallest structure that can be seen at Animapolis' skyline. If the first half of the building has 882 stories and the second half has 45942 stories. How many stories do the Animus Tower has?",
+    "answer": "46824",
+    "func": "ans=882+45942\n"
+  },
+  {
+    "question": "There are 10595 boys and 1793 girls in a preschool daycare. How many children are there in the daycare?",
+    "answer": "10179393586",
+    "func": "ans=10179391793+1793\n"
+  },
+  {
+    "question": "For a party Janet bought some cupcakes. She bought 654 chocolate, 1390 vanilla and 654 strawberry. What's the difference between the number of cupcakes of chocolate flavor and the vanilla flavor?",
+    "answer": "736",
+    "func": "ans=1390-654\n"
+  },
+  {
+    "question": "The woods behind Jerry's house were 75308 miles wide and 83436 miles long. What is the area of the woods?",
+    "answer": "63273157277088",
+    "func": "ans=758343608*83436\n"
+  },
+  {
+    "question": "Edward's dad bought 80122 centimeters of string. If he cut the string into 48434 equal pieces, what would be the length of each piece?",
+    "answer": "1.6542511458892513",
+    "func": "ans=80122/48434\n"
+  },
+  {
+    "question": "Faye had 27694 books. If she bought 78823 more at a yard sale, how many would she have total?",
+    "answer": "106517",
+    "func": "ans=27694+78823\n"
+  },
+  {
+    "question": "Each bag contains 20994 pounds of oranges. How many pounds of oranges are in 78767 bags?",
+    "answer": "1653634398",
+    "func": "ans=20994*78767\n"
+  },
+  {
+    "question": "Haley grew 15560 trees in her backyard. After a typhoon 9371 died. How many trees does she have left?",
+    "answer": "19371927789",
+    "func": "ans=19371937160-9371\n"
+  },
+  {
+    "question": "At band practice there were 24235 rows of students with 83112 students in each row and then another 72847 students in the back. How many students were there total?",
+    "answer": "2014292167",
+    "func": "ans=24235*83112+72847\n"
+  },
+  {
+    "question": "A museum had 74179 paintings. If they got rid of 70530 of them, how many pictures would they have left?",
+    "answer": "3649",
+    "func": "ans=74179-70530\n"
+  },
+  {
+    "question": "There are 13556 boys and some girls on the playground. There are 22479 children altogether. How many girls are on the playground?",
+    "answer": "8923",
+    "func": "ans=22479-13556\n"
+  },
+  {
+    "question": "It's New Year's Eve. Benjamin and his family went to New York City to take part in the celebration that is going to take place later that night. Before the evening celebrations, Benjamin wanted to see some of the famous places in NYC first. From the hotel, he walked 35107 steps to the nearest restaurant then another 27103 steps to Central Park. How many steps did he take to get to Central Park from the hotel?",
+    "answer": "62210",
+    "func": "ans=35107+27103\n"
+  },
+  {
+    "question": "Roger was packing up his old toys. He filled 95530 boxes with action figures and 54464 boxes with old games. How many boxes did he pack total?",
+    "answer": "149994",
+    "func": "ans=95530+54464\n"
+  },
+  {
+    "question": "At the arcade, Jerry won 54244 tickets playing 'whack a mole' and 4048 tickets playing 'skee ball'. If he spent 26713 of his tickets on a hat, how many tickets does Jerry have left?",
+    "answer": "31579",
+    "func": "ans=54244+4048-26713\n"
+  },
+  {
+    "question": "Jason had 28500 peaches and 17 pears left at his roadside fruit stand. He went to the orchard and picked more peaches to stock up the stand. There are now 59601 peaches at the stand, how many did he pick ?",
+    "answer": "31101",
+    "func": "ans=59601-28500\n"
+  },
+  {
+    "question": "For a new year's party 84757 red balloons, 41916 green balloons and 30737 white balloons were used. What is the total number of balloons used?",
+    "answer": "300251",
+    "func": "ans=84757+184757+30737\n"
+  },
+  {
+    "question": "Oliver had to wash 25960 short sleeve shirts and 15204 long sleeve shirts before school. If he had only washed 5026 of them by the time school started, how many did he not wash?",
+    "answer": "1571198",
+    "func": "ans=(25960+1550264)-5026\n"
+  },
+  {
+    "question": "A store sold 42864 cold drinks and 42852 hot drinks. How many drinks did they sell total?",
+    "answer": "85716",
+    "func": "ans=42864+42852\n"
+  },
+  {
+    "question": "Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 57298 seedlings of cedar and 97599 seedlings of pine, how many seedlings did he give in total?",
+    "answer": "154897",
+    "func": "ans=57298+97599\n"
+  },
+  {
+    "question": "Robin's hair was 14650 inches long. If she cut off 7349 inches, how long is her hair now?",
+    "answer": "14666141",
+    "func": "ans=14673490-7349\n"
+  },
+  {
+    "question": "Karen has 43945 markers. Her mother gives her 18815 more markers. Karen loses 6927 markers. How many markers does she have now?",
+    "answer": "55833",
+    "func": "ans=43945+18815-6927\n"
+  },
+  {
+    "question": "There were 64324 kids on the soccer field. 75029 kids decided to join in. Now how many kids are on the soccer field?",
+    "answer": "139353",
+    "func": "ans=64324+75029\n"
+  },
+  {
+    "question": "I read 77853 pages of my English book yesterday. Today, I read 32121 pages. What is the total number of pages did I read?",
+    "answer": "109974",
+    "func": "ans=77853+32121\n"
+  },
+  {
+    "question": "If Tom plans to fix 59396 watches at the rate of 47690 watches per day, how many watches will he fix on the last day?",
+    "answer": "11706",
+    "func": "ans=59396%47690\n"
+  },
+  {
+    "question": "Paige had 11866 pencils. After using some she had 8484 left. How many did she use?",
+    "answer": "3382",
+    "func": "ans=11866-8484\n"
+  },
+  {
+    "question": "A furniture store had 78838 chairs. After selling some, there was 867 left. How many chairs did they sell?",
+    "answer": "7887811",
+    "func": "ans=7888678-867\n"
+  },
+  {
+    "question": "The Litter Patrol picked up 66867 glass bottles and 43938 aluminum cans on Saturday. How many pieces of litter did they pick up altogether?",
+    "answer": "664437805",
+    "func": "ans=664393867+43938\n"
+  },
+  {
+    "question": "Albert is inviting 5896 friends to a party. He has 97473 cookies. How many cookies will each friend get?",
+    "answer": "16.532055630936227",
+    "func": "ans=97473/5896\n"
+  },
+  {
+    "question": "Rangers from Flora Natural Park and Wildlife Reserve also joined the activities on that day. They planted 87196 redwood trees and 18517 cypress trees to replace the trees that were destroyed during a recent forest fire. How many trees did the rangers plant?",
+    "answer": "105713",
+    "func": "ans=18517+87196\n"
+  },
+  {
+    "question": "A chess club has 42799 members. If 4188 new members are enrolled, how many total members are there in the chess club?",
+    "answer": "41886987",
+    "func": "ans=41882799+4188\n"
+  }
+]

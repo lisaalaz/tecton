@@ -1,0 +1,67 @@
+{
+    "<add>": {
+        "overview": "<add> takes two (or more) numbers X and Y and computes their sum X+Y.",
+        "highlevel": "<add> is correct when a quantity needs to be added to another quantity.",
+        "example": "For example, if a football team scored 251 points in the first half and 117 points in the second half, then they scored <add>(251, 117)=368 points in total."
+    }, 
+    "<subtract>": {
+        "overview": "<subtract> takes two numbers X and Y and computes their difference X-Y.",
+        "highlevel": "<subtract> is correct when a quantity needs to be taken from another quantity.", 
+        "example": "For example, if a restaurant has 311 bottles of soda in stock and they use 226 bottles of soda to serve customers, they will have <subtract>(311, 226)=85 bottles of soda left."
+    }, 
+    "<multiply>": {
+        "overview": "<multiply> takes two (or more) numbers X and Y and computes their product X*Y.", 
+        "highlevel": "<multiply> is correct when a quantity repeats over another quantity.",
+        "example": "For example, if a car travels at a speed of 280 kilometers per hour for 457 hours, it will travel <multiply>(280, 457)=127960 kilometers in total."
+    }, 
+    "<divide>": {
+        "overview": "<divide> takes two numbers X and Y and computes their ratio X/Y.",
+        "highlevel": "<divide> is correct when we want to distribute a total quantity over a number of things or people.",
+        "example": "For example, if a store sells 2356 items and has a total revenue of 1284.98 dollars, the average price of an item is <divide>(1284.98, 2356)=1.83 dollars."
+    }, 
+    "<power>": {
+        "overview": "<power> takes two numbers X and Y and raises X to the power Y, that is X^Y.",
+        "highlevel": "<power> is correct when something increases or decreases by a factor over time",
+        "example": "For example, if a virus spreads by tripling its infected population every hour, after 4 hours there will be <power>(3,4)=81 times as many infected people as before."
+    }, 
+    "<sqrt>": {
+        "overview": "<sqrt> takes one number Y and computes its square root √Y, that is, the inverse of the square. So if X^2=Y then X=√Y.",
+        "highlevel": "<sqrt> is correct when we have a square area and want to know the length of one side, or when we have the variance and want to know the standard deviation, or when the question explicitly asks to compute the square root.",
+        "example": "For example, if a square has an area of 559 square inches, then the length of its side is <sqrt>(559)=23.64 inches."
+    }, 
+    "<log>": {
+        "overview": "<log> takes one number Y and computes its logarithm base 10, log(Y). So if 10^X=Y then X=log(Y).",
+        "highlevel": "<log> is correct when we know the value of 10^x and want to know the value of x, or when we are explicitly asked to compute the logarithm, or log.", 
+        "example": "For example, if 10^x=2091, then x is <log>(2091)=3.32."
+    }, 
+    "<ln>": {
+        "overview": "<ln> takes one number Y and computes its natural logarithm ln(Y), that is, the inverse of the exponential function e^X. so if e^X=Y then X=ln(Y).",
+        "highlevel": "<ln> is correct when we know the value of e^x and want to know the value of x, or when we are explicitly asked to compute the natural logarithm, or natural log.",
+        "example": "For example, if e^x=667.21 then x is <ln>(667.21)=6.5."
+    }, 
+    "<lcm>": {
+        "overview": "<lcm> takes two (or more) integers N and K and finds the smallest number that is a multiple of both N and K.", 
+        "highlevel": "<lcm> is correct when we are given several quantities and we need to calculate least quantity that can be divided by each of them.",
+        "example": "For example, if a factory produces a car in 65 days and a motorcycle in 60 days, the least amount of time it will take the factory to produce a car and a motorcycle on the same day will be <lcm>(65,60)=780 days ater production began."
+    }, 
+    "<gcd>": {
+        "overview": "<gcd> takes two (or more) integers N and K and computes the largest number that is a divisor of both N and K.",
+        "highlevel": "<gcd> is correct when we are given several quantities and we need to calculate the greatest quantity that can divide all of them.",
+        "example": "For example, if a baker wants to evenly divide a dough weighing 988 grams and another dough weighing 919 grams into equal parts, the largest weight of each part that can be made is <gcd>(988,919)=1 gram."
+    }, 
+    "<remainder>": {
+        "overview": "<remainder> takes two integers N and K and computes the remainder of the integer division N//K.",
+        "highlevel": "<remainder> is correct when we want to know how much of something will remain after we divide a quantity by another quantity.",
+        "example": "For example, if a farmer has 9558 eggs and wants to fill with them crates that hold 3788 eggs each, he will have <remainder>(9558,3788)=1982 eggs left out of the crates."
+    }, 
+    "<choose>": {
+        "overview": "<choose> takes two integers N and K and computes the number of ways that K elements can be selected out of N elements. The order of the elements in the selection does not matter.",
+        "highlevel": "<choose> is correct when the order of the chosen things does not matter.", 
+        "example": "For example, if a sports team has 7 players and the coach wants to select a starting lineup of 2 players, he can select <choose>(7, 2)=21 different possible lineups."
+    }, 
+    "<permutate>": {
+        "overview": "<permutate> takes two integers N and K and computes the number of possible ordered arrangements of K distinct elements selected from N elements. Selections where the elements are ordered differently are considered different.",
+        "highlevel": "<permutate> is correct when the order of the selected things is important.",
+        "example": "For example, if a music playlist has 11 songs on it and we want to play any 4 songs from it in a row, there are <permutate>(11,4)=7920 possible 4-song combinations we can choose."
+    }
+}

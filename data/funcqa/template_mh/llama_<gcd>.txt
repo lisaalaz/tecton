@@ -1,0 +1,16 @@
+Answer the following question with the operator <gcd>:
+
+Q: A group of 229 students want to divide 609 candies evenly among themselves. What is the largest number of candies each student can have?
+A: The largest number of candies each student can have is the greatest common divisor of 229 and 609, which is <gcd>(229,609)=1.
+
+Q: A group of students wants to distribute 237 pencils and 894 erasers evenly among themselves. What is the maximum number of students in the group that can receive the same number of pencils and erasers?
+A: The maximum number of students is the greatest common divisor of 237 and 894, which is <gcd>(237,894)=3.
+
+Q: A farmer has 956 cows and 813 chickens. He wants to divide them equally into pens with an equal number of cows and chickens in each pen. What is the maximum number of cows and chickens in each pen?
+A: The maximum number of cows and chickens in each pen is <gcd>(956,813)=1.
+
+Q: A baker wants to cut a rectangular cake into square pieces. The cake is 144 inches long and 657 inches wide. What is the largest possible size (side length) of a square piece that can be cut?
+A: The largest possible side length of a square piece that can be cut is is <gcd>(144,657)=9.
+
+Q: [QUESTION]
+A:

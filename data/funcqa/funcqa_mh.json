@@ -1,0 +1,599 @@
+[
+    {
+        "question": "If a train travels at a speed of 67 km/h for 29 minutes, how far does it travel?",
+        "answer": "32.38",
+        "calculation": [
+            "<multiply>(67,29)=1943",
+            "<divide>(1943,60)=32.38"
+        ]
+    },
+    {
+        "question": "What is the area of a circle with a diameter of 7.45 cm? (take \u03c0 as 3.14)",
+        "answer": "43.5694625",
+        "calculation": [
+            "<divide>(7.45,2)=3.725",
+            "<power>(3.725,2)=13.875625",
+            "<multiply>(3.14,13.875625)=43.5694625"
+        ]
+    },
+    {
+        "question": "A square patio has an area of 47.4 m^2. If a 1.36 m wide flower bed is installed around the sqaure each side, what is the area of the new patio?",
+        "answer": "92.256",
+        "calculation": [
+            "<sqrt>(47.4)=6.885",
+            "<add>(6.885,1.36,1.36)=9.605",
+            "<power>(9.605,2)=92.256"
+        ]
+    },
+    {
+        "question": "A company had a profit of $ 535323 this year. If the profit increases by 23.8% every year, what will the profit be after 5 years?",
+        "answer": "1556750.9",
+        "calculation": [
+            "<power>(1.238,5)=2.908",
+            "<multiply>(2.908,535323)=1556750.9"
+        ]
+    },
+    {
+        "question": "A company had a profit of $ 535323 this year. If the profit decreases by 3% every year, what will the profit be after 3 years?",
+        "answer": "488574.848379",
+        "calculation": [
+            "<power>(0.97,3)=0.912673",
+            "<multiply>(535323,0.912673)=488574.848379"
+        ]
+    },
+    {
+        "question": "Rectangular A has a length of 3.64 cm, its width is 1.23 cm shorter than the length, the area of the  A is ?",
+        "answer": "8.7824",
+        "calculation": [
+            "<subtract>(3.64,1.23)=2.41",
+            "<multiply>(2.41,3.64)=8.7724"
+        ]
+    },
+    {
+        "question": "The population of a city was 387659, assuming that the population increases at a rate of 3%, what will the population be after 50 years ?",
+        "answer": "1699458.2901",
+        "calculation": [
+            "<power>(1.03,50)=4.3839",
+            "<multiply>(4.3839,387659)=1699458.2901"
+        ]
+    },
+    {
+        "question": "If a sephere has a surface area of 12, what is the volume of it? (take \u03c0 as 3.14)",
+        "answer": "3.91",
+        "calculation": [
+            "<divide>(12,12.56))=0.9554",
+            "<sqrt>(0.9554)=0.9774",
+            "<power>(0.9774,3)=0.9337",
+            "<multiply>(0.9337,4/3, 3.14)=3.91"
+        ]
+    },
+    {
+        "question": "Given the radius of the sephere is 2.4, calculate the volume. (take \u03c0 as 3.14)",
+        "answer": "57.8765",
+        "calculation": [
+            "<power>(2.4,3)=13.824",
+            "<multiply>(13.824,4/3, 3.14)=57.8765"
+        ]
+    },
+    {
+        "question": "A square has a side length of 55.6 cm, what is the area of the sqaure in square meters?",
+        "answer": "0.3091",
+        "calculation": [
+            "<multiply>(55.6,55.6)=3091.36",
+            "<divide>(3091.36,10000)=0.3091"
+        ]
+    },
+    {
+        "question": "A right triangle has a base of length 8.9 and a height length 9.8. What is the length of the hypotenuse of the triangle?",
+        "answer": "13.24",
+        "calculation": [
+            "<power>(8.9,2)=79.21",
+            "<power>(9.8,2)=96.04",
+            "<add>(79.21,96.04)=175.25",
+            "<sqrt>(175.25)=13.24"
+        ]
+    },
+    {
+        "question": "What is the diagonal of a square of premeter is 7.99?",
+        "answer": "2.8245",
+        "calculation": [
+            "<divide>(7.99,4)=1.9975",
+            "<sqrt>(2)=1.414",
+            "<multiply>(1.414,1.9975)=2.8245"
+        ]
+    },
+    {
+        "question": "If a quantity triples every day, after 6 days, what will the sqaure root of the the quantity be if the initial value is 1.78?",
+        "answer": "27",
+        "calculation": [
+            "<power>(3,6)=729",
+            "<sqrt>(729)=27"
+        ]
+    },
+    {
+        "question": "A sqaure has surface of 4.8 cm^2, if there is a cube has the same side length of the sqaure, what is the volume of the cube?",
+        "answer": "10.5034",
+        "calculation": [
+            "<sqrt>(4.8)=2.19",
+            "<power>(2.19,3)=10.5034"
+        ]
+    },
+    {
+        "question": "A Ferris wheel has a diameter of 40 meters and takes 1 minutes to complete one revolution. If you are at the top of the Ferris wheel, how high above the ground are you after 12 s? (take \u03c0 as 3.14)",
+        "answer": "14.88",
+        "calculation": [
+            "<multiply>(40,3.14)=125.6",
+            "<divide>(125.6,60)=2.0933",
+            "<multiply>(12*2.0933)=25.12",
+            "<subtract>(40,25.12)=14.88"
+        ]
+    },
+    {
+        "question": "If the hydrogen ion concentration is 0.0003162 moles per liter, what is the pH value of it?",
+        "answer": "3.5",
+        "calculation": [
+            "<log>(0.0003162)=-3.5",
+            "<subtract>(0,-3.5)=3.5"
+        ]
+    },
+    {
+        "question": "A certain bacteria population doubles in size every 4 hours. how many hours will it take for the population to reach 1000 times?",
+        "answer": "40",
+        "calculation": [
+            "<multiply>(2,1)=2",
+            "<multiply>(2,2)=4",
+            "<multiply>(4,2)=8",
+            "<multiply>(8,2)=16",
+            "<multiply>(16,2)=32",
+            "<multiply>(32,2)=64",
+            "<multiply>(64,2)=128",
+            "<multiply>(128,2)=256",
+            "<multiply>(256,2)=512",
+            "<multiply>(512,2)=1024"
+        ]
+    },
+    {
+        "question": "If k is an integer and 0.0010101 x 18 ^ k is greater than 10.0, what is the least possible value of k?",
+        "answer": "3.18",
+        "calculation": [
+            "<divide>(10.0,0.0010101)=9900",
+            "<log>(9900)=3.9956",
+            "<log>(18)=1.2553",
+            "<divide>(3.9956,1.2553)=3.18"
+        ]
+    },
+    {
+        "question": "How many digits 3 ^ 108 has ?",
+        "answer": "52",
+        "calculation": [
+            "<log>(3)=0.477",
+            "<multiply>(108,0.477)=51.5"
+        ]
+    },
+    {
+        "question": "Joan took out a mortgage from hel local bank . each monthly mortgage payment she makes must be triple the amount of the previous month ' s payment . if her first payment is $ 100.0 , and the total amount she must pay back is $ 12100.0 , how many months will it take joan to pay back her mortgage ?",
+        "answer": "5",
+        "calculation": [
+            "<multiply>(100.0,3)=300.0",
+            "<add>(100.0,300.0)=400.0",
+            "<multiply>(300.0,3)=900.0",
+            "<add>(400.0,900.0)=1300.0",
+            "<multiply>(900.0,3)=2700.0",
+            "<add>(1300.0,2700.0)=4000.0",
+            "<multiply>(2700.0,3)=8100.0",
+            "<add>(4000.0,8100.0)=12100.0"
+        ]
+    },
+    {
+        "question": "If log(x) is 1/2, and log(y) is 1/3, what is log(log(a+b))?",
+        "answer": "-0.1393",
+        "calculation": [
+            "<power>(10,1/2)=3.1623",
+            "<power>(10,1/3)=2.1544",
+            "<add>(3.1623,2.1544)=5.3167",
+            "<log>(5.3167)=0.7256",
+            "<log>(0.7256)=-0.1393"
+        ]
+    },
+    {
+        "question": "If x^31 = 8, what is the value of x^3?",
+        "answer": "1.223",
+        "calculation": [
+            "<power>(8,1/31)=1.06938",
+            "<power>(1.06938,3)=1.223"
+        ]
+    },
+    {
+        "question": "The value of an investment after t years is given by the formula V = 5566e^(0.03t). If the investment is worth at least $6657, at least how many years has it been invested?",
+        "answer": "6",
+        "calculation": [
+            "<divide>(6657,5566)=1.196",
+            "<ln>(1.196)=0.1792",
+            "<divide>(0.1792,0.03)=5.66"
+        ]
+    },
+    {
+        "question": "If an account earns an annual interest rate of 3.4% compounded continously, approximately how many years will the account money be doubled (round to nearest integer)?",
+        "answer": "21",
+        "calculation": [
+            "<divide>(3.4,100)=0.034",
+            "<ln>(2)=0.6931",
+            "<divide>(0.6931,0.034)=20.39"
+        ]
+    },
+    {
+        "question": "Suppose you deposit $11234.8 in an account and the annual interest is compounded continuously. After 35, there are a total of 34786.3 in the bank account. What is the anual interest ?",
+        "answer": "3.23",
+        "calculation": [
+            "<divide>(34786.3,11234.8)=3.096",
+            "<ln>(3.096)=1.13",
+            "<divide>(1.13,35)=0.0323"
+        ]
+    },
+    {
+        "question": "If e^(8x) = \u221a2222, what is the value of x?",
+        "answer": "0.48",
+        "calculation": [
+            "<sqrt>(2222)=47.14",
+            "<ln>(47.14)=3.85",
+            "<divide>(3.85,8)=0.48"
+        ]
+    },
+    {
+        "question": "If x = ln(89095)+3.6, what is the nearest integer to x?",
+        "answer": "15",
+        "calculation": [
+            "<ln>(89095)=11.397",
+            "<add>(11.397,3.6)=14.997"
+        ]
+    },
+    {
+        "question": "A certain class of students is being divided into teams, the class can either be divided into 36 teams with an equal number of players on each team or 68 teams with an equal number of players on each team. For each student, we need to buy 3 apples, what is the lowest possible number of apples we need to buy?",
+        "answer": "1836",
+        "calculation": [
+            "<lcm>(36,68)=612",
+            "<multiply>(612,3)=1836"
+        ]
+    },
+    {
+        "question": "How many integers between 1 and 14488 are divisible by 25 , and 45 ?",
+        "answer": "64",
+        "calculation": [
+            "<lcm>(25,45)=225",
+            "<divide>(14488,225)=64.39"
+        ]
+    },
+    {
+        "question": "x is the lowest positive integer that is divisible by 546 through 777, what is the value of log(x)?",
+        "answer": "4.3054",
+        "calculation": [
+            "<lcm>(546,777)=20202",
+            "<log>(20202)=4.3054"
+        ]
+    },
+    {
+        "question": "Find the least positive integer which when divided by 5624 and 4921 leaves a remainder of 2 in each case.",
+        "answer": "393610",
+        "calculation": [
+            "<lcm>(5624,4921)=393608",
+            "<add>(393608,2)=393610"
+        ]
+    },
+    {
+        "question": "Jane wants to buy some yarn to knit a sweater and a scarf. The sweater requires 798 skeins of yarn, and the scarf requires 987 skeins of yarn. If the yarn is sold in packages of 3 skeins, what is the minimum number of packages that Jane needs to buy to have enough yarn for both the sweater and the scarf?",
+        "answer": "12502",
+        "calculation": [
+            "<lcm>(798,987)=37506",
+            "<divide>(37506,3)=12502"
+        ]
+    },
+    {
+        "question": "A school has three different schedules for its classes: Schedule A, Schedule B, and Schedule C. Schedule A repeats every 14 days, Schedule B repeats every 4 weeks, and Schedule C repeats every 2 months. If all three schedules start on the same day, on what day will they all repeat on the same day again?",
+        "answer": "420",
+        "calculation": [
+            "<multiply>(4,7)=28",
+            "<multiply>(2,30)=60",
+            "<lcm>(14,28,60)=420"
+        ]
+    },
+    {
+        "question": "John and Jane are taking a math course. John has a homework assignment that is due every 6 days, while Jane has a homework assignment due every 8 days. Today, when they chat with each other, they find they both need to submit their homework the day after tomorrow. How many days ago was the last time they submitted their homework together?",
+        "answer": "22",
+        "calculation": [
+            "<lcm>(6,8)=24",
+            "<subtract>(24,2)=22"
+        ]
+    },
+    {
+        "question": "John, Tom, and Mary are running around a circular track. John completes a lap in 92 seconds, Tom in 138 seconds. Mary takes the average time of Tom and Jack to complete one lap.. If they all start at the same point and time, in how many seconds will they next meet at the starting point?",
+        "answer": "1380",
+        "calculation": [
+            "<add>(138,92)=230",
+            "<divide>(230,2)=115",
+            "<lcm>(92,138,115)=1380"
+        ]
+    },
+    {
+        "question": "A room is 138 meters 24 centimeters in length and 182 meters 32 centimeters in width, find the number of tiles (196.8731 m^2) required to cover the entire floor of the room.",
+        "answer": "128",
+        "calculation": [
+            "<multiply>(138.24,182.32)=25199.7568",
+            "<divide>(25199.7568,196.8731)=128"
+        ]
+    },
+    {
+        "question": "What are the greatest number which on dividing 78628 and 52143 leaves remainders 13 and 3 respectively?",
+        "answer": "15",
+        "calculation": [
+            "<subtract>(78628,13)=78615",
+            "<subtract>(52143,3)=52140",
+            "<gcd>(78615,52140)=15"
+        ]
+    },
+    {
+        "question": "There are 1930 pens, the number of pencils is 579 less than pens. What is the maximum number of students among them so that pens and pencils can be distributed in such a way that each student get the same number of pens and same number of pencils ?",
+        "answer": "193",
+        "calculation": [
+            "<subtract>(1930,579)=1351",
+            "<gcd>(1930,1351)=193"
+        ]
+    },
+    {
+        "question": "John wants to fence his rectangular garden, with a area of 58729482 square meters. The length of the garden is 8666 meters. He wants to divide the garden into identical square sections, each with the largest possible area. What is the area of each section?",
+        "answer": "1",
+        "calculation": [
+            "<divide>(58729482,8666)=6777",
+            "<gcd>(8666,6777)=1"
+        ]
+    },
+    {
+        "question": "In how many ways can a committee of 6 people be selected from a group of 17 people if two specific people must be included in the committee?",
+        "answer": "1365",
+        "calculation": [
+            "<subtract>(17,2)=15",
+            "<subtract>(6,2)=4",
+            "<choose>(15,4)=1365"
+        ]
+    },
+    {
+        "question": "A gardener is going to plant 14 red rosebushes and 7 white rosebushes. If the gardener is to select 5 rosebushes randomly, what is the probability that the 2 rosebushes will be the red rosebushes ?",
+        "answer": "0.0045",
+        "calculation": [
+            "<add>(14,7)=21",
+            "<choose>(14,2)=91",
+            "<choose>(21,5)=20349",
+            "<divide>(91,20349)=0.0045"
+        ]
+    },
+    {
+        "question": "Kim has 23 pairs of shoes, each pair is a different color. If kim randomly selects 2 shoes without replacement from the shoes, what is the probability that she will select 2 shoes of the same color ?",
+        "answer": "0.0222",
+        "calculation": [
+            "<choose>(46,2)=1035",
+            "<divide>(23,1035)=0.0222"
+        ]
+    },
+    {
+        "question": "From a group of 19 boys and 21 girls, 7 children are to be randomly selected . what is the probability that 3 boys and 4 girls will be selected ?",
+        "answer": "0.3111",
+        "calculation": [
+            "<add>(19,21)=40",
+            "<choose>(40,7)=18643560",
+            "<choose>(19,3)=969",
+            "<choose>(21,4)=5985",
+            "<multiply>(5985,969)=5799465",
+            "<divide>(5799465,18643560)=0.3111"
+        ]
+    },
+    {
+        "question": "A lottery game requires a player to select 4 numbers from 1 to 32. What is the probability of selecting all numbers correctly?",
+        "answer": "0.000028",
+        "calculation": [
+            "<choose>(32,4)=35960",
+            "<divide>(1,35960)=0.000028"
+        ]
+    },
+    {
+        "question": "A company has 33 employees, and they want to form a committee with 13 members. In how many ways can the committee be formed?",
+        "answer": "573166440",
+        "calculation": [
+            "<choose>(33,13)=573166440"
+        ]
+    },
+    {
+        "question": "A child want to buy 6 new toys,  if there are 37 toys that satisfy the child' s criteria, in how many different ways can the child select the 6 new toys if the order of selection does n't matter?",
+        "answer": "2324784",
+        "calculation": [
+            "<choose>(37,6)=2324784"
+        ]
+    },
+    {
+        "question": "Given a positive integer n = 13567, find the largest integer k such that  e^(k-4.83) / 2 <= n.",
+        "answer": "15.04",
+        "calculation": [
+            "<multiply>(2,13567)=27134",
+            "<ln>(27134)=10.21",
+            "<add>(10.21,4.83)=15.04"
+        ]
+    },
+    {
+        "question": "Find the largest integer n such that (ln(n+2.2))^2 \u2264 3.89 (take e = 2.71828).",
+        "answer": "4",
+        "calculation": [
+            "<sqrt>(3.89)=1.97",
+            "<power>(2.71828,1.97)=7.17",
+            "<subtract>(7.17,2.2)=4.97"
+        ]
+    },
+    {
+        "question": "5 men and 15 women are competing in a race. How many different ways can the top 5 positions be filled?",
+        "answer": "1860480",
+        "calculation": [
+            "<add>(5,15)=20",
+            "<permutate>(20,5)=1860480"
+        ]
+    },
+    {
+        "question": "In how many ways can 7 boys and 5 girls be arranged in a row if the first position and the last two positions are occupied by boys?",
+        "answer": "152409600",
+        "calculation": [
+            "<multiply>(6,7)=42",
+            "<permutate>(10,10)=3628800",
+            "<multiply>(42,3628800)=152409600"
+        ]
+    },
+    {
+        "question": "A password consists of 8 non-repeat letters where the first two letters must be 'AB', and the letters can be any of the 24 letters in the alphabet. In how many ways can the password be created?",
+        "answer": "537214360",
+        "calculation": [
+            "<subtract>(24,2)=22",
+            "<permutate>(22,6)=537214360"
+        ]
+    },
+    {
+        "question": "What is the remainder when 13 to the power of 6 is divided by 28?",
+        "answer": "1",
+        "calculation": [
+            "<power>(13,6)=4826809",
+            "<remainder>(4826809,28)=1"
+        ]
+    },
+    {
+        "question": "A university has 2611 students and wants to divide them into groups of 83 for a project. How many students will be left over after all the groups are formed?",
+        "answer": "38",
+        "calculation": [
+            "<multiply>(31,83)=2573",
+            "<subtract>(2611,2573)=38"
+        ]
+    },
+    {
+        "question": "A group of 333 friends want to share 77 pizzas (each pizza can be sliced into 6 pieces) equally among themselves, how many whole pizza will be left over?",
+        "answer": "21",
+        "calculation": [
+            "<multiply>(77,6)=462",
+            "<subtract>(462,333)=129",
+            "<divide>(129,6)=21.5"
+        ]
+    },
+    {
+        "question": "87 students bought burgers for 7777 dollars, if the bill has to be divided among these students, how much amount should be added to the amound to make it divided amoung them equally in dollars ( in whole number of dollars )",
+        "answer": "53",
+        "calculation": [
+            "<divide>(7777,87)=89.39",
+            "<multiply>(87,90)=7830",
+            "<subtract>(7830,7777)=53"
+        ]
+    },
+    {
+        "question": "Suppose you deposit $ 1000000 into a bank account that earns 3.38% continuously compounded interest annually. How much money will you have in the account after 27 years (round to nearest integer) ? (take e = 2.71828)",
+        "answer": "2491079",
+        "calculation": [
+            "<multiply>(27,0.0338)=0.9126",
+            "<power>(2.71828,0.9126)=2.491079"
+        ]
+    },
+    {
+        "question": "Suppose you deposit $ 100000 into a bank account that earns 0.823% continuously compounded interest monthly. How much money will you have in the account after 21 years (round to nearest integer) ? (take e = 2.71828)",
+        "answer": "795660",
+        "calculation": [
+            "<multiply>(21,12,0.00823)=2.074",
+            "<power>(2.71828,2.074)=7.9566"
+        ]
+    },
+    {
+        "question": "The volume of a sphere S is 234.56 cm 3, what is the diameter of S.(set \u03c0 = 3.1416)",
+        "answer": "7.652",
+        "calculation": [
+            "<divide>(234.56,4/3, 3.1416)=56",
+            "<power>(56,1/3)=3.826",
+            "<multiply>(2,3.826)=7.652"
+        ]
+    },
+    {
+        "question": "A company had a profit of $ 778899 this year, after 10 years, the profit becomes 3456789, what is the average annual increase rate for the profit?",
+        "answer": "0.1607",
+        "calculation": [
+            "<divide>(3456789,778899)=4.438",
+            "<power>(4.438,1/10)=1.1607"
+        ]
+    },
+    {
+        "question": "The profit of a company doubled in 9 years, on average, what is the increase rate every year in percentage (round to the nearest integer)?",
+        "answer": "8",
+        "calculation": [
+            "<power>(2,1/9)=1.08"
+        ]
+    },
+    {
+        "question": "If n = 3^7 and n ^ b = 15.74 , b must equal to?",
+        "answer": "0.3584",
+        "calculation": [
+            "<power>(3,7)=2187",
+            "<log>(15.74)=1.197",
+            "<log>(2187)=3.34",
+            "<divide>(1.197,3.34)=0.3584"
+        ]
+    },
+    {
+        "question": "An investment compounds annually at an interest rate of 6.46%, what is the smallest investment period by which time the investment will more than triple in value?",
+        "answer": "18",
+        "calculation": [
+            "<ln>(3)=1.099",
+            "<divide>(1.099,0.0646)=17.01"
+        ]
+    },
+    {
+        "question": "A billionaire can make 234.78 dollars per minutes, how much money will he make 13 days?",
+        "answer": "4395081.6",
+        "calculation": [
+            "<multiply>(13,24,60)=18720",
+            "<multiply>(18720,234.78)=4395081.6"
+        ]
+    },
+    {
+        "question": "If a ship is heading with a speed of 12.77 miles per hour, how many miles does it travels in 41 seconds?",
+        "answer": "0.1454",
+        "calculation": [
+            "<multiply>(12.77,41)=523.57",
+            "<divide>(523.57,3600)=0.1454"
+        ]
+    },
+    {
+        "question": "Three friends have some candies to share. The first friend has 564 candies, the second friend has 987 candies, and the third friend has 611 candies. What is the largest number of candies they can distribute equally among themselves?",
+        "answer": "47",
+        "calculation": [
+            "<gcd>(564,987,987)=47"
+        ]
+    },
+    {
+        "question": "Create a cube whose side length is the radius of a circle with the area of 0.98. What is the volume of the cube? (take \u03c0 as 3.14)\"",
+        "answer": "0.1744",
+        "calculation": [
+            "<divide>(0.98,3.14)=0.3121",
+            "<sqrt>(0.3121)=0.5587",
+            "<power>(0.5587,3)=0.1744"
+        ]
+    },
+    {
+        "question": "The area of two circles are 888 and 777 respectively, what is the difference between their circumference? (take \u03c0 as 3.14)",
+        "answer": "6.85",
+        "calculation": [
+            "<divide>(888,3.14)=282.8",
+            "<sqrt>(282.8)=16.82",
+            "<multiply>(2,3.14,16.82)=105.63",
+            "<divide>(777,3.14)=247.45",
+            "<sqrt>(247.45)=15.73",
+            "<multiply>(2,3.14,15.73)=98.78",
+            "<subtract>(105.63,98.78)=6.85"
+        ]
+    },
+    {
+        "question": "A chalk is a cylinder whose bottom radius and height are 5.38mm and 1.08dm respectively, so what is the total volume of 121 chalks in square centimeters? (take \u03c0 as 3.14)",
+        "answer": "118773.6",
+        "calculation": [
+            "<multiply>(3.14,5.38,5.38,1.08)=98.16",
+            "<multiply>(121,98.16)=11877.36",
+            "<multiply>(11877.36,10)=118773.6"
+        ]
+    }
+]

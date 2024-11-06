@@ -1,0 +1,19 @@
+Answer the following questions with operator <multiply>
+
+Question: Rohan owns a 20-square meter coconut farm. Each square meter has 2 coconut trees and each tree has 6 coconuts. If the coconuts can be harvested every 3 months and each coconut costs $0.50, how much will he earn after 6 months?
+Answer: Rohan has a total of 20 x 2 = <multiply>(20, 2)=40 coconut trees. And he has a total of 40 x 6 = <multiply>(40, 6)=240 coconuts. So, the total coconut he will have after 6 months is 240 x 2= <multiply>(240, 2)=480. Therefore, the total amount he will earn is 480 x $0.50 = $<multiply>(480, 0.5)=240. #### 240
+
+Question: A jug is filled with 5 liters of water and a bucket is filled with 4 jugs. How many liters of water are contained in 2 buckets?
+Answer: 4 jugs contain 4*5 = <multiply>(4, 5)=20 liters of water. 2 bucket contains 20*2 = <multiply>(20, 2)=40 liters of water. #### 40
+
+Question: Every morning, Jason eats an omelet made using three eggs.  How many eggs will Jason consume in two weeks?
+Answer: Two weeks is 7*2=<multiply>(7, 2)=14 days. If Jason eats three eggs per day for two weeks, then he consumes 3*14=<multiply>(3, 14)=42 eggs. #### 42
+
+Question: If there were 200 students who passed an English course three years ago, and each subsequent year until the current one that number increased by 50% of the previous year's number, how many students will pass the course this year?
+Answer: We begin 3 years ago with 200 students, and moving forward to two years ago we find there were 200*1.5= <multiply>(200, 1.5)=300 students who passed. At the end of the subsequent year 50% more students pass than last year's 300, so that means 300*1.5=<multiply>(300, 1.5)=450 students pass. At the end of the current year there's another 50% increase over the previous year, meaning we have 450*1.5= <multiply>(450, 1.5)=675 students pass. #### 675
+
+Question: Every morning, Jason eats an omelet made using three eggs.  How many eggs will Jason consume in two weeks?
+Answer: Two weeks is 7*2=<multiply>(7, 2)=14 days. If Jason eats three eggs per day for two weeks, then he consumes 3*14=<multiply>(3, 14)=42 eggs. #### 42
+
+Question: [QUESTION]
+Answer:

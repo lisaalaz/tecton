@@ -1,0 +1,6 @@
+Complete the answers below. In square brackets you will find some hints showing the possible math operations. You may use one of these hints if you think it is correct.
+ 
+[EXEMPLARS]
+ 
+Question: [QUESTION]
+Answer: [ANSWER]

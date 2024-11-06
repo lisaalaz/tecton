@@ -1,0 +1,28 @@
+Answer the following questions step by step
+
+Question: Mark has 3 tanks for pregnant fish.  Each tank has 4 pregnant fish and each fish gives birth to 20 young.  How many young fish does he have at the end?
+Answer: He has 4*3=12 pregnant fish.
+They give birth to 12*20=240 fish.
+#### 240
+
+Question: The math questions in a contest are divided into three rounds: easy, average, and hard. There are corresponding points given for each round. That is 2, 3, and 5 points for every correct answer in the easy, average, and hard rounds, respectively. Suppose Kim got 6 correct answers in the easy; 2 correct answers in the average; and 4 correct answers in the difficult round, what are her total points in the contest?
+Answer: Kim got 6 points/round x 2 round = 12 points in the easy round.
+She got 2 points/round x 3 rounds = 6 points in the average round.
+She got 4 points/round x 5 rounds = 20 points in the difficult round.
+So her total points is 12 points + 6 points + 20 points = 38 points.
+#### 38
+
+Question: A clothing store sells 20 shirts and 10 pairs of jeans. A shirt costs $10 each and a pair of jeans costs twice as much. How much will the clothing store earn if all shirts and jeans are sold?
+Answer: Twenty shirts amount to $10 x 20 = $200.
+The cost of each pair of jeans is $10 x 2 = $20.
+So 10 pairs of jeans amount to $20 x 10 = $200.
+Therefore, the store will earn $200 + $200 = $400 if all shirts and jeans are sold.
+#### 400
+
+Question: Arnold's collagen powder has 18 grams of protein for every 2 scoops.  His protein powder has 21 grams of protein per scoop.  And his steak has 56 grams of protein.   If he has 1 scoop of collagen powder, 1 scoop of protein powder and his steak, how many grams of protein will he consume?
+Answer: 2 scoops of collagen powder have 18 grams of protein and he only has 1 scoop so he consumes 18/2 = 9 grams of protein.
+He has 9 grams collagen powder, 21 grams of protein powder and 56 grams in his steak for a total of 9+21+56 = 86 grams of protein.
+#### 86
+
+Question: [QUESTION]
+Answer:

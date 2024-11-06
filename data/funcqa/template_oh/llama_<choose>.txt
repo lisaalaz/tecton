@@ -1,0 +1,16 @@
+Answer the following question with the operator <choose>:
+
+Q: A committee of 13 people is to be selected from a group of 15 people. How many ways can the committee be selected?
+A: There are <choose>(15,13)=105 ways to select the committee.
+
+Q: A company has 8 employees, but only 6 can attend a conference. How many different groups of employees can the company send to the conference?
+A: The number of different groups of employees the company can send to the conference is 8C6=<choose>(8,6)=28.
+
+Q: A restaurant has a menu with 5 entrees and a customer wants to order 2 dishes. How many different combinations of dishes can the customer order?
+A: The number of different combinations of dishes the customer can order is <choose>(5,2)=10.
+
+Q: How many ways can you select 9 books from a shelf containing 12 books?
+A: There are <choose>(12,9)=220 ways to select 9 books from a shelf containing 12 books.
+
+Q: [QUESTION]
+A:

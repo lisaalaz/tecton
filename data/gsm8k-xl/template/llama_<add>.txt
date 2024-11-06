@@ -1,0 +1,16 @@
+Answer the following questions with operator <add>
+
+Question: For breakfast, Anna bought a bagel for $0.95 and a glass of orange juice for $0.85. At lunch, Anna spent $4.65 on a sandwich and $1.15 on a carton of milk. How much more money did Anna spend on lunch than on breakfast?
+Answer: The total cost of breakfast is $0.95 + $0.85 = $<add>(0.95, 0.85)=1.80. The total cost of lunch is $4.65 + $1.15 = $<add>(4.65, 1.15)=5.80. Anna spent $5.80 − $1.80 = $4 more on lunch than breakfast. #### 4
+
+Question: Voldemort had his dinner and ate a piece of cake that has 110 calories. He also ate 1 pack of chips that contained 310 calories and drank a 500 ml bottle of coke that has 215 calories. His caloric intake for breakfast and lunch is 560 and 780 calories, respectively. If he has a 2500 calorie intake limit per day, how many calories can he still take?
+Answer: For the night he was able to intake 110 + 310 + 215 = <add>(110, 310, 215)=635 calories For breakfast and lunch, he was able to intake 560 + 780 = <add>(560, 780)=1340 calories So, for the entire day Voldemort was able to intake 1340 + 635 = <add>(1340, 635)=1975 calories Therefore, he can still intake 2500 - 1975 = 525 calories. #### 525
+
+Question: Lena played video games for 3.5 hours last weekend. Her brother played 17 minutes more than she did. How many minutes together did Lena and her brother play video games last weekend?
+Answer: Lena = 3.5 hours = 210 minutes Brother = 210 + 17 = <add>(210, 17)=227 minutes 210 + 227 = <add>(210, 227)=437 minutes Together, Lena and her brother played 437 minutes of video games. #### 437
+
+Question: Alex has 4 new shirts. Joe has 3 more new shirts than Alex. If Ben has eight more new shirts than Joe, how many new shirts does Ben have?
+Answer: Joe has 4+3=<add>(4, 3)=7 new shirts. Ben has 8+7=<add>(8, 7)=15 new shirts. #### 15
+
+Question: [QUESTION]
+Answer:

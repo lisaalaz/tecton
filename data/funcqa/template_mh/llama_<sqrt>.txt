@@ -1,0 +1,16 @@
+Answer the following question with the operator <sqrt>:
+
+Q: What is the result of √716?
+A: The value of √716 is <sqrt>(716)=26.76.
+
+Q: What is the value of the square root of 7584?
+A: The square root of 7584 is <sqrt>(7584)=87.09.
+
+Q: A square garden has an area of 1004.25 square feet. What is the length of one side of the garden?
+A: The length of one side of the square garden is <sqrt>(1004.25)=31.69 feet.
+
+Q:  If we know the variance of the weather data is 478.54, what is the standard deviation?
+A: The standard deviation is <sqrt>(478.54)=21.88.
+
+Q: [QUESTION]
+A:

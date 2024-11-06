@@ -1,0 +1,41 @@
+{
+    "<add>": {
+        "decodeall": "Question: If a store sells 147 bananas today and 354 more bananas tomorrow, how many bananas does the store sell in total?\nAnswer: [<multiply>(147,354)=52038, <add>(147,354)=501] The store sells 147 bananas today and 354 more bananas tomorrow, so the total number of bananas sold is 501.\n#### 501",
+    },
+    "<subtract>": {
+       "decodeall" : "Question: A man had 789.4 dollars in his wallet. He spent 11.99 dollars on a movie ticket. How much money does he have left now?\nAnswer: [<subtract>(789.4,11.99)=777.41, <add>(789.4,11.99)=801.39] The man had 789.4 dollars in his wallet and spent 11.99 dollars on a movie ticket, so he has 777.41 dollars left.\n#### 777.41",
+    },
+    "<multiply>": {
+        "decodeall": "Question: A car can travel 398.99 miles per gallon of gas. If the car's gas tank can hold 185.96 gallons of gas, how many miles can the car travel on a full tank?\nAnswer: [<divide>(398.99,185.96)=2.1455689, <multiply>(398.99,185.96)=74196.18, <add>(398.99,185.96)=584.95, <subtract>(398.99,185.96)=213.03] The car can travel 398.99 miles per gallon of gas, so it can travel 74196.18 miles on a full tank.\n#### 74196.18",
+    },
+    "<divide>": {
+        "decodeall": "Question: If a cake weighs 3.77 pounds and is divided into 13 equal pieces, how much does each piece weight?\nAnswer: [<divide>(3.77, 13)=0.29, <multiply>(3.77, 13)=49.01] Each piece of the cake weighs 0.29 pounds.\n#### 0.29\n\nQuestion: A company produces 4764 products in 1904.8 hours. How many products can they produce in one hour?\nAnswer: [<power>(4764,1/1904.8)=1.0045, <divide>(4764,1904.8)=2.5, <remainder>(4764,1904.8)=954.4] They can produce 2.5 products in one hour.\n#### 2.5",
+    },
+    "<power>": {
+        "decodeall": "Question: If Amy's income increases by 4% annually, how many times will it multiply in 11 years?\nAnswer: [<power>(1.04,11)=1.54, <multiply>(1.04,11)=11.44, <divide>(1.04,1.04)=1] In 11 years, Amy's income will increase by 1.54 times.\n#### 1.54",
+    },
+    "<sqrt>": {
+        "decodeall": "Question: A square garden has an area of 1004.25 square feet. What is the length of one side of the garden?\nAnswer: [<sqrt>(1004.25)=31.69, <divide>(1004.25,4)=251.0625, <power>(4,4)=256] The length of one side of the square garden is 31.69 feet.\n#### 31.69",
+    },
+    "<log>": {
+        "decodeall": "Question: 10^x=9642, what is the value of x?\nAnswer: [<ln>(9642)=9.17, <log>(9642)=3.98] 10^x=9642, so x=3.98.\n#### 3.98\n\nQuestion: What is the value of the logarithm of 2093.6?\nAnswer: [<log>(2093.6)=3.32, <ln>(2093.6)=7.65] The value of the logarithm of 2093.6 is 3.32.\n#### 3.32",
+    },
+    "<ln>": {
+        "decodeall": "Question: What is the natural log of 6011.7?\nAnswer: [<log>(6011.7)=3.779, <ln>(6011.7)=8.7] The natural log of 6011.7 is 8.7.\n#### 8.7\n\nQuestion: If e^x=667.21, what is x?\nAnswer: [<ln>(667.21)=6.5, <log>(667.21)=2.82] If e^x=667.21, then x is 6.5.\n#### 6.5",
+    },
+    "<lcm>": {
+        "decodeall": "Question: A school choir practices every 989, 166, and 786 days, respectively. If they start practicing together today, what is the least number of days they have to wait until they can all practice together again?\nAnswer: [<gcd>(989,166,786)=1, <lcm>(989,166,786)=64520382, <multiply>(989,166,786)=129040764] The least number of days they have to wait until they can all practice together again is 64520382.\n#### 64520382\n\nQuestion: A baker is preparing for a baking competition. One recipe requires 598 cups of flour, and another recipe requires 176 cups of flour. If the baker wants to prepare both recipes at the same time, what is the least amount of flour the baker needs to prepare?\nAnswer: [<lcm>(598,176)=52624, <add>(598,176)=774] The least amount of flour the baker needs to prepare is 52624 cups.\n#### 52624",
+    },
+    "<gcd>": {
+        "decodeall": "Question: A tailor wants to cut a piece of cloth into identical squares. If the cloth is 641 cm long and 619 cm wide, what is the largest possible length of each square?\nAnswer: [<gcd>(597,27)=3, <lcm>(597,27)=5373] The maximum length of each piece that can be cut is the greatest common divisor of 597 and 27, which is 3.\n#### 3\n\nQuestion: A baker wants to cut a rectangular cake into square pieces. The cake is 144 inches long and 657 inches wide. What is the largest possible size (side length) of a square piece that can be cut?\nAnswer: [<power>(144,2/657)=1.015, <gcd>(144,657)=9, <lcm>(144,657)=10512, <permutate>(144,657)=0] The largest possible side length of a square piece that can be cut is 9.\n#### 9",
+    },
+    "<remainder>": {
+        "decodeall": "Question: A construction worker has 9638 bricks. If he wants to stack them in piles of 738 bricks each, how many bricks will be left over after he stacks as many full piles as possible?\nAnswer: [<subtract>(9638,738)=8900, <remainder>(9638,738)=44, <divide>(9638,738)=13.06] The number of bricks left over will be 44.\n#### 1887\n\nQuestion: A coach has 94 players and wants to divide them into teams of 7 players each. How many players will be left over?\nAnswer: [<choose>(94,7)=10235867928, <remainder>(94,7)=3, <multiply>(94,7)=658] The number of players left over will be 3.\n#### 3",
+    },
+    "<choose>": {
+        "decodeall": "Question: In a lottery, there are 14 numbers to choose from. If players must choose 5 numbers, how many different combinations of numbers are possible?\nAnswer: [<permutate>(14,5)=240240, <choose>(14,5)=2002] The number of different combinations of 5 numbers that can be chosen from 14 numbers in the lottery is 2002.\n#### 2002\n\nQuestion: A sports team has 7 players. If the coach wants to choose a starting lineup of 2 players, how many different lineups are possible?\nAnswer: [<choose>(7,2)=21, <permutate>(7,2)=42] There are 21 different lineups that are possible.\n#### 21",
+    },
+    "<permutate>": {
+        "decodeall": "Question: A music playlist has 11 songs on it. In how many ways can 4 songs be played in a row?\nAnswer: [<permutate>(11,4)=7920, <choose>(11,4)=330, <power>(11,4)=14641] The number of ways to play 4 songs in a row from a playlist with 11 songs is 7920.\n#### 7920\n\nQuestion: A group of 10 people are going to be arranged in a straight line for a parade. In how many ways can the people be arranged?\nAnswer: [<choose>(10,10)=1, <permutate>(10,10)=3628800] The number of possible arrangements is 3628800.\n#### 3628800",
+    }
+}

@@ -1,0 +1,16 @@
+Answer the following questions with operator <subtract>
+
+Question: Teresa is 59 and her husband Morio is 71 years old. Their daughter, Michiko was born when Morio was 38.  How old was Teresa when she gave birth to Michiko?
+Answer: The difference in age between Teresa and Morio is 71 - 59 = <subtract>(71, 59)=12 years. When their daughter is born, Teresa is 38 - 12 = <subtract>(38, 12)=26 years old. #### 26
+
+Question: If a solver flips a coin 211 times and gets a head on 65 of the flips, how many more tails than heads did he get?
+Answer: If the solver got a head in 65 of the 211 flips, he got 211-65 =<subtract>(211, 65)=146 tails The number of tails than he got more than head is 146-65=<subtract>(146, 65)=81 #### 81
+
+Question: A cleaning company produces two sanitizer sprays. One spray kills 50% of germs, and another spray kills 25% of germs. However, 5% of the germs they kill are the same ones. What percentage of germs would be left after using both sanitizer sprays together?
+Answer: After the first spray kills 50% of germs, there will be 100 - 50 = <subtract>(100, 50)=50% left. The second spray kills 25%, but 5% have already been killed by the 50% spray, so it kills 25 - 5 = <subtract>(25, 5)=20%. After the second spray kills 20% of the remaining germs, there will be 50 - 20 = <subtract>(50, 20)=30% left. #### 30
+
+Question: Cara is at her family reunion, where she discovers that she is 20 years younger than her mom.  Her mom is 15 years younger than Cara's Grandmother. If Cara's grandmother is 75, how old is Cara?
+Answer: Cara's mom: 75-15=<subtract>(75, 15)=60 years old Cara: 60-20=<subtract>(60, 20)=40 years old #### 40
+
+Question: [QUESTION]
+Answer:

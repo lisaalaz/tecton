@@ -1,0 +1,16 @@
+Answer the following question with the operator <lcm>:
+
+Q: A factory produces two types of products. The first product is produced every 865 days, and the second product is produced every 460 days. If the factory starts producing both products at the same time, what is the least amount of time it will take for the factory to produce both products on the same day?
+A: The least amount of time it will take for the factory to produce both products on the same day is <lcm>(865,460)=79580.
+
+Q: A music teacher wants to schedule her students' practice sessions on a rotation basis. One student needs to practice every 221 days, another student every 172 days, and the third student every 250 days. If the teacher wants the students to practice together on the same day, what is the least number of days before they can all practice together again?
+A: The least number of days before they can all practice together again is the least common multiple of 221, 172, and 250, which is <lcm>(221,172,250)=4751500.
+
+Q: A company has two machines that produce a product. Machine A produces one unit every 284 minutes, while Machine B produces one unit every 95 minutes. If both machines start at the same time, what is the least amount of time it will take for both machines to produce the same number of units?
+A: The least amount of time it will take for both machines to produce the same number of units is <lcm>(284,95)=26980.
+
+Q: A library has two bookshelves, one with books that are 643 pages long and the other with books that are 747 pages long. If both bookshelves need to be reorganized at the same time, what is the least amount of time it will take to reorganize both bookshelves?
+A: The least amount of time it will take to reorganize both bookshelves is <lcm>(643,747)=480321.
+
+Q: [QUESTION]
+A:

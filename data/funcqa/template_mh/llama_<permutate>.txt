@@ -1,0 +1,16 @@
+Answer the following question with the operator <permutate>:
+
+Q: A group of 10 people are going to be arranged in a straight line for a parade. In how many ways can the people be arranged?
+A: The number of possible arrangements is <permutate>(10,10)=3628800.
+
+Q: A company has 4 employees who need to be assigned to 2 different offices. In how many ways can this be done?
+A: There are <permutate>(4,2)=12 ways to assign employees to offices.
+
+Q: A restaurant has 5 tables and wants to arrange 3 tables for a private event, how many ways can they arrange the tables?
+A: The number of ways to arrange 3 tables out of 5 tables is 5P3=<permutate>(5,3)=60.
+
+Q: A restaurant has 9 tables and wants to arrange 6 tables for a private event, how many ways can they arrange the tables?
+A: The number of ways to arrange 6 tables out of 9 tables is 9P6=<permutate>(9,6)=60480.
+
+Q: [QUESTION]
+A:

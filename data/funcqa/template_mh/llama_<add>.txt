@@ -1,0 +1,16 @@
+Answer the following question with the operator <add>:
+
+Q: A store sells 311 apples and 112 oranges. How many fruits are sold in total?
+A: The total number of fruits sold by the store is 311+112=<add>(311, 112)=423.
+
+Q: A bakery made 201 loaves of bread in the morning and 31 in the afternoon. How many loaves of bread did they make in total?
+A: The total number of loaves of bread made is 201+31=<add>(201, 31)=232.
+
+Q: A car traveled 118.01 miles in the morning and 451.96 miles in the afternoon. How many miles did the car travel in total?
+A: The car traveled 118.01+451.96=<add>(118.01, 451.96)=569.97 miles in total.
+
+Q: A store sells 277 apples, 209 oranges, and 72 bananas. How many fruits are sold in total?
+A: The total number of fruits sold by the store is 277+209+72=<add>(277, 209, 72)=558.
+
+Q: [QUESTION]
+A:

@@ -1,0 +1,16 @@
+Answer the following questions with operator <divide>
+
+Question: Harry uses a whole bag of chocolate chips when he makes dough for chocolate chip cookies. The dough makes three batches of cookies, and each cookie has nine chocolate chips in it. A bag of chocolate chips has 81 chips in it. How many cookies are in a batch?
+Answer: There are 81 / 3= <divide>(81, 3)=27 chips in a batch. Thus, there are 27 / 9 = <divide>(27, 9)=3 cookies in a batch. #### 3
+
+Question: John decides to buy utensils.  They come in 30 packs with an equal number of knives, forks, and spoons.  How many packs does he need to buy if he wants 50 spoons?
+Answer: Each pack contains 30/3=<divide>(30, 3)=10 spoons So he needs to buy 50/10=<divide>(50, 10)=5 packs #### 5
+
+Question: Darlene's car gets 20 miles/gallon. Martha's car gets half as many miles per gallon as Darlene’s car. How many gallons does Martha’s car require to make a 300-mile trip?
+Answer: Martha’s car gets 20/2 = <divide>(20, 2)=10 miles per gallon. Total gallons Martha’s car requires is 300/10 = <divide>(300, 10)=30 gallons. #### 30
+
+Question: Grace can read a 200-page book in 20 hours. How long would it take her to finish reading a 250-page book at this constant rate?
+Answer: Grace can read 200/20 = <divide>(200, 20)=10 pages in 1 hour. So she can finish a 250-page book in 250/10 = <divide>(250, 10)=25 hours. #### 25
+
+Question: [QUESTION]
+Answer:

@@ -1,0 +1,16 @@
+Answer the following question with the operator <log>:
+
+Q:  The concentration of the hydronium ion in moles per liter is 0.16366030353324176, what is the pH?
+A:  The concentration of the hydronium ion in moles per liter is 0.16366030353324176, so the pH is -log(0.16366030353324176)=- <log>(0.16366030353324176)=-0.79<eoe>-0.79.
+
+Q:  The 10th logarithm of 7753.68 is?
+A:  The 10th logarithm of 7753.68 is log(7753.68)=<log>(7753.68)=3.89.
+
+Q:  What is the value of the logarithm of 1742.22?
+A:  The value of the logarithm of 1742.22 is log(1742.22)=<log>(1742.22)=3.24.
+
+Q:  What is the value of the logarithm of 8886.05?
+A:  The value of the logarithm of 8886.05 is log(8886.05)=<log>(8886.05)=3.95.
+
+Q: [QUESTION]
+A:

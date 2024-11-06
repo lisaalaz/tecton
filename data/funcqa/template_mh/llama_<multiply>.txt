@@ -1,0 +1,16 @@
+Answer the following question with the operator <multiply>:
+
+Q: A company pays its employees 370.33 dollars per hour. If an employee works for 320 hours, how much will they earn?
+A: If an employee is paid 370.33 dollars per hour and works for 320 hours, then they will earn 370.33*320=<multiply>(370.33, 320)=118505.6 dollars.
+
+Q: A box contains 140 items and each item weighs 257.74 pounds. What is the total weight of the items in the box?
+A: Each item weighs 257.74 pounds, so 140 items weigh 140*257.74=<multiply>(140, 257.74)=36083.6 pounds in total.
+
+Q: If a car travels at 70 miles per hour for 308 hours, how many miles does it travel?
+A: The car travels 70*308=<multiply>(70, 308)=21560 miles.
+
+Q: If there are 301 students in a classroom and each student has 295 pencils, how many pencils are there in total?
+A: There are 301*295=<multiply>(301, 295)=88795 pencils in total.
+
+Q: [QUESTION]
+A:

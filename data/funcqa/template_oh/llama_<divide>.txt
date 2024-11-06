@@ -1,0 +1,16 @@
+Answer the following question with the operator <divide>:
+
+Q: A company has a total budget of 360.27 dollars to spend on 352.92 employees. How much money can each employee receive?
+A: Each employee can receive 360.27/352.92=<divide>(360.27, 352.92)=1.02 dollars.
+
+Q: A car can travel 776.93 miles on a full tank of gas. If the gas tank holds 455.09 gallons of gas, how far can the car travel per gallon of gas?
+A: The car can travel 776.93/455.09=<divide>(776.93, 455.09)=1.71 miles per gallon of gas.
+
+Q: A car travels 4096.04 miles on 2170.65 gallons of gas. What is its fuel efficiency in miles per gallon?
+A: The car's fuel efficiency is 4096.04/2170.65=<divide>(4096.04, 2170.65)=1.89 miles per gallon.
+
+Q: A pizza can be divided into 606 equal slices. If a group of 574 people want to share the pizza equally, how many slices of pizza will each person get?
+A: Each person will get 606/574=<divide>(606, 574)=1.06 slices of pizza.
+
+Q: [QUESTION]
+A:

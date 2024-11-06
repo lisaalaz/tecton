@@ -1,0 +1,18 @@
+{
+    "<add>": {
+        "decodeall": "Question: If a store sells 147 bananas today and 354 more bananas tomorrow, how many bananas does the store sell in total?\nAnswer: [<multiply>(147,354)=52038, <add>(147,354)=501] The store sells 147 bananas today and 354 more bananas tomorrow, so the total number of bananas sold is 501.\n#### 501",
+        "decodeallgsmformat": "Question: If a store sells 147 bananas today and 354 more bananas tomorrow, how many bananas does the store sell in total?\nAnswer: [<<147*354=52038>>, <<47+354=501>>] The store sells 147 bananas today and 354 more bananas tomorrow, so the total number of bananas sold is 501.\n#### 501",
+    },
+    "<subtract>": {
+       "decodeall": "Question: A man had 789.4 dollars in his wallet. He spent 11.99 dollars on a movie ticket. How much money does he have left now?\nAnswer: [<subtract>(789.4,11.99)=777.41, <add>(789.4,11.99)=801.39] The man had 789.4 dollars in his wallet and spent 11.99 dollars on a movie ticket, so he has 777.41 dollars left.\n#### 777.41",
+       "decodeallgsmformat" : "Question: A man had 789.4 dollars in his wallet. He spent 11.99 dollars on a movie ticket. How much money does he have left now?\nAnswer: [<<789.4-11.99=777.41>>, <<789.4+11.99=801.39>>] The man had 789.4 dollars in his wallet and spent 11.99 dollars on a movie ticket, so he has 777.41 dollars left.\n#### 777.41",
+    },
+    "<multiply>": {
+        "decodeall": "Question: A car can travel 398.99 miles per gallon of gas. If the car's gas tank can hold 185.96 gallons of gas, how many miles can the car travel on a full tank?\nAnswer: [<divide>(398.99,185.96)=2.1455689, <multiply>(398.99,185.96)=74196.18, <add>(398.99,185.96)=584.95, <subtract>(398.99,185.96)=213.03] The car can travel 398.99 miles per gallon of gas, so it can travel 74196.18 miles on a full tank.\n#### 74196.18",
+        "decodeallgsmformat": "Question: A car can travel 398.99 miles per gallon of gas. If the car's gas tank can hold 185.96 gallons of gas, how many miles can the car travel on a full tank?\nAnswer: [<<398.99/185.96=2.1455689>>, <<398.99*185.96=74196.18>>, <<398.99+185.96=584.95>>, <<398.99-185.96=213.03>>] The car can travel 398.99 miles per gallon of gas, so it can travel 74196.18 miles on a full tank.\n#### 74196.18",
+    },
+    "<divide>": {
+        "decodeall": "Question: If a cake weighs 3.77 pounds and is divided into 13 equal pieces, how much does each piece weight?\nAnswer: [<divide>(3.77, 13)=0.29, <multiply>(3.77, 13)=49.01] Each piece of the cake weighs 0.29 pounds.\n#### 0.29\n\nQuestion: A company produces 4764 products in 1904.8 hours. How many products can they produce in one hour?\nAnswer: [<subtract>(4764,1904.8)=2859.2, <divide>(4764,1904.8)=2.5] They can produce 2.5 products in one hour.\n#### 2.5",
+        "decodeallgsmformat": "Question: If a cake weighs 3.77 pounds and is divided into 13 equal pieces, how much does each piece weight?\nAnswer: [<<3.77/13=0.29>>, <<3.77*13=49.01>>] Each piece of the cake weighs 0.29 pounds.\n#### 0.29\n\nQuestion: A company produces 4764 products in 1904.8 hours. How many products can they produce in one hour?\nAnswer: [<<4764-1904.8=2859.2>>, <<4764/1904.8=2.5>>] They can produce 2.5 products in one hour.\n#### 2.5",
+    }
+}

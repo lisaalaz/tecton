@@ -1,0 +1,1352 @@
+[
+  {
+    "question": "Paul had 22188 books. After selling some in a garage sale he bought 38 new ones. If he has 34838 books now. How many more books did he buy than he sold?",
+    "answer": "12650",
+    "func": "print( 34838 - 22188 )"
+  },
+  {
+    "question": "After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 81792 visitors came to the Buckingham palace that day. If there were 90895 visitors the previous day. How many visited the Buckingham palace within 57 days?",
+    "answer": "172687",
+    "func": "print( 81792 + 90895 )"
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 52199 bottle caps and 42588 wrappers in his collection.. How many more bottle caps than wrappers does danny have now?",
+    "answer": "9611",
+    "func": "print( 52199 - 42588 )"
+  },
+  {
+    "question": "A mailman has to give 10628 pieces of junk mail to each block. If he gives 43166 mails to each house in a block. How many houses are there in a block?",
+    "answer": "0.2462122967150072",
+    "func": "print( 10628 / 43166 )"
+  },
+  {
+    "question": "After resting they decided to go for a swim. The depth of the water is 12453 times Dean's height. If Ron is 88490 feet tall and Dean is 69943 feet shorter than Ron. How deep was the water?",
+    "answer": "230965791",
+    "func": "print( ( 88490 - 69943 ) * 12453 )"
+  },
+  {
+    "question": "Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 41078 marbles and 41606 eggs.. How many more eggs does Rebecca have than marbles?",
+    "answer": "528",
+    "func": "print( 41606 - 41078 )"
+  },
+  {
+    "question": "Summer is almost here and most animals are migrating back to cooler countries. There are 94304 bird families living near a mountain. If 99637 new bird families joined them. How many bird families live near the mountain now?",
+    "answer": "193941",
+    "func": "print( 94304 + 99637 )"
+  },
+  {
+    "question": "At the zoo, a cage had 93 snakes and 64057 alligators. If 57173 alligators were hiding. How many alligators were not hiding?",
+    "answer": "6884",
+    "func": "print( 64057 - 57173 )"
+  },
+  {
+    "question": "Randy has 86 blocks. He uses 4706 blocks to build a tower and 71013 blocks to build a house.. How many more blocks did he use to build the house than he did to build the tower?",
+    "answer": "66307",
+    "func": "print( 71013 - 4706 )"
+  },
+  {
+    "question": "Frank had 81032 pieces of candy. He lost 8969 of them. If he put the remaining pieces into bags with 30772 pieces in each bag. How many bags would he have?",
+    "answer": "2.3418367346938775",
+    "func": "print( ( 81032 - 8969 ) / 30772 )"
+  },
+  {
+    "question": "The school is planning a field trip. The school has 17 classrooms. There are 89806 school buses and a total of 82828 students in the school. If all buses are full. How many seats are in each bus?",
+    "answer": "0.9222991782286262",
+    "func": "print( 82828 / 89806 )"
+  },
+  {
+    "question": "The Razorback t-shirt shop makes $ 37768 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 29918 t-shirts. If they sold 47 t-shirts during the Arkansas game. How much money did they make from selling the t-shirts?",
+    "answer": "1129943024",
+    "func": "print( 37768 * 29918 )"
+  },
+  {
+    "question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 97981 visitors came to the Buckingham palace that day. If there were 11947 visitors the previous day and 56982 visitors the day before that. How many visited the Buckingham palace within the past 89 days?",
+    "answer": "166910",
+    "func": "print( ( 97981 + 11947 ) + 56982 )"
+  },
+  {
+    "question": "Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 12458 bird families flew away to asia and 13004 bird families flew away to africa. How many more bird families flew away to africa than those that flew away to asia?",
+    "answer": "546",
+    "func": "print( 13004 - 12458 )"
+  },
+  {
+    "question": "Winter is almost here and most animals are migrating to warmer countries. There are 83167 bird families living near the mountain. 13174 bird families flew away for winter and 58154 new bird families came to live near the mountain from the arctic.. How many bird families were left near the mountain?",
+    "answer": "128147",
+    "func": "print( ( 83167 - 13174 ) + 58154 )"
+  },
+  {
+    "question": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 91065 invitations in it and she bought 39352 packs. Then she bought 3895 extra invitations.. How many friends can she invite?",
+    "answer": "3583593775",
+    "func": "print( ( 91065 * 39352 ) + 3895 )"
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 6 cups of sugar and 6129 cups of flour. She already put in 2658 cups of flour and 60 cups of sugar.. How many more cups of flour does she need to add?",
+    "answer": "3471",
+    "func": "print( 6129 - 2658 )"
+  },
+  {
+    "question": "Allan brought 2404 balloons. If Allan and Jake brought total of 7456 balloons to the park. How many balloons did Jake bring to the park?",
+    "answer": "5052",
+    "func": "print( 7456 - 2404 )"
+  },
+  {
+    "question": "In Haley's class some boys love to play marbles. If Haley has 47085 marbles and she gave 49232 marbles to each boy. How many boys did she give the marbles to?",
+    "answer": "0.9563901527461813",
+    "func": "print( 47085 / 49232 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 19181 sacks per day and that each sack containes 57 oranges.. How many days will it take to harvest 56551 sacks of oranges?",
+    "answer": "2.9482821542151085",
+    "func": "print( 56551 / 19181 )"
+  },
+  {
+    "question": "Stray cats loved eating goldfish in the pond leaving 17406 goldfish. Paige had raised 32108 goldfish in the pond initially.. How many goldfish disappeared?",
+    "answer": "14702",
+    "func": "print( 32108 - 17406 )"
+  },
+  {
+    "question": "He has 74278 apples more than Adam and Jackie together do. Adam and Jackie have 54109 apples between them.. How many apples does He have?",
+    "answer": "128387",
+    "func": "print( 54109 + 74278 )"
+  },
+  {
+    "question": "Josh had 89465 marbles in his collection. He found 22281 marbles ones while he lost 23601 marbles.. How many marbles does he have now?",
+    "answer": "88145",
+    "func": "print( ( 89465 - 23601 ) + 22281 )"
+  },
+  {
+    "question": "Steven has 23047 peaches. Jake has 2588 fewer peaches than Steven who has 67 more peaches than Jill.. How many peaches does Jake have?",
+    "answer": "20459",
+    "func": "print( 23047 - 2588 )"
+  },
+  {
+    "question": "Jack received 79988 emails in the morning, 50241 emails in the afternoon and 81327 emails in the evening.. How many emails did Jack receive in the day?",
+    "answer": "211556",
+    "func": "print( ( 79988 + 50241 ) + 81327 )"
+  },
+  {
+    "question": "Debby bought 89640 water bottles and 13 soda bottles when they were on sale. If she drank 31667 water bottles and 87 soda bottles a day. How many days would the water bottles last?",
+    "answer": "2.830707045188998",
+    "func": "print( 89640 / 31667 )"
+  },
+  {
+    "question": "There were 59824 dollars in Olivia's wallet. She collected 65331 more dollars from an atm. After she visited a supermarket there were 65331 dollars left.. How much more money did she collect at the atm than she spent at the supermarket?",
+    "answer": "5507",
+    "func": "print( 65331 - 59824 )"
+  },
+  {
+    "question": "Randy has 76536 blocks. He uses 18759 blocks to build a tower and 15217 blocks to build a house.. How many blocks are left?",
+    "answer": "42560",
+    "func": "print( 76536 - ( 18759 + 15217 ) )"
+  },
+  {
+    "question": "Last week Fred had 114 dollars and Jason had 41806 dollars. They washed cars over the weekend and now Fred has 21 dollars and Jason has 60544 dollars.. How much money did Jason make over the weekend?",
+    "answer": "18738",
+    "func": "print( 60544 - 41806 )"
+  },
+  {
+    "question": "Paige raised 60337 goldfish in the pond but stray cats loved eating them. 16734 were eaten.. How many goldfish remained?",
+    "answer": "43603",
+    "func": "print( 60337 - 16734 )"
+  },
+  {
+    "question": "During summer break 1232 kids from Lawrence county go to camp and the rest stay home. Lawrence county has 87505 kids in all.. About how many kids stayed home?",
+    "answer": "86273",
+    "func": "print( 87505 - 1232 )"
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 59062 wrappers and 39 bottle caps at the park. Now he has 16 bottle caps and 61082 wrappers in his collection.. How many wrappers did danny have at first?",
+    "answer": "2020",
+    "func": "print( 61082 - 59062 )"
+  },
+  {
+    "question": "A grocery store had 35822 bottles of regular soda and 37801 bottles of diet soda.. How many more bottles of diet soda than regular soda did they have?",
+    "answer": "1979",
+    "func": "print( 37801 - 35822 )"
+  },
+  {
+    "question": "Rachel had to complete 5 pages of math homework, 20807 pages of reading homework and 9782 more pages of biology homework.. How many pages of reading and biology homework did she have to complete?",
+    "answer": "30589",
+    "func": "print( 20807 + 9782 )"
+  },
+  {
+    "question": "In Haley's class 19606 are boys who love to play marbles. If Haley has 57999 marbles and wants to keep 22647 marbles for herself. How many will each of the boys receive?",
+    "answer": "1.8031214934203814",
+    "func": "print( ( 57999 - 22647 ) / 19606 )"
+  },
+  {
+    "question": "Paco ate 83847 cookies and had 55716 cookies left.. How many cookies did he have in the beginning?",
+    "answer": "139563",
+    "func": "print( 83847 + 55716 )"
+  },
+  {
+    "question": "A farmer had 90581 green tomatoes and 32781 red tomatoes in his garden. If he picked 29940 tomatoes. How many tomatoes are left?",
+    "answer": "93422",
+    "func": "print( ( 90581 + 32781 ) - 29940 )"
+  },
+  {
+    "question": "Every day Ryan spends 13056 hours on learning english and some more hours on learning chinese. If he spends a total of 39700 hours on learning english and chinese everyday. How many hours does he spend on learning chinese?",
+    "answer": "26644",
+    "func": "print( 39700 - 13056 )"
+  },
+  {
+    "question": "The school is planning a field trip. The school has 66 classrooms. There are 50523 students in the school and 3495 seats on each school bus. If 31668 students do n't want to go for the trip. How many buses are needed to take the trip?",
+    "answer": "5.394849785407725",
+    "func": "print( ( 50523 - 31668 ) / 3495 )"
+  },
+  {
+    "question": "Randy has 37 blocks. He uses 31192 blocks to build a tower and 12497 blocks to build a house.. How many more blocks did he use to build the tower than he did to build the house?",
+    "answer": "18695",
+    "func": "print( 31192 - 12497 )"
+  },
+  {
+    "question": "During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 75064 by selling 47150 t-shirts.. What is the cost of each t-shirt?",
+    "answer": "1.5920254506892895",
+    "func": "print( 75064 / 47150 )"
+  },
+  {
+    "question": "Edward spent $ 75442 to buy books and $ 38781 to buy pens. Now he has $ 19.. How much more did Edward spend on books than pens?",
+    "answer": "36661",
+    "func": "print( 75442 - 38781 )"
+  },
+  {
+    "question": "Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 38697 peaches and 91756 apples.. How many more apples than peaches does Steven have?",
+    "answer": "53059",
+    "func": "print( 91756 - 38697 )"
+  },
+  {
+    "question": "Allan brought 7 balloons and 2976 balls while Jake brought 6 balloons and 86376 balls to the park.. How many balls did Allan and Jake have in the park?",
+    "answer": "89352",
+    "func": "print( 2976 + 86376 )"
+  },
+  {
+    "question": "Paco had 12 cookies. He ate 17989 cookies and gave 51980 of them to his friend.. How many more cookies did he give to his friend than those he ate?",
+    "answer": "33991",
+    "func": "print( 51980 - 17989 )"
+  },
+  {
+    "question": "A grocery store had 1160 bottles of diet soda, 1162 bottles of regular soda and 12 apples.. How many more bottles of regular soda than diet soda did they have?",
+    "answer": "2",
+    "func": "print( 1162 - 1160 )"
+  },
+  {
+    "question": "Baker made 97706 cakes and 6429 pastries. If he sold 115 cakes and 81 pastries. How many more cakes than pastries did baker make?",
+    "answer": "91277",
+    "func": "print( 97706 - 6429 )"
+  },
+  {
+    "question": "If you had 97772 bags with equal number of cookies and 79583 cookies in total. How many cookies does each bag have?",
+    "answer": "0.8139651433948369",
+    "func": "print( 79583 / 97772 )"
+  },
+  {
+    "question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 65208 drums of grapes per day and 47 drums of raspberries per day.. How many drums of grapes would be filled in 37613 days?",
+    "answer": "2452668504",
+    "func": "print( 65208 * 37613 )"
+  },
+  {
+    "question": "If they are already at 19893 feet and the cave is 30263 feet deep. How much farther until they reach the end of the cave?",
+    "answer": "10370",
+    "func": "print( 30263 - 19893 )"
+  },
+  {
+    "question": "Paco had 46280 cookies. He ate 14353 cookies and gave 20861 of them to his friend.. How many cookies did paco have left?",
+    "answer": "11066",
+    "func": "print( ( 46280 - 14353 ) - 20861 )"
+  },
+  {
+    "question": "For Gwen's birthday she received 25021 dollars from her dad. Her mom gave her 20346 more dollars. If she spent 6 dollars.. How much more money did she receive from her dad than she did from her mom?",
+    "answer": "4675",
+    "func": "print( 25021 - 20346 )"
+  },
+  {
+    "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 32951 chocolate chip cookies yesterday and 51 raisin cookies and 88936 chocolate chip cookies this morning.. How many chocolate chip cookies did Helen bake?",
+    "answer": "121887",
+    "func": "print( 32951 + 88936 )"
+  },
+  {
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 99136 inches. The frog jumped 94594 inches farther than the grasshopper and the mouse jumped 86501 inches farther than the frog.. How far did the mouse jump?",
+    "answer": "280231",
+    "func": "print( ( 99136 + 94594 ) + 86501 )"
+  },
+  {
+    "question": "A book has 2 chapters. The second chapter is 17928 pages long. If there are a total of 89342 pages in the book. How many pages are in the first chapter?",
+    "answer": "71414",
+    "func": "print( 89342 - 17928 )"
+  },
+  {
+    "question": "There were 12736 parents in the program and 82446 pupils too.. How many more pupils were present compared to parents in the program?",
+    "answer": "69710",
+    "func": "print( 82446 - 12736 )"
+  },
+  {
+    "question": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 82343 invitations in it and she bought 5168 packs. If she sends invitations to only 40493 friends. How many invitations will be left?",
+    "answer": "425508131",
+    "func": "print( ( 82343 * 5168 ) - 40493 )"
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 4474 cups of sugar and 2989 cups of flour. She already put in 270 cups of flour.. How many more cups of sugar than cups of flour does she need to add now?",
+    "answer": "1755",
+    "func": "print( 4474 - ( 2989 - 270 ) )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 11914 sacks per day.. How many oranges do they harvest per day if each sack contains 38781 oranges?",
+    "answer": "462036834",
+    "func": "print( 11914 * 38781 )"
+  },
+  {
+    "question": "Danny has 27231 bottle caps in his collection. He found some more bottle caps at the park. If he has 42924 bottle caps now. How many bottle caps did he find at the park?",
+    "answer": "15693",
+    "func": "print( 42924 - 27231 )"
+  },
+  {
+    "question": "Julia played tag with 23122 kids on monday, 6580 kids on tuesday and 4331 kids on wednesday.. How many more kids did she play with on monday and tuesday than on wednesday?",
+    "answer": "25371",
+    "func": "print( ( 23122 + 6580 ) - 4331 )"
+  },
+  {
+    "question": "Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 70802 students suggested adding mashed potatoes 48054 suggested adding bacon to the menu and the rest did not participate. How many students participated in the suggestion of new food items?",
+    "answer": "118856",
+    "func": "print( 70802 + 48054 )"
+  },
+  {
+    "question": "Katie had 69680 new games and 86 old games. Her friends had 65872 new games.. How many new games do they have together?",
+    "answer": "135552",
+    "func": "print( 69680 + 65872 )"
+  },
+  {
+    "question": "Allan brought 35821 balloons and 20 balls while Jake brought 21668 balloons and 59 balls to the park.. How many balloons did Allan and Jake have in the park?",
+    "answer": "57489",
+    "func": "print( 35821 + 21668 )"
+  },
+  {
+    "question": "Julia played tag with 8 kids on monday, 33782 kids on tuesday and 31579 kids on wednesday.. How many more kids did she play with on tuesday than on wednesday?",
+    "answer": "2203",
+    "func": "print( 33782 - 31579 )"
+  },
+  {
+    "question": "Jessie currently weighs 38785 kilograms. After she started to go jogging everyday she lost 97954 kilograms in the first week and 44497 kilograms in the second week.. How much did she weigh before starting to jog?",
+    "answer": "181236",
+    "func": "print( ( 38785 + 97954 ) + 44497 )"
+  },
+  {
+    "question": "There are 15196 different books and 7674 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 13 of the movies. How many more books than movies are there in the ' crazy silly school ' series?",
+    "answer": "7522",
+    "func": "print( 15196 - 7674 )"
+  },
+  {
+    "question": "Danny has 9970 bottle caps in his collection. He found 18550 bottle caps at the park.. How many bottle caps does he have now?",
+    "answer": "28520",
+    "func": "print( 9970 + 18550 )"
+  },
+  {
+    "question": "Paco ate 29572 cookies. If he had 98949 cookies initially. How many cookies did Paco have left?",
+    "answer": "69377",
+    "func": "print( 98949 - 29572 )"
+  },
+  {
+    "question": "Bryan took a look at his books and magazines. If he has 9 books and 88748 magazines in each of his 95025 bookshelves. How many magazines does he have in total?",
+    "answer": "8433278700",
+    "func": "print( 88748 * 95025 )"
+  },
+  {
+    "question": "Because of the decision Sofia asked the students to suggest specific types of food. 73149 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 48043 more students suggested adding bacon than those that suggested mashed potatoes. How many students suggested bacon?",
+    "answer": "121192",
+    "func": "print( 73149 + 48043 )"
+  },
+  {
+    "question": "Paige raised 11937 goldfish and 71 catfish in the pond but stray cats loved eating them. Now she has 6465 left.. How many goldfish disappeared?",
+    "answer": "5472",
+    "func": "print( 11937 - 6465 )"
+  },
+  {
+    "question": "A waiter had 1925 customers. While 542 customers left he got 1099 new customers.. How many customers does he still have?",
+    "answer": "2482",
+    "func": "print( ( 1925 - 542 ) + 1099 )"
+  },
+  {
+    "question": "Julia played tag with 16300 kids on monday, 2 kids on tuesday and 7452 kids on wednesday.. How many more kids did she play with on monday than on wednesday?",
+    "answer": "8848",
+    "func": "print( 16300 - 7452 )"
+  },
+  {
+    "question": "Frank was reading through his favorite book. The book had 88289 chapters, each with the same number of pages. It has a total of 48412 pages. It took Frank 607 days to finish the book.. How many pages are in each chapter?",
+    "answer": "0.548335579743796",
+    "func": "print( 48412 / 88289 )"
+  },
+  {
+    "question": "Randy has some blocks. He uses 98275 blocks to build a tower. If there are 88226 blocks left. How many blocks did he have at the start?",
+    "answer": "186501",
+    "func": "print( 98275 + 88226 )"
+  },
+  {
+    "question": "Jessie weighed 34463 kilograms. After she started to go jogging everyday she lost 24971 kilograms.. How much does she weigh now?",
+    "answer": "9492",
+    "func": "print( 34463 - 24971 )"
+  },
+  {
+    "question": "At the arcade Dave had won 48790 tickets. He used some tickets to buy toys. If he still has 7101 tickets left. How many tickets did Dave use to buy toys?",
+    "answer": "41689",
+    "func": "print( 48790 - 7101 )"
+  },
+  {
+    "question": "They decided to hold the party in their backyard. If they have 88553 sets of tables and each set has 30748 chairs. How many chairs do they have in the backyard?",
+    "answer": "2722827644",
+    "func": "print( 88553 * 30748 )"
+  },
+  {
+    "question": "Bobby ate some pieces of candy. Then he ate 1641 more. If he ate a total of 61898 pieces of candy. How many pieces of candy had he eaten at the start?",
+    "answer": "60257",
+    "func": "print( 61898 - 1641 )"
+  },
+  {
+    "question": "Jake has 73585 fewer peaches than Steven and 2688 more peaches than Jill. Steven has 81306 peaches.. How many peaches does Jill have?",
+    "answer": "5033",
+    "func": "print( ( 81306 - 73585 ) - 2688 )"
+  },
+  {
+    "question": "If each bag has 29116 cookies and you had 80065 cookies in total. How many bags of cookies do you have?",
+    "answer": "2.749862618491551",
+    "func": "print( 80065 / 29116 )"
+  },
+  {
+    "question": "Bobby had 84990 pieces of candy. He ate some pieces of candy. If he has 8286 pieces of candy left. How many pieces of candy did Bobby eat?",
+    "answer": "76704",
+    "func": "print( 84990 - 8286 )"
+  },
+  {
+    "question": "Matthew had 83384 crackers. He has 60853 crackers left after he gave equal numbers of crackers to his 5 friends.. How many crackers did Matthew give to his friends?",
+    "answer": "22531",
+    "func": "print( 83384 - 60853 )"
+  },
+  {
+    "question": "There are 91992 students in a school. If the school has 39709 students in each grades and each grade has the same number of students. How many grades are there in total?",
+    "answer": "2.3166536553426176",
+    "func": "print( 91992 / 39709 )"
+  },
+  {
+    "question": "Rachel picked 7 ripe apples from her tree. Now the tree has 85198 apples still on it. If 53517 of those are ripe and the rest are unripe. How many unripe apples does the tree have now?",
+    "answer": "31681",
+    "func": "print( 85198 - 53517 )"
+  },
+  {
+    "question": "Shirley sold 15393 cases of boxes of trefoils.. How many boxes of trefoils does she need to deliver if each case has 18421 boxes?",
+    "answer": "283554453",
+    "func": "print( 15393 * 18421 )"
+  },
+  {
+    "question": "White t - shirts can be purchased in packages. If mom buys 6044 white t - shirts where each package has 4978 white t - shirts.. How many packages will she have?",
+    "answer": "1.2141422257934913",
+    "func": "print( 6044 / 4978 )"
+  },
+  {
+    "question": "Katie had 62 new games and 39994 old games. Her friends had 73 new games and 64670 old games.. How many old games do they have 3",
+    "answer": "104664",
+    "func": "print( 39994 + 64670 )"
+  },
+  {
+    "question": "The Razorback shop makes $ 1593 dollars off each t-shirt and $ 15321 off each jersey. During the Arkansas and Texas tech game they sold 254 t-shirts and 43 jerseys.. How much more does a jersey cost than a t-shirt?",
+    "answer": "13728",
+    "func": "print( 15321 - 1593 )"
+  },
+  {
+    "question": "Frank was reading through his favorite book. The book had 30876 pages and he read 70558 pages per day.. How many days did he take to finish the book?",
+    "answer": "0.4375974375690921",
+    "func": "print( 30876 / 70558 )"
+  },
+  {
+    "question": "Last week Fred had 86 dollars and Jason had 17882 dollars. Fred washed cars over the weekend and now has 51041 dollars and Jason did not work.. How much money do they have together now?",
+    "answer": "68923",
+    "func": "print( 17882 + 51041 )"
+  },
+  {
+    "question": "Josh had 59560 marbles in his collection. He lost 24315 marbles and found 27468 new ones.. How many marbles does he have now?",
+    "answer": "62713",
+    "func": "print( ( 59560 - 24315 ) + 27468 )"
+  },
+  {
+    "question": "Allan brought 77084 balloons and Jake brought 27190 balloons to the park. Allan then bought 20254 more balloons at the park.. How many more balloons did Allan have than Jake in the park?",
+    "answer": "70148",
+    "func": "print( ( 77084 + 20254 ) - 27190 )"
+  },
+  {
+    "question": "Paul got a box of 85942 crayons and 66 erasers for his birthday. At the end of the school year he only had 12979 left while not having lost a single erasers.. How many crayons had been lost or given away?",
+    "answer": "72963",
+    "func": "print( 85942 - 12979 )"
+  },
+  {
+    "question": "The school is planning a field trip. The school has 21 classrooms. There are 64240 students in the school and 80795 school buses. If all buses are full. How many seats are in each bus?",
+    "answer": "0.7950987066031314",
+    "func": "print( 64240 / 80795 )"
+  },
+  {
+    "question": "Josh had 3 marbles in his collection. He found 53593 marbles while he lost 18334 marbles.. How many more marbles did he find than those he lost?",
+    "answer": "35259",
+    "func": "print( 53593 - 18334 )"
+  },
+  {
+    "question": "An industrial machine worked for 90577 minutes. It can make 4389 shirts a minute.. How many shirts did machine make?",
+    "answer": "397542453",
+    "func": "print( 4389 * 90577 )"
+  },
+  {
+    "question": "Allan brought 14239 balloons and Jake brought 48667 balloons to the park.. How many more balloons did Jake have than Allan in the park?",
+    "answer": "34428",
+    "func": "print( 48667 - 14239 )"
+  },
+  {
+    "question": "Jack received 10 emails in the morning, 58216 emails in the afternoon and 29144 emails in the evening.. How many more emails did Jack receive in the afternoon than in the evening?",
+    "answer": "29072",
+    "func": "print( 58216 - 29144 )"
+  },
+  {
+    "question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 36 of the pickers that they fill 47638 drums of grapes per day.. How many days will it take to fill 31048 drums of grapes?",
+    "answer": "0.6517486040555859",
+    "func": "print( 31048 / 47638 )"
+  },
+  {
+    "question": "Julia played tag with 13123 kids on monday. She played tag with 11235 kids on tuesday. She spent a total of 38 hours to play tag on both days.. How many more kids did she play with on monday than on tuesday?",
+    "answer": "1888",
+    "func": "print( 13123 - 11235 )"
+  },
+  {
+    "question": "Paul had 95 pens and 48248 books. After selling some books and pens in a garage sale he had 35683 books and 23 pens left.. How many books did he sell in the garage sale?",
+    "answer": "12565",
+    "func": "print( 48248 - 35683 )"
+  },
+  {
+    "question": "A book has 2 chapters across 84619 pages. The first chapter is 47013 pages long.. How many pages are in the first chapter?",
+    "answer": "37606",
+    "func": "print( 84619 - 47013 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 3262 sacks of ripe oranges and 8037 sacks of unripe oranges per day.. How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+    "answer": "4775",
+    "func": "print( 8037 - 3262 )"
+  },
+  {
+    "question": "There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12440 orchids and 36261 roses in the vase.. How many more roses than orchids are there in the vase now?",
+    "answer": "23821",
+    "func": "print( 36261 - 12440 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvested 16112 sacks of oranges.. How many days did it take to harvest them if they harvested 59701 sacks of oranges per day?",
+    "answer": "0.2698782264953686",
+    "func": "print( 16112 / 59701 )"
+  },
+  {
+    "question": "Baker sold 10859 cakes. If he had made 12116 cakes initially. How many more cakes did baker make than those he sold?",
+    "answer": "1257",
+    "func": "print( 12116 - 10859 )"
+  },
+  {
+    "question": "The ring toss game at the carnival made the same amount of money each day. In total in 84210 days they earned 27902 dollars. Together with game they earned 22 dollars.. How much did ring toss game make per day?",
+    "answer": "0.3313383208645054",
+    "func": "print( 27902 / 84210 )"
+  },
+  {
+    "question": "Jack received 83920 emails and sent 91 letters in the morning. He then received 78370 emails and sent 74 letters in the afternoon.. How many emails did Jack receive in the day?",
+    "answer": "162290",
+    "func": "print( 83920 + 78370 )"
+  },
+  {
+    "question": "Faye was placing her pencils and crayons into 2900 rows with 6730 pencils and 27 crayons in each row.. How many pencils does she have?",
+    "answer": "19517000",
+    "func": "print( 2900 * 6730 )"
+  },
+  {
+    "question": "Emily is making bead necklaces for her 43 friends. She had 43814 beads and she was able to make 32026 necklaces.. How many beads did each necklace need?",
+    "answer": "1.368075938300131",
+    "func": "print( 43814 / 32026 )"
+  },
+  {
+    "question": "Jake has 16606 fewer peaches than Steven who has 6725 more peaches than Jill. Steven has 4 peaches.. How many more peaches does Jill have than Jake?",
+    "answer": "9881",
+    "func": "print( 16606 - 6725 )"
+  },
+  {
+    "question": "Edward spent $ 9093 to buy books and $ 72742 to buy pens. Now he has $ 12.. How much did Edward spend on books and pens?",
+    "answer": "81835",
+    "func": "print( 9093 + 72742 )"
+  },
+  {
+    "question": "Rachel picked 27253 ripe apples from her tree. Now the tree has 76959 ripe apples and 28406 unripe apples.. How many apples did the tree have to begin with?",
+    "answer": "132618",
+    "func": "print( ( 27253 + 76959 ) + 28406 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 67 sacks per day and that each sack containes 30640 oranges.. How many oranges are harvested if they harvest a total of 43165 sacks of oranges?",
+    "answer": "1322575600",
+    "func": "print( 30640 * 43165 )"
+  },
+  {
+    "question": "Adam could fit 19441 action figures and 78217 cabinets on each shelf in his room. His room has 472 shelves.. How many total items could his shelves hold?",
+    "answer": "46094576",
+    "func": "print( ( 19441 + 78217 ) * 472 )"
+  },
+  {
+    "question": "Ed had 9483 more marbles than Doug. Doug lost 4260 of his marbles at the playground. If Ed had 36443 marbles. How many marbles does Doug have now?",
+    "answer": "22700",
+    "func": "print( ( 36443 - 9483 ) - 4260 )"
+  },
+  {
+    "question": "Last week Fred had 60 dollars and Jason had 32854 dollars. Jason washed cars over the weekend and now has 70908 dollars.. How much money did Jason make washing cars?",
+    "answer": "38054",
+    "func": "print( 70908 - 32854 )"
+  },
+  {
+    "question": "Jerry had 22972 action figures on a shelf in his room. Later he added 3603 more action figures to the shelf. If he also has 845 books on the shelf. How many more action figures than books were on his shelf?",
+    "answer": "25730",
+    "func": "print( ( 22972 + 3603 ) - 845 )"
+  },
+  {
+    "question": "David did 36 more push-ups but 487 less crunches than Zachary in gym class today. If Zachary did 17376 push-ups and 487 crunches. How many more push-ups than crunches did Zachary do?",
+    "answer": "16889",
+    "func": "print( 17376 - 487 )"
+  },
+  {
+    "question": "Jerry had 19296 action figures and 47056 books on a shelf in his room. Later he added 15594 more books to the shelf.. How many more books than action figures were on his shelf?",
+    "answer": "43354",
+    "func": "print( ( 47056 + 15594 ) - 19296 )"
+  },
+  {
+    "question": "There are 42538 skittles in Steven's skittles collection. Steven also has 517 erasers and 90 scales. If the skittles are organized into 2169 groups. How big is each group?",
+    "answer": "19.61180267404334",
+    "func": "print( 42538 / 2169 )"
+  },
+  {
+    "question": "Faye was placing her pencils into rows with 22 pencils in each row. She had 22939 packs of pencils each one having 34883 pencils.. How many pencils does she have?",
+    "answer": "800181137",
+    "func": "print( 22939 * 34883 )"
+  },
+  {
+    "question": "A book has 3 chapters. The first chapter is 6969 pages long the second chapter is 75 pages long and the third chapter is 1039 pages long.. How many more pages does the first chapter have than the third chapter?",
+    "answer": "5930",
+    "func": "print( 6969 - 1039 )"
+  },
+  {
+    "question": "Ryan learns english and chinese for 69056 days. Every day he spends 97319 hours on learning english and 55277 hours on learning chinese.. How many hours does he spend on learning english and chinese in all?",
+    "answer": "10537669376",
+    "func": "print( ( 97319 + 55277 ) * 69056 )"
+  },
+  {
+    "question": "Jack received 4 emails and sent 14997 letters in the morning. He then received 6 emails and sent 97836 letters in the afternoon.. How many emails did Jack send in the day?",
+    "answer": "112833",
+    "func": "print( 14997 + 97836 )"
+  },
+  {
+    "question": "For Gwen's birthday she received 8431 dollars from her mom. Her dad gave her 7803 more dollars. If she spent 460 dollars.. How much money did she still have?",
+    "answer": "15774",
+    "func": "print( ( 8431 + 7803 ) - 460 )"
+  },
+  {
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 47554 inches. The mouse jumped 9727 inches lesser than the frog who jumped 33636 inches farther than the grasshopper.. How far did the mouse jump?",
+    "answer": "71463",
+    "func": "print( ( 47554 + 33636 ) - 9727 )"
+  },
+  {
+    "question": "Steven has 14394 peaches. Jake has 12 fewer peaches than Steven who has 7406 more peaches than Jill.. How many peaches does Jill have?",
+    "answer": "6988",
+    "func": "print( 14394 - 7406 )"
+  },
+  {
+    "question": "Each pot has 29139 flowers in it. There are 66140 flowers in total.. How many pots are there in all?",
+    "answer": "2.2698102199800956",
+    "func": "print( 66140 / 29139 )"
+  },
+  {
+    "question": "The Razorback t-shirt shop made $ 80724 dollars from selling 5784 t-shirt during the Arkansas and Texas tech game they.. What is the cost of each t-shirt?",
+    "answer": "13.95643153526971",
+    "func": "print( 80724 / 5784 )"
+  },
+  {
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 21 inches. The grasshopper jumped 95422 inches farther than the frog and the mouse jumped 86464 inches lesser than the frog.. How much farther did the grasshopper jump than the mouse?",
+    "answer": "181886",
+    "func": "print( 95422 + 86464 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 68448 sacks of unripe oranges and 39536 sacks of ripe oranges per day.. How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+    "answer": "28912",
+    "func": "print( 68448 - 39536 )"
+  },
+  {
+    "question": "Jesse's room is 84424 feet long. If she needs a carpet of size 60137 square feet. What is the width of her room?",
+    "answer": "0.7123211409077987",
+    "func": "print( 60137 / 84424 )"
+  },
+  {
+    "question": "Jerry had 4183 action figures on a shelf in his room. Later he added 499 more action figures to the shelf and removed 1962 old ones.. How many action figures were on his shelf in all?",
+    "answer": "2720",
+    "func": "print( ( 4183 + 499 ) - 1962 )"
+  },
+  {
+    "question": "Danny collects bottle caps. He found 14151 bottle caps at the park while he threw away 90029 old ones. Now he has 42 bottle caps in his collection.. How many more bottle caps did danny throw away than those he found at the park?",
+    "answer": "75878",
+    "func": "print( 90029 - 14151 )"
+  },
+  {
+    "question": "The ring toss game at the carnival made 325 dollars in the first 154 days and 64361 dollars in the remaining 93476 days.. How much did they make per day in the remaining 93476 days at the carnival?",
+    "answer": "0.6885296760665839",
+    "func": "print( 64361 / 93476 )"
+  },
+  {
+    "question": "There are 3941 skittles in Steven's skittles collection. Steven also has 58239 erasers. If the erasers are organized into 9733 groups. How big is each group?",
+    "answer": "5.983663824103565",
+    "func": "print( 58239 / 9733 )"
+  },
+  {
+    "question": "A mailman has to give 10690 pieces of junk mail to each of the 78 blocks. If there are 42320 houses on a block. How many pieces of junk mail should he give each house?",
+    "answer": "0.2525992438563327",
+    "func": "print( 10690 / 42320 )"
+  },
+  {
+    "question": "Allan brought 5 balloons and Jake brought 79831 balloons to the park. Jake then bought 19543 more balloons at the park.. How many balloons did Jake bring to the park?",
+    "answer": "99374",
+    "func": "print( 79831 + 19543 )"
+  },
+  {
+    "question": "Baker made 54 cakes and 143 pastries. If he sold 35938 cakes and 36147 pastries. How many more pastries than cakes did baker sell?",
+    "answer": "209",
+    "func": "print( 36147 - 35938 )"
+  },
+  {
+    "question": "A farmer had 90 tomatoes in his garden. If he picked 93444 of them yesterday and 42723 today.. How many tomatoes did he pick in all?",
+    "answer": "136167",
+    "func": "print( 93444 + 42723 )"
+  },
+  {
+    "question": "Paige was helping her mom plant flowers and together they planted 50026 seeds. They put 78402 seeds in each flower bed and only 58 seeds grew into flowers in each flower bed.. How many flower beds did they have?",
+    "answer": "0.6380704573862912",
+    "func": "print( 50026 / 78402 )"
+  },
+  {
+    "question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 69642 pounds. On the way back Marco lost 14868 pounds of strawberries. Marco's strawberries now weighed 38653 pounds.. How much did his dad's strawberries weigh?",
+    "answer": "16121",
+    "func": "print( 69642 - ( 38653 + 14868 ) )"
+  },
+  {
+    "question": "Jessica cut some roses from her flower garden to put in her vase. There are now 66364 roses in the vase. If there were 56388 roses in the vase initially. How many roses did she cut?",
+    "answer": "9976",
+    "func": "print( 66364 - 56388 )"
+  },
+  {
+    "question": "They decided to hold the party in their backyard. They have 13100 sets of tables and each set has 12995 chairs. If there are 90 people sitting on chairs. How many chairs are left unoccupied?",
+    "answer": "170234410",
+    "func": "print( ( 13100 * 12995 ) - 90 )"
+  },
+  {
+    "question": "In a school there are 15097 girls and 13973 boys.. How many more girls than boys does the school have?",
+    "answer": "1124",
+    "func": "print( 15097 - 13973 )"
+  },
+  {
+    "question": "Josh had 85915 marbles in his collection. He gave 85317 marbles to Jack.. How many marbles does Josh have now?",
+    "answer": "598",
+    "func": "print( 85915 - 85317 )"
+  },
+  {
+    "question": "Julia played tag with 28184 kids on monday. She played tag with some more kids on tuesday. If she played with a total of 94582 kids. How many kids did she play with on tuesday?",
+    "answer": "66398",
+    "func": "print( 94582 - 28184 )"
+  },
+  {
+    "question": "There were 56471 people on the bus. At the next stop 29594 more people got on the bus and 7488 people got off.. How many people are there on the bus now?",
+    "answer": "78577",
+    "func": "print( ( 56471 + 29594 ) - 7488 )"
+  },
+  {
+    "question": "Paul had 54340 books. After selling some in a garage sale he bought 42 new ones. If he has 22213 books now. How many more books did he sell than he bought?",
+    "answer": "32127",
+    "func": "print( 54340 - 22213 )"
+  },
+  {
+    "question": "Dave had 59542 apps on his phone. He deleted 26132 apps.. How many apps are left on his phone?",
+    "answer": "33410",
+    "func": "print( 59542 - 26132 )"
+  },
+  {
+    "question": "Last week Fred had 78 dollars and Jason had 47816 dollars. Jason delivered newspapers and now has 54625 dollars. Fred washed cars over the weekend and now has 90 dollars.. How much money did Jason earn by delivering newspapers?",
+    "answer": "6809",
+    "func": "print( 54625 - 47816 )"
+  },
+  {
+    "question": "There were 12564 people on the bus. At the next stop 41067 more people got on the bus. Each bus can not have more than 36 people.. How many people are there on the bus now?",
+    "answer": "53631",
+    "func": "print( 12564 + 41067 )"
+  },
+  {
+    "question": "Olivia spent 56037 dollars at a supermarket. If she has 41064 dollars left with her. How much money did she have initially?",
+    "answer": "97101",
+    "func": "print( 56037 + 41064 )"
+  },
+  {
+    "question": "Rachel had to complete 7 pages of math homework, 87278 pages of reading homework and 33409 more pages of biology homework.. How many more pages of reading homework than biology homework did she have?",
+    "answer": "53869",
+    "func": "print( 87278 - 33409 )"
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 10004 bottle caps and 49161 wrappers in his collection.. How many more wrappers than bottle caps does danny have now?",
+    "answer": "39157",
+    "func": "print( 49161 - 10004 )"
+  },
+  {
+    "question": "Rachel had to complete 90124 pages of math homework, 2 pages of reading homework and 62164 more pages of biology homework.. How many more pages of math homework than biology homework did she have?",
+    "answer": "27960",
+    "func": "print( 90124 - 62164 )"
+  },
+  {
+    "question": "There were 6814 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 8900 roses. There are now 1495 roses in the vase.. How many roses are left in the garden?",
+    "answer": "14219",
+    "func": "print( 8900 - ( 1495 - 6814 ) )"
+  },
+  {
+    "question": "Baker made 99 cakes. He bought 11289 new cakes and sold 1528 cakes.. How many more cakes did baker buy than those he sold?",
+    "answer": "9761",
+    "func": "print( 11289 - 1528 )"
+  },
+  {
+    "question": "Josh had some marbles in his collection. He lost 56707 marbles. If he has 12757 marbles now. How many marbles did he have in his collection?",
+    "answer": "69464",
+    "func": "print( 56707 + 12757 )"
+  },
+  {
+    "question": "Danny collects bottle caps. He found 382 bottle caps at the park while he threw away 96836 old ones. Now he has 97695 bottle caps in his collection.. How many bottle caps did danny have at first?",
+    "answer": "194149",
+    "func": "print( ( 97695 + 96836 ) - 382 )"
+  },
+  {
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 24 inches. The frog jumped 17155 inches farther than the grasshopper and the mouse jumped 1966 inches lesser than the frog.. How much farther did the mouse jump than the grasshopper?",
+    "answer": "15189",
+    "func": "print( 17155 - 1966 )"
+  },
+  {
+    "question": "Jesse's room is 73709 feet wide. If she needs a carpet of size 76970 square feet. What is the length of her room?",
+    "answer": "1.044241544451831",
+    "func": "print( 76970 / 73709 )"
+  },
+  {
+    "question": "Jesse's room is 73721 feet long and 43208 feet wide.. How much longer is her room than it is wide?",
+    "answer": "30513",
+    "func": "print( 73721 - 43208 )"
+  },
+  {
+    "question": "He had 87920 aquariums for saltwater animals and 16122 aquariums for freshwater animals. Each aquarium has 53946 animals in it.. How many animals does he have in total?",
+    "answer": "5612649732",
+    "func": "print( ( 87920 + 16122 ) * 53946 )"
+  },
+  {
+    "question": "Zachary did 46447 push-ups and 43604 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.. How many more push-ups than crunches did Zachary do?",
+    "answer": "2843",
+    "func": "print( 46447 - 43604 )"
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 98442 cups of flour and 3372 cups of sugar. She already put in 55436 cups of flour.. How many more cups of flour than cups of sugar does she need to add now?",
+    "answer": "39634",
+    "func": "print( ( 98442 - 55436 ) - 3372 )"
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 5 cups of sugar and 37801 cups of flour. She already put in some cups of flour. If she still needs 20477 more cups of flour. How many cups of flour did she put in?",
+    "answer": "17324",
+    "func": "print( 37801 - 20477 )"
+  },
+  {
+    "question": "Jake has 46191 fewer peaches than Steven. If Jake has 13680 peaches.. How many peaches does Steven have?",
+    "answer": "59871",
+    "func": "print( 46191 + 13680 )"
+  },
+  {
+    "question": "Adam has 4 more apples than Jackie. Together Adam and Jackie have 75849 apples. Bob has 66608 apples more than Adam and Jackie together do.. How many apples does Bob have?",
+    "answer": "142457",
+    "func": "print( 75849 + 66608 )"
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 27985 wrappers and 5071 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.. How many more wrappers than bottle caps did danny find at the park?",
+    "answer": "22914",
+    "func": "print( 27985 - 5071 )"
+  },
+  {
+    "question": "Because of the decision Sofia asked the students to suggest specific types of food. If 86180 students suggested adding mashed potatoes 63202 suggested adding bacon to the menu and 97 suggested adding tomatoes. How many more students suggested mashed potatoes than those that suggested bacon?",
+    "answer": "22978",
+    "func": "print( 86180 - 63202 )"
+  },
+  {
+    "question": "Rachel had to complete 29493 pages of math homework, 14285 pages of reading homework and 29 more pages of biology homework.. How many pages of math and reading homework did she have to complete?",
+    "answer": "43778",
+    "func": "print( 29493 + 14285 )"
+  },
+  {
+    "question": "Danny collects bottle caps. He threw away 45991 of the old ones at the park while he found 36456 bottle caps new ones. Now he has 52 bottle caps in his collection.. How many more bottle caps did danny throw away than those he found at the park?",
+    "answer": "9535",
+    "func": "print( 45991 - 36456 )"
+  },
+  {
+    "question": "Rachel's tree had 48277 apples initially. She picked some apples and now there are 7530 apples left on the tree.. How many apples did rachel pick?",
+    "answer": "40747",
+    "func": "print( 48277 - 7530 )"
+  },
+  {
+    "question": "With 36613 dollars 75349 packs of dvds can be bought.. How much does each pack cost?",
+    "answer": "0.48591222179458254",
+    "func": "print( 36613 / 75349 )"
+  },
+  {
+    "question": "In a school there are 1758 boys and 29744 girls. 26452 more girls joined the school.. How many more girls than boys does the school have?",
+    "answer": "54438",
+    "func": "print( ( 29744 + 26452 ) - 1758 )"
+  },
+  {
+    "question": "During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 73627 by selling t-shirts. If they make $ 81591 dollars off each t-shirt sold. How many t-shirts did they sell?",
+    "answer": "0.9023911951073035",
+    "func": "print( 73627 / 81591 )"
+  },
+  {
+    "question": "Matthew had some crackers. If Matthew gave 88571 crackers to each of his 80523 friends. How many crackers did Matthew have?",
+    "answer": "7132002633",
+    "func": "print( 80523 * 88571 )"
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 9 cups of sugar 84340 cups of flour and 431 cups of salt. She already put in 72973 cups of flour.. How many more cups of flour than cups of salt does she need to add now?",
+    "answer": "10936",
+    "func": "print( ( 84340 - 72973 ) - 431 )"
+  },
+  {
+    "question": "Kelly has 35055 nintendo games.. How many does she need to buy so that she will have 79923 games left?",
+    "answer": "44868",
+    "func": "print( 79923 - 35055 )"
+  },
+  {
+    "question": "Dave had 59 files and 3895 apps on his phone. After deleting some apps and files he had 739 apps and 30 files left.. How many apps did he delete?",
+    "answer": "3156",
+    "func": "print( 3895 - 739 )"
+  },
+  {
+    "question": "Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 20250 apps and 35919 files left.. How many more files than apps does he have left on the phone?",
+    "answer": "15669",
+    "func": "print( 35919 - 20250 )"
+  },
+  {
+    "question": "The Razorback t-shirt shop sells each t-shirt for $ 44642 dollars. During the Arkansas and Texas tech game they increased the prices by $ 46110 per t-shirt and sold 901 t-shirts.. How much money did they make from selling the t-shirts?",
+    "answer": "81767552",
+    "func": "print( ( 44642 + 46110 ) * 901 )"
+  },
+  {
+    "question": "At the arcade Dave had won 74329 tickets. If he used 52532 to buy some toys and 2281 more to buy some clothes. How many tickets did Dave have left?",
+    "answer": "19516",
+    "func": "print( 74329 - ( 52532 + 2281 ) )"
+  },
+  {
+    "question": "Julia played tag with 18696 kids on monday and 97221 kids on tuesday. She played cards with 83092 kids on wednesday.. How many kids did she play with altogether?",
+    "answer": "199009",
+    "func": "print( ( 18696 + 97221 ) + 83092 )"
+  },
+  {
+    "question": "Paul got a box of 267 crayons for his birthday. During the school year he lost 752 crayons while he gave away 4119 crayons to his friends.. How many more crayons did he give to his friends than those he lost?",
+    "answer": "3367",
+    "func": "print( 4119 - 752 )"
+  },
+  {
+    "question": "Each Ferris wheel in paradise park has 97895 seats. Each seat in a Ferris wheel can hold 69632 people.. How many people can ride 28298 Ferris wheels at the same time?",
+    "answer": "192896844062720",
+    "func": "print( ( 97895 * 69632 ) * 28298 )"
+  },
+  {
+    "question": "Rachel picked 49409 ripe apples from her tree. Now the tree has 55129 ripe apples and 27 unripe apples.. How many ripe apples did the tree have to begin with?",
+    "answer": "104538",
+    "func": "print( 49409 + 55129 )"
+  },
+  {
+    "question": "The school is planning a field trip. The school has 102 classrooms. There are 59561 students in the school and 99 seats on each school bus. If 22341 students do n't want to go for the trip. How many students are going on the trip?",
+    "answer": "37220",
+    "func": "print( 59561 - 22341 )"
+  },
+  {
+    "question": "Winter is almost here and most animals are migrating to warmer countries. There are 20732 bird families living near the mountain. 5106 new bird families came to live near the mountain from the arctic while 12126 bird families flew away further south for winter.. How many bird families were left near the mountain?",
+    "answer": "13712",
+    "func": "print( ( 20732 - 12126 ) + 5106 )"
+  },
+  {
+    "question": "The Ferris wheel in paradise park has 94682 seats. Each seat can hold 42518 people. If there are 50911 people on the wheel right now. How many more people can join the wheel?",
+    "answer": "4025494594",
+    "func": "print( ( 94682 * 42518 ) - 194682 )"
+  },
+  {
+    "question": "Robin's hair was 74496 inches long. If he grew 78249 more inches. How long is his hair now?",
+    "answer": "152745",
+    "func": "print( 74496 + 78249 )"
+  },
+  {
+    "question": "In a school there are 11236 girls and 811 boys. 6996 more girls joined the school.. How many girls are there in the school now?",
+    "answer": "18232",
+    "func": "print( 11236 + 6996 )"
+  },
+  {
+    "question": "Baker made 20493 pastries and 5159 cakes. If he sold 140 cakes and 92 pastries. How many more pastries than cakes did baker make?",
+    "answer": "15334",
+    "func": "print( 20493 - 5159 )"
+  },
+  {
+    "question": "Brenda's mother made 98986 cookies for 81082 guests. If each of them had the same number of cookies. How many did each of them have?",
+    "answer": "1.2208134974470288",
+    "func": "print( 98986 / 81082 )"
+  },
+  {
+    "question": "Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. She found 6623 bags of cans on the next day and 88439 bags of cans the day after that.. How many bags did she find after monday?",
+    "answer": "95062",
+    "func": "print( 6623 + 88439 )"
+  },
+  {
+    "question": "If the cave is 10794 feet deep and they need to travel 35766 feet. How far is the end of the cave?",
+    "answer": "46560",
+    "func": "print( 10794 + 35766 )"
+  },
+  {
+    "question": "The Razorback t-shirt shop makes $ 106 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 58180 t-shirts. If they sold 43381 t-shirts during the Arkansas game. How many t-shirts did they sell during the Texas tech game?",
+    "answer": "14799",
+    "func": "print( 58180 - 43381 )"
+  },
+  {
+    "question": "We ordered 55677 pizzas. Each pizza has 63757 slices. If there are 79671 of us. How many slices of pizza does each of us get if distributed equally?",
+    "answer": "44555.716496592235",
+    "func": "print( 55677 * ( 63757 / 79671 ) )"
+  },
+  {
+    "question": "Ed had 27144 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 58040 more marbles than doug.. How many marbles did Doug lose?",
+    "answer": "30896",
+    "func": "print( 58040 - 27144 )"
+  },
+  {
+    "question": "Bobby had 35905 pieces of candy. He ate 14128 pieces of candy.. How many pieces of candy does he still have left?",
+    "answer": "21777",
+    "func": "print( 35905 - 14128 )"
+  },
+  {
+    "question": "A mailman has to give 99052 pieces of junk mail to each house in each of the 81 blocks. If there are 67255 houses in each block. How many pieces of junk mail should he give in each block?",
+    "answer": "6661742260",
+    "func": "print( 99052 * 67255 )"
+  },
+  {
+    "question": "Frank was reading through his favorite book. It took him 45343 days to finish the book. If the book had 15019 pages. How many pages did he read per day?",
+    "answer": "0.33123084048254414",
+    "func": "print( 15019 / 45343 )"
+  },
+  {
+    "question": "David did 27 more push-ups but 7 less crunches than Zachary in gym class today. If Zachary did 7268 push-ups and 56450 crunches. How many more crunches than push-ups did Zachary do?",
+    "answer": "49182",
+    "func": "print( 56450 - 7268 )"
+  },
+  {
+    "question": "Jerry had 31892 action figures on a shelf in his room. Later he added some more action figures to the shelf. If there are a total of 37226 action figures on his shelf now. How many action figures did he add to the shelf?",
+    "answer": "5334",
+    "func": "print( 37226 - 31892 )"
+  },
+  {
+    "question": "Julia played tag with 69167 kids on monday. She played tag with 87543 kids on tuesday. She spent a total of 34 hours to play tag on both days.. How many kids did she play with altogether?",
+    "answer": "156710",
+    "func": "print( 69167 + 87543 )"
+  },
+  {
+    "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 144 chocolate chip cookies and 40526 raisin cookies yesterday. And she baked 6053 raisin cookies and 403 chocolate chip cookies this morning.. How many raisin cookies did Helen bake?",
+    "answer": "46579",
+    "func": "print( 40526 + 6053 )"
+  },
+  {
+    "question": "Faye had 29004 packs of pencils each one having 51908 pencils. She was placing her pencils into rows with 19 pencils in each row.. How many pencils does she have?",
+    "answer": "1505539632",
+    "func": "print( 29004 * 51908 )"
+  },
+  {
+    "question": "The Razorback t-shirt shop makes $ 7281 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $ 78655 by selling t-shirts.. How many t-shirts did they sell?",
+    "answer": "10.802774344183492",
+    "func": "print( 78655 / 7281 )"
+  },
+  {
+    "question": "Baker made 27787 cakes. He sold 563 of them. Then he made 25145 more cakes.. How many more cakes did baker make than those he sold?",
+    "answer": "52369",
+    "func": "print( ( 27787 + 25145 ) - 563 )"
+  },
+  {
+    "question": "Next on his checklist is wax to stick the feathers together. He needs 18970 g of wax more. If the feathers require a total of 33592 g of wax. How many grams of wax does he already have?",
+    "answer": "14622",
+    "func": "print( 33592 - 18970 )"
+  },
+  {
+    "question": "Bryan took a look at his books as well. He has 15827 bookshelves with each having the same number of books. If he has a total of 43108 books. How many books are there in each bookshelf?",
+    "answer": "2.723700006318317",
+    "func": "print( 43108 / 15827 )"
+  },
+  {
+    "question": "Julia played tag with 2 kids on monday, 1114 kids on tuesday and 65294 kids on wednesday.. How many kids did she play with on tuesday and wednesday?",
+    "answer": "66408",
+    "func": "print( 1114 + 65294 )"
+  },
+  {
+    "question": "Ed had 98013 more marbles than Doug. Doug lost 56547 of his marbles at the playground while Ed found 23129 more marbles.. How many more marbles did Ed have than Doug then?",
+    "answer": "177689",
+    "func": "print( ( 98013 + 56547 ) + 23129 )"
+  },
+  {
+    "question": "Paige was helping her mom plant flowers and together they planted some seeds. They put 49935 seeds in each flower bed. If there are 69907 flowerbeds. How many seeds did they plant?",
+    "answer": "3490806045",
+    "func": "print( 49935 * 69907 )"
+  },
+  {
+    "question": "Emily is making bead necklaces for her 72 friends. She has 92332 beads and each necklace takes 30262 beads.. How many necklaces can Emily make?",
+    "answer": "3.05108717203093",
+    "func": "print( 92332 / 30262 )"
+  },
+  {
+    "question": "Julia played tag with 65671 kids on monday, 46422 kids on tuesday and 96 kids on wednesday.. How many more kids did she play with on monday than on tuesday?",
+    "answer": "19249",
+    "func": "print( 65671 - 46422 )"
+  },
+  {
+    "question": "Jessie weighed 9548 kilograms. After she started to go jogging everyday she lost 6506 kilograms in the first week and 3040 kilograms in the second week.. How much does she weigh now?",
+    "answer": "2",
+    "func": "print( ( 9548 - 6506 ) - 3040 )"
+  },
+  {
+    "question": "A book has 3 chapters. The first chapter is 5645 pages long the second chapter is 3574 pages long and the third chapter is 25 pages long.. How many more pages does the first chapter have than the second chapter?",
+    "answer": "2071",
+    "func": "print( 5645 - 3574 )"
+  },
+  {
+    "question": "Debby bought 95 soda bottles and 2557 water bottles when they were on sale. If she drank 60361 water bottles and 54 soda bottles a day. How many days would the water bottles last?",
+    "answer": "0.04236178989745034",
+    "func": "print( 2557 / 60361 )"
+  },
+  {
+    "question": "Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 5130 baseball cards and 10306 Ace cards left.. How many more Ace cards than baseball cards does Nell have?",
+    "answer": "5176",
+    "func": "print( 10306 - 5130 )"
+  },
+  {
+    "question": "Jake brought 75566 balloons to the park. If Jake brought 56268 more balloons than the number of balloons that Allan brought. How many balloons did Allan bring to the park?",
+    "answer": "19298",
+    "func": "print( 75566 - 56268 )"
+  },
+  {
+    "question": "Baker made 75257 cakes. Then he made 53009 more cakes. He sold 20977 of them.. How many more cakes did baker make than those he sold?",
+    "answer": "107289",
+    "func": "print( ( 75257 + 53009 ) - 20977 )"
+  },
+  {
+    "question": "Robin cut off 54848 inches of his hair. If his hair is now 38048 inches long. How long was his hair before he cut?",
+    "answer": "92896",
+    "func": "print( 54848 + 38048 )"
+  },
+  {
+    "question": "Jack received 5 emails and 15197 letters in the morning. He then received 9 emails and 53189 letters in the afternoon.. How many letters did jack receive in the day?",
+    "answer": "68386",
+    "func": "print( 15197 + 53189 )"
+  },
+  {
+    "question": "Robin has 2834 packages of gum and 13 packages of candy. There are 42669 pieces in each package.. How many pieces of gum does Robin have?",
+    "answer": "120923946",
+    "func": "print( 2834 * 42669 )"
+  },
+  {
+    "question": "Every day Ryan spends 22628 hours on learning english and 81119 hours on learning chinese. If he learns for 86 days. How many hours does he spend on learning english and chinese each day?",
+    "answer": "103747",
+    "func": "print( 22628 + 81119 )"
+  },
+  {
+    "question": "Lucy went to the grocery store. She bought 90489 packs of cookie and 47429 packs of cake.. How many more packs of cookie did she buy over cake?",
+    "answer": "43060",
+    "func": "print( 90489 - 47429 )"
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 11652 bottle caps and 7156 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.. How many more bottle caps than wrappers did danny find at the park?",
+    "answer": "4496",
+    "func": "print( 11652 - 7156 )"
+  },
+  {
+    "question": "Last week Fred had 13976 dollars and Jason had 99 dollars. Over the weekend Fred delivered newspapers earning 31992 dollars and washed cars earning 57205 dollars.. How much money does Fred have now?",
+    "answer": "103173",
+    "func": "print( ( 13976 + 31992 ) + 57205 )"
+  },
+  {
+    "question": "Friends of Katie had 52488 games and she had 77285 ds games.. How many more games does Katie have than her friends?",
+    "answer": "24797",
+    "func": "print( 77285 - 52488 )"
+  },
+  {
+    "question": "Adam has 68777 more apples than Jackie. Jackie has 89 oranges and 10409 apples.. How many apples does Adam have?",
+    "answer": "79186",
+    "func": "print( 68777 + 10409 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 20335 sacks of unripe oranges and 51974 sacks of ripe oranges per day.. How many more sacks of ripe oranges than unripe oranges are harvested per day?",
+    "answer": "31639",
+    "func": "print( 51974 - 20335 )"
+  },
+  {
+    "question": "For Gwen's birthday she received 44501 dollars from her mom. Her dad gave her 97855 more dollars. If she spent 4 dollars.. How much more money did she receive from her dad than she did from her mom?",
+    "answer": "53354",
+    "func": "print( 97855 - 44501 )"
+  },
+  {
+    "question": "A mailman has to give 29142 pieces of junk mail to each house in each block. If there are 43756 houses on a block. How many pieces of junk mail should he give in each block?",
+    "answer": "1275137352",
+    "func": "print( 29142 * 43756 )"
+  },
+  {
+    "question": "Robin has some packages of gum. There are 10112 pieces in each package and a total of 22138 pieces of gum.. How many packages does Robin have?",
+    "answer": "2.189280063291139",
+    "func": "print( 22138 / 10112 )"
+  },
+  {
+    "question": "Nell collects baseball cards. She had 14946 cards while Jeff had 67011 cards. She gave some of her cards to Jeff and now has 34774 cards left.. How many cards does Jeff have now?",
+    "answer": "47183",
+    "func": "print( ( 67011 + 14946 ) - 34774 )"
+  },
+  {
+    "question": "Lewis earns $ 66941 every week during the 25416 weeks of harvest. If he has to pay $ 22897 tax. How much money will have at the end of the harvest season?",
+    "answer": "1701349559",
+    "func": "print( ( 66941 * 25416 ) - 22897 )"
+  },
+  {
+    "question": "At the stop 95440 more people got on the train. Initially there were 46120 people on the train.. How many people are there on the train now?",
+    "answer": "141560",
+    "func": "print( 46120 + 95440 )"
+  },
+  {
+    "question": "Every day Ryan spends 84700 hours on learning english 19459 hours on learning chinese and 31069 hours on learning spanish.. How many hours does he spend on learning english, chinese and spanish in all?",
+    "answer": "135228",
+    "func": "print( ( 84700 + 19459 ) + 31069 )"
+  },
+  {
+    "question": "An industrial machine can make 33651 shirts a minute. It made 13575 shirts yesterday and 19295 shirts today.. How many minutes did the machine work in all?",
+    "answer": "0.9767911800540846",
+    "func": "print( ( 13575 + 19295 ) / 33651 )"
+  },
+  {
+    "question": "A waiter had 12 customers. After some left he still had 25957 customers. Then he got 22841 new customers. How many customers does he have now?",
+    "answer": "48798",
+    "func": "print( 25957 + 22841 )"
+  },
+  {
+    "question": "Jack received 20037 emails in the morning, 49822 emails in the afternoon and some more in the evening. If he received a total of 79058 emails in the day. How many emails did Jack receive in the afternoon?",
+    "answer": "9199",
+    "func": "print( 79058 - ( 20037 + 49822 ) )"
+  },
+  {
+    "question": "Jack received a total of 99604 emails in the day. If he received 85919 emails in the morning and some more in the afternoon. How many emails did Jack receive in the afternoon?",
+    "answer": "13685",
+    "func": "print( 99604 - 85919 )"
+  },
+  {
+    "question": "Jake has 9977 fewer peaches than Steven and 23319 more peaches than Jill. Steven has 16 peaches.. How many more peaches does Steven have than Jill?",
+    "answer": "33296",
+    "func": "print( 9977 + 23319 )"
+  },
+  {
+    "question": "Together Adam and Jackie have 82407 apples. He has 64865 apples more than adam and jackie together do.. How many apples does he have?",
+    "answer": "147272",
+    "func": "print( 82407 + 64865 )"
+  },
+  {
+    "question": "Jerry had some action figures on a shelf in his room. Later he added 49444 more action figures to the shelf. If there are a total of 60912 action figures on his shelf now. How many action figures did he have initially on the shelf?",
+    "answer": "11468",
+    "func": "print( 60912 - 49444 )"
+  },
+  {
+    "question": "Baker made 73990 cakes. If he sold 58839 of them. How many more cakes did baker make than those he sold?",
+    "answer": "15151",
+    "func": "print( 73990 - 58839 )"
+  },
+  {
+    "question": "Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 89378 of them and only had 74090 left.. How many crayons did he get for his birthday?",
+    "answer": "163468",
+    "func": "print( 89378 + 74090 )"
+  },
+  {
+    "question": "Julia played tag with 84379 kids on monday, 9 kids on tuesday and 83370 kids on wednesday.. How many kids did she play with on monday and wednesday?",
+    "answer": "268758",
+    "func": "print( 84379 + 184379 )"
+  },
+  {
+    "question": "Jake has 42464 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 82311 apples.. How many apples does Jake have?",
+    "answer": "124775",
+    "func": "print( 42464 + 82311 )"
+  },
+  {
+    "question": "Baker made 9894 pastries and 41537 cakes. If he sold 102 cakes and 94 pastries. How many more cakes than pastries did baker make?",
+    "answer": "31643",
+    "func": "print( 41537 - 9894 )"
+  },
+  {
+    "question": "Because of the decision Sofia asked 57741 students to suggest specific types of food. 4476 students suggested adding bacon while others suggested adding mashed potatoes to the menu.. How many students suggested mashed potatoes?",
+    "answer": "53265",
+    "func": "print( 57741 - 4476 )"
+  },
+  {
+    "question": "At the arcade Dave had won some tickets. He used 61563 tickets to buy some toys. If he still has 58062 tickets left. How many tickets did Dave win at the arcade?",
+    "answer": "119625",
+    "func": "print( 61563 + 58062 )"
+  },
+  {
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 82857 sacks per day and that each sack containes 39792 oranges.. How many oranges do they harvest per day?",
+    "answer": "3297045744",
+    "func": "print( 82857 * 39792 )"
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 82 wrappers and 3682 bottle caps at the park. Now he has 36103 bottle caps and 61 wrappers in his collection.. How many bottle caps did danny have at first?",
+    "answer": "32421",
+    "func": "print( 36103 - 3682 )"
+  },
+  {
+    "question": "Winter is almost here and most animals are migrating to warmer countries. There are some bird families living near the mountain. 46230 bird families flew away for winter while 66598 bird families stayed behind.. How many bird families were living near the mountain at the start?",
+    "answer": "112828",
+    "func": "print( 46230 + 66598 )"
+  },
+  {
+    "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 9825 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 5086 chocolate chip cookies this morning.. How many more chocolate chip cookies did Helen bake yesterday compared to today?",
+    "answer": "4739",
+    "func": "print( 9825 - 5086 )"
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 29617 cups of sugar and 60622 cups of flour. She already put in 1233 cups of sugar.. How many more cups of flour than cups of sugar does she need to add now?",
+    "answer": "32238",
+    "func": "print( 60622 - ( 29617 - 1233 ) )"
+  },
+  {
+    "question": "Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 3021 pounds. If together their strawberries weighed 7557 pounds.. How much did Marco's strawberries weigh?",
+    "answer": "4536",
+    "func": "print( 7557 - 3021 )"
+  },
+  {
+    "question": "4 birds and 37728 storks were sitting on the fence. 10158 more storks came to join them.. How many storks are sitting on the fence?",
+    "answer": "47886",
+    "func": "print( 37728 + 10158 )"
+  },
+  {
+    "question": "Debby bought 200 water bottles and 84598 soda bottles when they were on sale. If she drank 312 water bottles and 11936 soda bottles a day. How many days would the soda bottles last?",
+    "answer": "7.087634048257373",
+    "func": "print( 84598 / 11936 )"
+  },
+  {
+    "question": "Rachel picked 80711 ripe apples from her tree. Now the tree has 7 apples still on it. If 77968 of those are ripe and the rest are unripe. How many ripe apples did the tree have to begin with?",
+    "answer": "158679",
+    "func": "print( 80711 + 77968 )"
+  },
+  {
+    "question": "Tiffany was collecting cans for recycling. On monday she had 66563 bags of cans. The next day she found 50495 more bags of cans and 44 bags of bottles.. How many bags of cans did she have altogether?",
+    "answer": "117058",
+    "func": "print( 66563 + 50495 )"
+  },
+  {
+    "question": "Emily is making bead necklaces for her friends. She had 76165 beads and she was able to make 60749 necklaces.. How many beads did each necklace need?",
+    "answer": "0.7975973216044114",
+    "func": "print( 60749 / 76165 )"
+  },
+  {
+    "question": "Some children were riding on the bus. At the bus stop 5377 more children got on the bus. Then there were 72756 children altogether on the bus.. How many children were riding on the bus before the bus stop?",
+    "answer": "67379",
+    "func": "print( 72756 - 5377 )"
+  },
+  {
+    "question": "Every day Ryan spends 59048 hours on learning english and some more hours on learning chinese. If he spends 53073 hours more on learning english than on learning chinese. How many hours does he spend on learning chinese?",
+    "answer": "5975",
+    "func": "print( 59048 - 53073 )"
+  }
+]

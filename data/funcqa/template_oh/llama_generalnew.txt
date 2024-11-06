@@ -1,0 +1,18 @@
+Question: If Amy's income increases by 4% annually, how many times will it multiply in 11 years?
+Answer: In 11 years, Amy's income will increase by 1.04^11=1.54 times.
+#### 1.54
+
+Question: If a store sells 147 bananas today and 354 more bananas tomorrow, how many bananas does the store sell in total?
+Answer: The store sells 147 bananas today and 354 more bananas tomorrow, so the total number of bananas sold is 147+354=501.
+#### 501
+
+Question: A man had 789.4 dollars in his wallet. He spent 11.99 dollars on a movie ticket. How much money does he have left now?
+Answer: The man had 789.4 dollars in his wallet and spent 11.99 dollars on a movie ticket, so he has 789.4-11.99=777.41 dollars left.
+#### 777.41
+
+Question: If a cake weighs 3.77 pounds and is divided into 13 equal pieces, how much does each piece weight?
+Answer: Each piece of the cake weighs 3.77/13=0.29 pounds.
+#### 0.29
+
+Question: [QUESTION]
+Answer:
