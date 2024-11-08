@@ -1,3 +1,12 @@
+Official repository for [Meta-Reasoning Improves Tool Use in Large Language Models](https://arxiv.org/abs/2411.04535)
+
+
+
+![ToolDec](./figures/main.png)
+
+
+### Instructions
+
 To fine-tune tool tokens for Llama 3 8B-instruct on GSM8K-XL:
 
 ````
