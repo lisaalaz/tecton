@@ -5,7 +5,7 @@ Official repository for [Meta-Reasoning Improves Tool Use in Large Language Mode
 ![ToolDec](./figures/main.png)
 
 
-### Instructions
+## Instructions
 
 Before running the repository, the Llama3 8B Instruct checkpoint must be obtained. See instructions [here](https://github.com/meta-llama/llama3).
 
@@ -53,4 +53,18 @@ CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.run --nproc_per_node 1 --mast
 --dataset gsm8k-xl \
 --func_load_path checkpoints/best_checkpoint.pth \
 --logits_bias 3.0
+````
+
+## Citation
+
+````bibtex
+@misc{alazraki2024metareasoningimprovestooluse,
+      title={Meta-Reasoning Improves Tool Use in Large Language Models}, 
+      author={Lisa Alazraki and Marek Rei},
+      year={2024},
+      eprint={2411.04535},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.04535}, 
+}
 ````
